@@ -1,0 +1,149 @@
+[{
+  "_id": {
+    "$oid": "605b6af1caecaa1298297439"
+  },
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "sku": "8086",
+  "slug": "enk-410s",
+  "isAccessoryOrSparePartFor": "Emax EVOlution",
+  "details": {
+    "@type": "Thing",
+    "name": "ENK-410S - mongodb",
+    "alternateName": "Standard Type Motor",
+    "description": "Excellent combination of high speed, lightweight, small diameter and high torque. This lighweight and compact general-use type is perfect for precision work. 1,000~40,000 rpm.",
+    "image": "",
+    "catalog": ""
+  },
+  "toolType": "Hand Tools",
+  "productCategory": "Motors",
+  "productType": "Electric",
+  "tags": "Hand Tools, Motors, Electric, Standard Type Motor, Deburring, Grinding,Polishing, Ergonomic",
+  "inProductGroupWithID": ""
+},{
+  "_id": {
+    "$oid": "605b6af1caecaa129829743a"
+  },
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "sku": "8060",
+  "isAccessoryOrSparePartFor": "Emax EVOlution",
+  "details": {
+    "@type": "Thing",
+    "name": "HA-500 - mongodb",
+    "alternateName": "Hammer Attachment",
+    "description": "Stroke speed: 25~5,000 strokes/min. Light weight, pencil type grip makes the handpiece very comfortable to hold and easy to use. Adjustable spring pressure. Self lubricating hammer mechanism ensure excellent durability.",
+    "image": "",
+    "catalog": ""
+  },
+  "toolType": "Hand Tools",
+  "productCategory": "Attachments",
+  "productType": "Electric",
+  "tags": "Hand Tools, Attachments, Electric, Hammer Attachment, Deburring, Grinding,Polishing, Ergonomic",
+  "inProductGroupWithID": ""
+},{
+  "_id": {
+    "$oid": "605b6af1caecaa129829743b"
+  },
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "sku": "1146",
+  "isAccessoryOrSparePartFor": "Emax EVOlution",
+  "details": {
+    "@type": "Thing",
+    "name": "KBS-101 - mongodb",
+    "alternateName": "Fine Belt Sander",
+    "description": "Light-weight, compact, minimal vibration and a small diameter grip design keep the hand free from fatigue for long, continuous operation. When polishing a curved surface, the tension between the front and central pulley can be utilized. When polishing a flat surface or a groove, use the flat part of belt.",
+    "image": "",
+    "catalog": ""
+  },
+  "toolType": "Hand Tools",
+  "productCategory": "Attachments",
+  "productType": "Electric, Pneumatic",
+  "tags": "Hand Tools, Attachments, Electric, Pneumatic, Fine Belt Sander, Deburring, Grinding,Polishing,Ergonomic",
+  "inProductGroupWithID": ""
+},{
+  "_id": {
+    "$oid": "605b6af1caecaa129829743c"
+  },
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "sku": "1009",
+  "isAccessoryOrSparePartFor": "Emax EVOlution",
+  "details": {
+    "@type": "Thing",
+    "name": "RG-01 - mongodb",
+    "alternateName": "Speed Reducer",
+    "description": "The speed is reduced to 1/4 but the torque is multiplied by 4 times.",
+    "image": "",
+    "catalog": ""
+  },
+  "toolType": "Accessories",
+  "productCategory": "Reducers",
+  "productType": "Electric, Pneumatic",
+  "tags": "Accessories, Reducers, Electric, Pneumatic, Speed Reducer, Deburring, Grinding,Polishing",
+  "inProductGroupWithID": ""
+},{
+  "_id": {
+    "$oid": "605b6af1caecaa129829743d"
+  },
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "sku": "8090",
+  "isAccessoryOrSparePartFor": "Emax EVOlution",
+  "details": {
+    "@type": "Thing",
+    "name": "ENKCD-410C - mongodb",
+    "alternateName": "Motor Cord (Standard Motor)",
+    "description": "Coiled Cord. 4.5 ft. with switch.",
+    "image": "",
+    "catalog": ""
+  },
+  "toolType": "Accessories",
+  "productCategory": "Motor Cord",
+  "productType": "Electric",
+  "tags": "Accessories, Motor Cord, Electric, Motor Cord (Standard Motor), Deburring, Grinding,Polishing",
+  "inProductGroupWithID": ""
+},{
+  "_id": {
+    "$oid": "605b6af1caecaa129829743e"
+  },
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "sku": "8106",
+  "isAccessoryOrSparePartFor": "Emax EVOlution",
+  "details": {
+    "@type": "Thing",
+    "name": "FC-64 - mongodb",
+    "alternateName": "Foot Pedal",
+    "description": "Used as an ON/OFF switch as well as a variable speed control.",
+    "image": "",
+    "catalog": ""
+  },
+  "toolType": "Accessories",
+  "productCategory": "Foot Pedals",
+  "productType": "Electric",
+  "tags": "Accessories, Foot Pedals, Electric, Foot Pedals, Deburring, Grinding,Polishing",
+  "inProductGroupWithID": ""
+},{
+  "_id": {
+    "$oid": "605b6af1caecaa129829743f"
+  },
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "sku": "9093",
+  "isAccessoryOrSparePartFor": "Espert-500",
+  "details": {
+    "@type": "Thing",
+    "name": "ENKCD-50C - mongodb",
+    "alternateName": "Compact Motor Cord",
+    "description": "4.5 feet long.",
+    "image": "",
+    "catalog": ""
+  },
+  "toolType": "Accessories",
+  "productCategory": "Motor Cord",
+  "productType": "Electric",
+  "tags": "Accessories, Compact Motor Cord, Electric, Deburring, Grinding,Polishing",
+  "inProductGroupWithID": ""
+}]

@@ -1,0 +1,126 @@
+[
+  {
+    "_id": {
+      "$oid": "60887d8899ee561cb43eca94"
+    },
+    "name": "Technical Questions",
+    "toUser": {
+      "from": "",
+      "cc": [
+        {
+          "text": "hello",
+          "tiClasses": [
+            "ti-valid"
+          ]
+        },
+        {
+          "text": "hi",
+          "tiClasses": [
+            "ti-valid"
+          ]
+        },
+        {
+          "text": "sad",
+          "tiClasses": [
+            "ti-valid"
+          ]
+        },
+        {
+          "text": "hi hi",
+          "tiClasses": [
+            "ti-valid"
+          ]
+        }
+      ],
+      "bcc": [
+        {
+          "text": "hello",
+          "tiClasses": [
+            "ti-valid"
+          ]
+        },
+        {
+          "text": "hi",
+          "tiClasses": [
+            "ti-valid"
+          ]
+        },
+        {
+          "text": "sad",
+          "tiClasses": [
+            "ti-valid"
+          ]
+        },
+        {
+          "text": "hi hi",
+          "tiClasses": [
+            "ti-valid"
+          ]
+        }
+      ],
+      "emailContent": {
+        "subject": "",
+        "body": ""
+      }
+    },
+    "toNsk": {
+      "from": "",
+      "cc": [
+        {
+          "text": "hello",
+          "tiClasses": [
+            "ti-valid"
+          ]
+        },
+        {
+          "text": "hi",
+          "tiClasses": [
+            "ti-valid"
+          ]
+        },
+        {
+          "text": "sad",
+          "tiClasses": [
+            "ti-valid"
+          ]
+        },
+        {
+          "text": "hi hi",
+          "tiClasses": [
+            "ti-valid"
+          ]
+        }
+      ],
+      "bcc": [
+        {
+          "text": "hello",
+          "tiClasses": [
+            "ti-valid"
+          ]
+        },
+        {
+          "text": "hi",
+          "tiClasses": [
+            "ti-valid"
+          ]
+        },
+        {
+          "text": "sad",
+          "tiClasses": [
+            "ti-valid"
+          ]
+        },
+        {
+          "text": "hi hi",
+          "tiClasses": [
+            "ti-valid"
+          ]
+        }
+      ],
+      "emailContent": {
+        "subject": "",
+        "body": ""
+      }
+    }
+  }
+]

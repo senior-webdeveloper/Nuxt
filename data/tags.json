@@ -1,0 +1,25 @@
+//just thinking if this will work for the schema? although, of course, pls update as necessary
+
+{
+"tags": [{
+  "id": "",
+  "text": "Spain", //this is the tag
+  "section": "FAQ" //this is the section where the tag appears
+}, {
+  "id": "",
+  "text": "Japan",
+  "section": "FAQ"
+}, {
+  "id": "",
+  "text": "Collets",
+  "section": "Videos"
+}, {
+  "id": "",
+  "text": "Hand Tools",
+  "section": "Videos"
+}, {
+  "id": "",
+  "text": "2021",
+  "section": "News"
+}]
+}

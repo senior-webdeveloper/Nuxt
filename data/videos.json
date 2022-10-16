@@ -1,0 +1,14 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "title": "", 
+  "description": "",
+  "videoUpload": "",
+  "videoEmbedCode": "",
+  "thumbnail": "",
+  "tags": "", //LATER ON, this will use the tags package. sample is in FAQ CMS
+  "createdAt": "", //automatic
+  "updatedAt": "", //automatic
+}
+</script>

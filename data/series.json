@@ -1,0 +1,249 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "description": "Digital display enhances safety and efficiency. Compact and functional design makes the unit portable. Soft-touch switches permit easy operation and long service life.",
+    "features": [
+      "Digital display enhances safety and efficiency",
+      "Compact and functional design makes the unit portable",
+      "Soft touch switches permit easy operation and long service life",
+      "NAKANISHI Smart Switch",
+      "High performance samarium cobalt magnet",
+      "High accuracy, lightweight, high reliability and superior durability",
+      "Major reduction of RF noise",
+      "Provides extremely quiet operation from low to high speed with stepless speed adjustment"
+    ],
+    "specifications": [
+      ["Motor Model", "ENK-410S", "ENK250T"],
+      ["Speed", "1,000-40,000 min-1( rpm)", "1,000-25,000 min-1(rpm)"],
+      ["Weight (w/o Cord)", "3.17 oz.", "5.19 oz."],
+      ["Max. Torque", "4.3 cN·m", "4.8 cN·m" ],
+      ["Output Power", "73W", "76W" ]
+    ],
+      "downloads": [
+        {
+            "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/pdf/test-pdf.pdf",
+            "label": "first Download"
+        },
+        {
+            "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/pdf/test-pdf.pdf",
+            "label": "second Download"
+        }
+      ],
+      "video": {
+        "provider" : "youtube",
+        "videoEmbedId": "https://www.youtube.com/embed/AM20txE0V8o"
+      },  
+    "name": "Emax EVOlution",
+    "slugForUrl": "emax-evolution",
+    "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/products/8224.jpg",
+    "category": "hand tools",
+    "handToolCategory": "electric hand grinder",
+    "tags": [
+      "hand tools", "electric hand grinder", "electric"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "description": "The ROTUS system is a hand-held grinder with an energy saving air motor. Since it is an air driven system, there is virtually no heat generation resulting in excellent durability. Select from a variety of attachments depending on the application.",
+    "features": [
+      "High torque air motor assembled with special vane mechanism",
+      "Two types of air motors can be selected depending on the application",
+      "1/4 and 1/15 speed reducers (RG-01, RG-02) can be connected"
+    ],
+    "specifications": [
+      ["Model", "Rotus"],
+      ["Speed", "Max. 30,000 min-1(rpm) (56PSI)"],
+      ["Proper Air Pressure", "42-63PSI"],
+      ["Air Consumption", "2.65CFM"],
+      ["Output Power", "46W (motor)"],
+      ["Max. Torque", "6.6 cN · m (56PSI)"],
+      ["Motor", "Air motor IM-301"],
+      ["Dimensions", "Air motor (IM-301) + Attachment (IR-310)"],
+      ["Weight", "Air motor (IM-301) + Attachment (IR310): 6.63 oz."]
+    ],
+    "catalogPage": "23",
+
+      "video": {
+        "provider" : "youtube",
+        "videoEmbedId": "https://www.youtube.com/embed/AM20txE0V8o"
+      },  
+    "name": "Rotus",
+    "slugForUrl": "rotus",
+    "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/products/8224.jpg",
+    "category": "hand tools",
+    "handToolCategory": "pneumatic hand grinder",
+    "catalog": "https://nsk.nyc3.cdn.digitaloceanspaces.com/series/pdfs/iSpeed5.pdf",
+    "tags": [
+      "hand tools", "pneumatic hand grinder"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "description": "The E2000 Series employs a high-speed, ultra-quiet brushless motor. A high-performance system and state of the art design provides high-speed machining and a variety of safety functions.",
+    "features": [
+      "Maximum Output 200W",
+      "Brushless DC Motor designs for excellent reliability and durability",
+      "Air-cooled motor uses a small volume of dry air (1.0 CFM) to minimize heat buildup and allow continuous operation",
+      "Wide variety of interchangeable spindles are available",
+      "Safe protection function",
+      "Centering mode switch",
+      "2 motors can be connected (No simultaneous operation)",
+      "Compact vertical control unit",
+      "Power source auto detection",
+      "Stainless steel body",
+      "Emergency stop function"
+    ],
+    "catalogPage": "23",
+      "downloads": [
+        {
+            "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/pdf/test-pdf.pdf",
+            "label": "first Download"
+        },
+        {
+            "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/pdf/test-pdf.pdf",
+            "label": "second Download"
+        }
+      ],
+      "video": {
+        "provider" : "youtube",
+        "videoEmbedId": "https://www.youtube.com/embed/AM20txE0V8o"
+      },  
+    "name": "E2000",
+    "slugForUrl": "e2000",
+    "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/products/8224.jpg",
+    "category": "machining spindles",
+    "machiningSpindlesCategory": "high-speed electric spindles",
+    "catalog": "https://nsk.nyc3.cdn.digitaloceanspaces.com/series/pdfs/iSpeed5.pdf",
+    "tags": [
+      "machining spindles", "high-speed electric spindles"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "description": "New compact, high speed, precision spindles for upgrading your CNC turning, milling, and swiss style machines.",
+    "features": [
+      "Max motor speed 60,000/80,000 min-1(rpm)",
+      "Maximum motor output with 350W power supply",
+      "Motor spindle diameter",
+      "Air-cooling system",
+      "Spindle accuracy",
+      "High rigidity, short body",
+      "Motor connector attaches directly to the back of the motor/spindle",
+      "Power source auto detection",
+      "Protection system, external Input/Output control signal",
+      "Use E2550 Motor and Spindle with E3000 Control Unit",
+      "ø0.897″(ø22.8 mm) spindle usage",
+      "Centering mode switch"
+    ],
+    "name": "E3000",
+    "slugForUrl": "e3000",
+    "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/products/8224.jpg",
+    "category": "machining spindles",
+    "machiningSpindlesCategory": "high-speed electric spindles",
+    "catalog": "https://nsk.nyc3.cdn.digitaloceanspaces.com/series/pdfs/iSpeed5.pdf",
+    "tags": [
+      "machining spindles", "high-speed electric spindles"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "description": "The MA Series has been designed to operate smoothly at high speeds for long continuous cutting and grinding by connecting an air line kit directly between the air compressor and the air motor. Separate motors and spindles provide flexible application changes. Easy to interchange the components",
+    "features": [
+      "Gang slide NC lathe can be transformed into complex machining centers",
+      "Specialized machine design will be made compact and universal",
+      "Mounting MA Series on existing equipment can eliminate secondary operations or the equipment can be turned into a special purpose machine",
+      "Applicable to secondary operation machines, single purpose machines or special machining and grinding machines",
+      "The air motors are explosion proof and do not generate heat even in continuous use",
+      "When the MA Series is used at low motor speeds, a speed reducer (AR-01, or other selections) is added to obtain the speed of your choice",
+      "A collet, Jacobs Drill Chuck, saw arbor and grinding stone arbor are available for grinding, drilling, milling, slitting, chamfer and deburring operations"
+    ],
+    "name": "MA Series",
+    "slugForUrl": "ma-series",
+    "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/products/8224.jpg",
+    "category": "machining spindles",
+    "machiningSpindlesCategory": "High-Speed Pneumatic Spindles",
+    "catalog": "https://nsk.nyc3.cdn.digitaloceanspaces.com/series/pdfs/iSpeed5.pdf",
+    "tags": [
+      "machining spindles", "High-Speed Pneumatic Spindles"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "description": "The Sheenus ZERO can be used for grinding, polishing and mirror finishing on a wide range of materials from aluminum dies to cemented carbide dies. It is also perfect for plastic molds, press, casting, forging, trimming and header dies. This tool quickly removes hard layers of EDM deposits and polishes difficult areas such as complex corners and ribs. Capabilities include bur removal, grinding and polishing of precision molds, dies electronic and ceramic components.",
+    "specifications": [
+      ["Unit Model", "NE330 120V"],
+      ["Power Source", "AC120V/240V, 50-60Hz"],
+      ["Power consumption", "100VA"],
+      ["Dimensions", "W6.34″ x D10.08″ x H3.31″"],
+      ["Oscillation Frequency", "19 KHz - 29 KHZ"],
+      ["Power Conditioning", "Continuous variable type"],
+      ["Frequency Control", "Auto-tracking type"],
+      ["Output Power", "UNCLAMP mode Max. 45W, CLAMP mode Max. 20W"],
+      ["Weight", "3 lb. 5 oz."]
+    ],
+    "specifications2": [
+      ["Handpiece Model", "US-50P"],
+      ["Oscillator", "PZT piezoelectric type"],
+      ["Attachment fixing", "M6 screw"],
+      ["Cable Length", "6 ft"],
+      ["Dimensions", "ø0.63″ (Max ø1.10″) x L5.28″"],
+      ["Weight", "5.29 oz. (excluding cable)"]
+    ],
+    "name": "Sheenus ZERO",
+    "slugForUrl": "sheenus-zero",
+    "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/products/8224.jpg",
+    "category": "",
+    "catalog": "https://nsk.nyc3.cdn.digitaloceanspaces.com/series/pdfs/iSpeed5.pdf",
+    "tags": []
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "description": "The shorter spindle length is suitable for compact sized automatic CNC lathes. The iSpeed3 Series features sensorless motors and is equipped with super precision hybrid ceramic bearings for longer spindle life.",
+    "features": [
+      "Maximum 60,000/80,000 min-1(rpm)",
+      "Maximum motor power output 140W/150W",
+      "Air-cooling system",
+      "Spindle accuracy",
+      "High rigidity, short body",
+      "Motor connector attaches directly to the back of the motor/spindle",
+      "Spindle accuracy less than 1 micron T.I.R."
+    ],
+    "name": "iSpeed3",
+    "slugForUrl": "ispeed3",
+    "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/products/8224.jpg",
+    "category": "machining spindles",
+    "machiningSpindlesCategory": "high-speed electric spindles",
+    "catalog": "https://nsk.nyc3.cdn.digitaloceanspaces.com/series/pdfs/iSpeed5.pdf",
+    "tags": [
+      "machining spindles", "high-speed electric spindles"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "description": "The ESPERT 500 Brushless Motor takes motor technology to an even higher level. This new state of the art motor has dramatically increased efficiency and torque output. The microprocessor based control unit provides optimal control of the motors and allows for increased flexibility in this multi-function system.",
+    "features": [
+      "Realizes high output power of up to 200W and high durability through the combination of a high-performance brushless DC motor and high grade electronics",
+      "High power system: max. output 140W",
+      "Speed range: 1,000-50,000 min-1(rpm)",
+      "Microprocessor controlled for optimal motor control",
+      "Hand switch [NAKANISHI Smart Switch]",
+      "Memory speed function [FiXpeed]"
+    ],
+    "name": "ESPERT 500",
+    "slugForUrl": "espert-500",
+    "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/products/8224.jpg",
+    "category": "hand tools",
+    "catalog": "https://nsk.nyc3.cdn.digitaloceanspaces.com/series/pdfs/iSpeed5.pdf",
+    "tags": [
+      "hand tools", "electric hand grinder"
+    ]
+  }
+]

@@ -1,0 +1,11 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "firstName": "",
+  "lastName": "",
+  "email": "mailto:jane-doe@xyz.edu",
+  "password": "",
+  "role": "",
+}
+</script>

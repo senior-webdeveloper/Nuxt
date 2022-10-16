@@ -1,0 +1,39 @@
+{
+  "name": "",
+  "company": "",
+  "email": "",
+  "phone": "",
+  "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "zip": ""
+  },
+  "claimDetails": [
+    {
+      "productModel": "",
+      "serialNumber": "",
+      "estimateWarranty": "",
+      "issueDescription": ""
+    }
+  ],
+  "optionsBeyondRepair": {
+    "sendItemsBack": "",
+    "destroyItems": ""
+  },
+  "authorizedDistributor": {
+    "name": "",
+    "branch": "",
+    "cityStateZip": "",
+    "distributorContactDetails":
+      {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+  "repairOrReturn": "Pending",
+  "status": "Pending",
+  "createdAt": "",
+  "updatedAt": ""
+}

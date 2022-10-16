@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "60870b1f0f9a6933c40de0d6"
+  },
+  "initialDate": "",
+  "testDate": "",
+  "distributor": "",
+  "endUser": "",
+  "guarantee": "",
+  "distributorDetails": {
+    "distributor": "",
+    "name": "",
+    "title": "",
+    "email": "",
+    "date": ""
+  },
+  "endUserDetails": {
+    "endUser": "",
+    "name": "",
+    "title": "",
+    "phone": "",
+    "email": "",
+    "address": {
+      "street": "",
+      "cityStateZip": ""
+    },
+    "date": ""
+  }
+}]

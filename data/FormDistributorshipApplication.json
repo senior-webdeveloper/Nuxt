@@ -1,0 +1,186 @@
+{
+  "application for distributorship": {
+    "companyInformation": {
+      "applicationDate": "",
+      "legalName": "",
+      "address": "",
+      "phone": "",
+      "fax": "",
+      "principalContact": {
+        "nameAndTitle": "",
+        "phone": "",
+        "email": ""
+      },
+      "nameAndTitleOfficersOrOwners": "",
+      "legalNameAndAddressHeadquartersParentCompany": "",
+      "geographicConcentration": "",
+      "primaryIndustriesServed": "",
+      "distributorType": {
+        "isManufacturing": "",
+        "isWoodworking": "",
+        "isJewelry": "",
+        "isMachineTools": ""
+      },
+      "primaryProductLinesDistributed": ""
+    },
+    "salesInformation": {
+      "crm": "",
+      "trackSalesOpportunites": "",
+      "showValue": "",
+      "trackSuccessStories": "",
+      "annualSalesCommitment": "",
+      "percentageSalesMetalworking": "",
+      "costSavingsTracking": "",
+      "jointSalesCalls": "",
+      "jointMarketingSuccessStories": ""
+    },
+    "salesRepresentation": {
+      "quantityOutsideSales": "",
+      "quantityInsideSales": "",
+      "salesDetails": [
+        {
+          "name": "",
+          "title": "",
+          "email": "",
+          "phone": ""
+        }
+      ]
+    }
+  },
+  "creditInformation": {
+    "companyInformation": {
+        "legalName": "",
+        "address": "",
+        "website": "",
+        "apContact": {
+            "name": "",
+            "phone": "",
+            "email": ""
+          },
+        "nameAndTitleOfficersOrOwners": "",
+        "legalNameAndAddressHeadquartersParentCompany": "",
+        "creditLineRequested": "",
+        "amountRequested": "",
+        "isExistingCustomer": "",
+        "federalId": "",
+        "dunsId": "",
+        "yearsInBusiness": "",
+        "descriptionOfBusiness": "",
+        "companyType": {
+          "isCorporation": "",
+          "isLLC": "",
+          "isPartnership": "",
+          "isSoleProprietorship": "",
+          "isNonProfit": "",
+          "isPrivatelyHeld": "",
+          "isPubliclyTraded": "",
+          "isOther": ""
+        },
+        "ifOther": ""
+      },
+    "addressInformation": {
+        "invoiceBillingAddress": "",
+        "preferredMethodInvoiceSubmission": "",
+        "email": "",
+        "primaryShipToAddress": "",
+        "preferredShippingCompany": "",
+        "preferredShippingCompanyAccountNumber": "",
+        "additionalShipToAddress": "",
+        "isExemptFromSalesAndUseTax": "",
+        "statesExemptIn": "",
+        "attachments": []
+      },
+    "referenceInformation": {
+      "bankReference": {
+        "bankName": "",
+        "bankContactName": "",
+        "bankDirectPhone": ""
+      },
+      "tradeReference": {
+          "companyDetails": [
+            {
+              "companyLegalName": "",
+              "phone": "",
+              "fax": "",
+              "email": ""
+            },
+            {
+              "companyLegalName": "",
+              "phone": "",
+              "fax": "",
+              "email": ""
+            },
+            {
+              "companyLegalName": "",
+              "phone": "",
+              "fax": "",
+              "email": ""
+            }
+          ],
+          "nameAuthorizedRepresentative": "",
+          "titleAndCompanyLegalName": "",
+          "date": ""
+        }
+      },
+    "acceptLegal": ""
+  },
+  "status": ""
+}
+    
+
+//for @kevinosburn
+//name and title are just in one field rn, can be separated
+//Legal Name and Address of Headquarters or Parent Company can be separated
+//there are some duplicate fields on different section of the forms. maybe autofill?
+//application for distributorship form is submitted to different departments, should we use this info to customized the backend for sending which info to which email?
+
+
+//V2
+
+{
+  "companyInformation": {
+    "applicationDate": "",
+    "legalName": "",
+    "address": "",
+    "phone": "",
+    "fax": "",
+    "principalContact": {
+      "nameAndTitle": "",
+      "phone": "",
+      "email": ""
+    },
+    "nameAndTitleOfficersOrOwners": "",
+    "legalNameAndAddressHeadquartersParentCompany": "",
+    "geographicConcentration": "",
+    "primaryIndustriesServed": "",
+    "distributorType": {
+      "isManufacturing": "",
+      "isWoodworking": "",
+      "isJewelry": "",
+      "isMachineTools": ""
+    },
+    "primaryProductLinesDistributed": ""
+  },
+  "salesInformation": {
+    "crm": "",
+    "trackSalesOpportunites": "",
+    "showValue": "",
+    "trackSuccessStories": "",
+    "annualSalesCommitment": ""
+  },
+  "salesRepresentation": {
+    "quantityOutsideSales": "",
+    "quantityInsideSales": "",
+    "salesDetails": [
+      {
+        "name": "",
+        "title": "",
+        "email": "",
+        "phone": ""
+      }
+    ]
+  },
+  "status": "",
+  "createdAt": "",
+  "updatedAt": ""
+}

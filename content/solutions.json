@@ -1,0 +1,2305 @@
+[
+  {
+    "name": "Automotive",
+    "slug": "automotive",
+    "description": "",
+    "category": "Industry Solutions",
+    "headerImage": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/industry-solutions-automotive/automotive-header.jpg",
+    "image": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/industry-solutions-automotive/automotive-preview.jpg",
+    "products": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "BMS-4020 φ2.1㎜ Drilling Application (SCM420)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/industry-solutions-automotive/automotive-BMS-4020-%CF%862.1%E3%8E%9C-Drilling-Application-SCM420.jpg",
+        "tags": [
+          "industry solutions", "automotive"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/industry-solutions-automotive/automotive-BMS-4020-%CF%862.1%E3%8E%9C-Drilling-Application-SCM420.pdf",
+              "label": "BMS-4020 φ2.1㎜ Drilling Application (SCM420)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "BMS-4020 φ3.2mm Drilling Application (SCM435)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/industry-solutions-automotive/automotive-BMS-4020-%CF%863.2mm-Drilling-Application-SCM435.jpg",
+        "tags": [
+          "industry solutions", "automotive"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/industry-solutions-automotive/automotive-BMS-4020-%CF%863.2mm-Drilling-Application-SCM435.pdf",
+              "label": "BMS-4020 φ3.2mm Drilling Application (SCM435)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "NR3060-AQC/EM-3060J R1 Ball End mill Application (A7075P)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/industry-solutions-automotive/automotive-NR3060-AQC-EM-3060J-R1-Ball-End-mill-Application-A7075P.jpg",
+        "tags": [
+          "industry solutions", "automotive"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/industry-solutions-automotive/automotive-NR3060-AQC-EM-3060J-R1-Ball-End-mill-Application-A7075P.pdf",
+              "label": "NR3060-AQC/EM-3060J R1 Ball End mill Application (A7075P)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Micromechanics",
+    "slug": "micromechanics",
+    "description": "",
+    "category": "Industry Solutions",
+    "headerImage": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/industry-solutions-micromechanics/micromechanics-header.jpg",
+    "image": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/industry-solutions-micromechanics/micromechanics-preview.jpg"
+  },
+  {
+    "name": "Electronics",
+    "slug": "electronics",
+    "description": "",
+    "category": "Industry Solutions",
+    "headerImage": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/industry-solutions-electronics/electronics-header.jpg",
+    "image": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/industry-solutions-electronics/electronics-preview.jpg",
+    "products": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "BMJ-320 φ1.3㎜ Thread Milling Application (SUS420J2)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/industry-solutions-electronics/electronics-BMJ-320-%CF%861.3%E3%8E%9C-Thread-Milling-Application-SUS420J2.jpg",
+        "tags": [
+          "industry solutions", "electronics"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/industry-solutions-electronics/electronics-BMJ-320-%CF%861.3%E3%8E%9C-Thread-Milling-Application-SUS420J2.pdf",
+              "label": "BMJ-320 φ1.3㎜ Thread Milling Application (SUS420J2)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Medical",
+    "slug": "medical",
+    "description": "",
+    "category": "Industry Solutions",
+    "headerImage": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/industry-solutions-medical/medical-header.jpg",
+    "image": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/industry-solutions-medical/medical-preview.jpg",
+    "products": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "BMJ-320 φ1.5㎜ Thread Milling Application (TB340)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/industry-solutions-medical/medical-BMJ-320-%CF%861.5%E3%8E%9C-Thread-Milling-Application-TB340.jpg",
+        "tags": [
+          "industry solutions", "medical"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/industry-solutions-medical/medical-BMJ-320-%CF%861.5%E3%8E%9C-Thread-Milling-Application-TB340.pdf",
+              "label": "BMJ-320 φ1.5㎜ Thread Milling Application (TB340)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "BM-320F φ1.5㎜ Thread Milling Application (TP340)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/industry-solutions-medical/medical-BM-320F-%CF%861.5%E3%8E%9C-Thread-Milling-Application-TP340.jpg",
+        "tags": [
+          "industry solutions", "medical"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/industry-solutions-medical/medical-BM-320F-%CF%861.5%E3%8E%9C-Thread-Milling-Application-TP340.pdf",
+              "label": "BM-320F φ1.5㎜ Thread Milling Application (TP340)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "BM-319F φ2.3㎜ Thread Milling Application (SUS420J2)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/industry-solutions-medical/medical-BM-319F-%CF%862.3%E3%8E%9C-Thread-Milling-Application-SUS420J2.jpg",
+        "tags": [
+          "industry solutions", "medical"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/industry-solutions-medical/medical-BM-319F-%CF%862.3%E3%8E%9C-Thread-Milling-Application-SUS420J2.pdf",
+              "label": "BM-319F φ2.3㎜ Thread Milling Application (SUS420J2)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Aerospace",
+    "slug": "aerospace",
+    "description": "",
+    "category": "Industry Solutions",
+    "headerImage": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/industry-solutions-aerospace/aerospace-header.jpg",
+    "image": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/industry-solutions-aerospace/aerospace-preview.jpg"
+  },
+  {
+    "name": "Die / Mold",
+    "slug": "die-mold",
+    "description": "",
+    "category": "Industry Solutions",
+    "headerImage": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/industry-solutions-die-mold/die-mold-header.jpg",
+    "image": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/industry-solutions-die-mold/die-mold-preview.jpg"
+  },
+  {
+    "name": "Energy",
+    "slug": "energy",
+    "description": "",
+    "category": "Industry Solutions",
+    "headerImage": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/industry-solutions-energy/energy-header.jpg",
+    "image": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/industry-solutions-energy/energy-preview.jpg"
+  },
+
+
+  {
+    "name": "Drilling",
+    "slug": "drilling",
+    "description": "",
+    "category": "Application Examples",
+    "image": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-drilling/drilling-preview.jpg",
+    "products": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "BMS-4020 φ8.0㎜ Drilling Application（S45C)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-drilling/drilling-BMS-4020-%CF%868.0%E3%8E%9C-Drilling-Application-S45C.jpg",
+        "tags": [
+          "application examples", "drilling"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-drilling/drilling-BMS-4020-%CF%868.0%E3%8E%9C-Drilling-Application-S45C.jpg",
+              "label": "BMS-4020 φ8.0㎜ Drilling Application（S45C)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "BMS-4020 φ6.0㎜ Drilling Application（A5052)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-drilling/drilling-BMS-4020-%CF%866.0%E3%8E%9C-Drilling-Application-A5052.jpg",
+        "tags": [
+          "application examples", "drilling"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-drilling/drilling-BMS-4020-%CF%866.0%E3%8E%9C-Drilling-Application-A5052.pdf",
+              "label": "BMS-4020 φ6.0㎜ Drilling Application（A5052)"
+          }
+        ],
+        "videos": [
+          {
+            "title":"NAKANISHI Motor Spindle E4000 φ6 Drilling (A5052)",
+            "provider":"youtube",
+            "videoEmbedId":"https://www.youtube.com/embed/q0TxuXgodf4",
+            "youtubeThumbnail":"https://img.youtube.com/vi/q0TxuXgodf4/0.jpg"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "NR-3060S/EM-3060J φ6.0㎜ Drilling Application（Aluminium composite)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-drilling/drilling-NR-3060S-EM-3060J-%CF%866.0%E3%8E%9C-Drilling-Application-Aluminium-composite.jpg",
+        "tags": [
+          "application examples", "drilling"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-drilling/drilling-NR-3060S-EM-3060J-%CF%866.0%E3%8E%9C-Drilling-Application-Aluminium-composite.pdf",
+              "label": "NR-3060S/EM-3060J φ6.0㎜ Drilling Application（Aluminium composite)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "BMS-4020 φ5.0㎜ Drilling Application（S55C)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-drilling/drilling-BMS-4020-%CF%865.0%E3%8E%9C-Drilling-Application-S55C.jpg",
+        "tags": [
+          "application examples", "drilling"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-drilling/drilling-BMS-4020-%CF%865.0%E3%8E%9C-Drilling-Application-S55C.pdf",
+              "label": "BMS-4020 φ5.0㎜ Drilling Application（S55C)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "BMS-4020 φ5.0㎜ Drilling Application（SUS303)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-drilling/drilling-BMS-4020-%CF%865.0%E3%8E%9C-Drilling-Application-SUS303.jpg",
+        "tags": [
+          "application examples", "drilling"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-drilling/drilling-BMS-4020-%CF%865.0%E3%8E%9C-Drilling-Application-SUS303.pdf",
+              "label": "BMS-4020 φ5.0㎜ Drilling Application（SUS303)"
+          }
+        ],
+        "videos": [
+          {
+            "title":"NAKANISHI Motor Spindle E3000 & E4000 Drilling & End Milling",
+            "provider":"youtube",
+            "videoEmbedId":"https://www.youtube.com/embed/antLDQdJNHs",
+            "youtubeThumbnail":"https://img.youtube.com/vi/antLDQdJNHs/0.jpg"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "BMS-4020 φ4.8㎜ Drilling Application（ADC12)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-drilling/drilling-BMS-4020-%CF%864.8%E3%8E%9C-Drilling-Application-ADC12.jpg",
+        "tags": [
+          "application examples", "drilling"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-drilling/drilling-BMS-4020-%CF%864.8%E3%8E%9C-Drilling-Application-ADC12.pdf  ",
+              "label": "BMS-4020 φ4.8㎜ Drilling Application（ADC12)"
+          }
+        ]
+      },
+      { 
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "BMS-4020-MQL-CHK φ4㎜ Drilling Application（S50C)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-drilling/drilling-BMS-4020-MQL-%CF%864%E3%8E%9C-Drilling-Application-S50C.jpg",
+        "tags": [
+          "application examples", "drilling"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-drilling/drilling-BMS-4020-MQL-%CF%864%E3%8E%9C-Drilling-Application-S50C.pdf",
+              "label": "BMS-4020-MQL-CHK φ4㎜ Drilling Application（S50C)"
+          }
+        ],
+        "videos": [
+          {
+            "title":"NAKANISHI Motor Spindle E4000 MQL φ4.0 (S50C)",
+            "provider":"youtube",
+            "videoEmbedId":"https://www.youtube.com/embed/sPSA7ctvhDI",
+            "youtubeThumbnail":"https://img.youtube.com/vi/sPSA7ctvhDI/0.jpg"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "NR-3060S/EM-3030T-J φ4.0㎜ Drilling Application（A5052)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-drilling/drilling-NR-3060S-EM-3030T-J-%CF%864.0%E3%8E%9C-Drilling-Application-A5052.jpg",
+        "tags": [
+          "application examples", "drilling"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-drilling/drilling-NR-3060S-EM-3030T-J-%CF%864.0%E3%8E%9C-Drilling-Application-A5052.pdf",
+              "label": "NR-3060S/EM-3030T-J φ4.0㎜ Drilling Application（A5052)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "EMR-3008K φ4.0㎜ Drilling Application（A2017)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-drilling/drilling-EMR-3008K-%CF%864.0%E3%8E%9C-Drilling-Application-A2017.jpg",
+        "tags": [
+          "application examples", "drilling"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-drilling/drilling-EMR-3008K-%CF%864.0%E3%8E%9C-Drilling-Application-A2017.pdf",
+              "label": "EMR-3008K φ4.0㎜ Drilling Application（A2017)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "EMR-3008K φ4.0㎜ Drilling Application（Gray cast iron)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-drilling/drilling-EMR-3008K-%CF%864.0%E3%8E%9C-Drilling-Application-Gray-cast-iron.jpg",
+        "tags": [
+          "application examples", "drilling"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-drilling/drilling-EMR-3008K-%CF%864.0%E3%8E%9C-Drilling-Application-Gray-cast-iron.pdf",
+              "label": "EMR-3008K φ4.0㎜ Drilling Application（Gray cast iron)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "EM20-S6000 φ4.0㎜ Drilling Application（SUS303)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-drilling/drilling-EM20-S6000-%CF%864.0%E3%8E%9C-Drilling-Application-SUS303.jpg",
+        "tags": [
+          "application examples", "drilling"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-drilling/drilling-EM20-S6000-%CF%864.0%E3%8E%9C-Drilling-Application-SUS303.pdf",
+              "label": "EM20-S6000 φ4.0㎜ Drilling Application（SUS303)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "EMS-3060K φ3.5㎜ Drilling Application（A2017)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-drilling/drilling-EMS-3060K-%CF%863.5%E3%8E%9C-Drilling-Application-A2017.jpg",
+        "tags": [
+          "application examples", "drilling"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-drilling/drilling-EMS-3060K-%CF%863.5%E3%8E%9C-Drilling-Application-A2017.pdf",
+              "label": "EMS-3060K φ3.5㎜ Drilling Application（A2017)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "BMS-4020 φ3.2mm Drilling Application (SCM435)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-drilling/drilling-BMS-4020-%CF%863.2mm-Drilling-Application-SCM435.jpg",
+        "tags": [
+          "application examples", "drilling"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-drilling/drilling-BMS-4020-%CF%863.2mm-Drilling-Application-SCM435.pdf",
+              "label": "BMS-4020 φ3.2mm Drilling Application (SCM435)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "BMS-4020-MQL-CHK φ3㎜ Drilling Application（A7075)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-drilling/drilling-BMS-4020-MQL-CHK-%CF%863%E3%8E%9C-Drilling-Application-A7075.jpg",
+        "tags": [
+          "application examples", "drilling"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-drilling/drilling-BMS-4020-MQL-CHK-%CF%863%E3%8E%9C-Drilling-Application-A7075.pdf",
+              "label": "BMS-4020-MQL-CHK φ3㎜ Drilling Application（A7075)"
+          }
+        ],
+        "videos": [
+          {
+            "title":"NAKANISHI Motor Spindle E4000 MQL φ3.0 Driling",
+            "provider":"youtube",
+            "videoEmbedId":"https://www.youtube.com/embed/22H3_lQTwtA",
+            "youtubeThumbnail":"https://img.youtube.com/vi/22H3_lQTwtA.jpg"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "EMS-3060K φ3.0㎜ Drilling Application（A2017)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-drilling/drilling-EMS-3060K-%CF%863.0%E3%8E%9C-Drilling-Application-A2017.jpg",
+        "tags": [
+          "application examples", "drilling"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-drilling/drilling-EMS-3060K-%CF%863.0%E3%8E%9C-Drilling-Application-A2017.pdf",
+              "label": "EMS-3060K φ3.0㎜ Drilling Application（A2017)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "NR-3060S/EM-3030T-J φ3.0㎜ Drilling Application（A5052)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-drilling/drilling-NR-3060S-EM-3030T-J-%CF%863.0%E3%8E%9C-Drilling-Application-A5052.jpg",
+        "tags": [
+          "application examples", "drilling"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-drilling/drilling-NR-3060S-EM-3030T-J-%CF%863.0%E3%8E%9C-Drilling-Application-A5052.pdf",
+              "label": "NR-3060S/EM-3030T-J φ3.0㎜ Drilling Application（A5052)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "NR-3060S/EM-3060J φ3.0㎜ Drilling Application（A5052)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-drilling/drilling-NR-3060S-EM-3060J-%CF%863.0%E3%8E%9CDrilling-Application-A5052.jpg",
+        "tags": [
+          "application examples", "drilling"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-drilling/drilling-NR-3060S-EM-3060J-%CF%863.0%E3%8E%9CDrilling-Application-A5052.pdf",
+              "label": "NR-3060S/EM-3060J φ3.0㎜ Drilling Application（A5052)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "EMR-3008K φ3.0㎜ Drilling Application（S50C)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-drilling/drilling-EMR-3008K-%CF%863.0%E3%8E%9C-Drilling-Application-S50C.jpg",
+        "tags": [
+          "application examples", "drilling"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-drilling/drilling-EMR-3008K-%CF%863.0%E3%8E%9C-Drilling-Application-S50C.pdf",
+              "label": "EMR-3008K φ3.0㎜ Drilling Application（S50C)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "NR-3060S/EM-3030T-J φ3.0㎜ Drilling Application（S50C)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-drilling/drilling-NR-3060S-EM-3030T-J-%CF%863.0%E3%8E%9C-Drilling-Application-S50C.jpg",
+        "tags": [
+          "application examples", "drilling"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-drilling/drilling-NR-3060S-EM-3030T-J-%CF%863.0%E3%8E%9C-Drilling-Application-S50C.pdf",
+              "label": "NR-3060S/EM-3030T-J φ3.0㎜ Drilling Application（S50C)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "EM20-S6000 φ2.5㎜ Drilling Application（A2017)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-drilling/drilling-EM20-S6000-%CF%862.5%E3%8E%9C-Drilling-Application-A2017.jpg",
+        "tags": [
+          "application examples", "drilling"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-drilling/drilling-EM20-S6000-%CF%862.5%E3%8E%9C-Drilling-Application-A2017.pdf",
+              "label": "EM20-S6000 φ2.5㎜ Drilling Application（A2017)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "EMS-3060K φ2.5㎜ Drilling Application（S50C)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-drilling/drilling-EMS-3060K-%CF%862.5%E3%8E%9C-Drilling-Application-S50C.jpg",
+        "tags": [
+          "application examples", "drilling"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-drilling/drilling-EMS-3060K-%CF%862.5%E3%8E%9C-Drilling-Application-S50C.pdf",
+              "label": "EMS-3060K φ2.5㎜ Drilling Application（S50C)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "EM20-S6000 φ2.4㎜ Drilling Application（SUS420J2)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-drilling/drilling-EM20-S6000-%CF%862.4%E3%8E%9C-Drilling-Application-SUS420J2.jpg",
+        "tags": [
+          "application examples", "drilling"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-drilling/drilling-EM20-S6000-%CF%862.4%E3%8E%9C-Drilling-Application-SUS420J2.pdf",
+              "label": "EM20-S6000 φ2.4㎜ Drilling Application（SUS420J2)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "BMS-4020 φ2.1㎜ Drilling Application (SCM420)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-drilling/drilling-BMS-4020-%CF%862.1%E3%8E%9C-Drilling-Application-SCM420.jpg",
+        "tags": [
+          "application examples", "drilling"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-drilling/drilling-BMS-4020-%CF%862.1%E3%8E%9C-Drilling-Application-SCM420.pdf",
+              "label": "BMS-4020 φ2.1㎜ Drilling Application (SCM420)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "NR-3060S/EM-3060 φ2.0㎜ Drilling Application（A6061)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-drilling/drilling-NR-3060S-EM-3060-%CF%862.0%E3%8E%9C-Drilling-Application-A6061.jpg",
+        "tags": [
+          "application examples", "drilling"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-drilling/drilling-NR-3060S-EM-3060-%CF%862.0%E3%8E%9C-Drilling-Application-A6061.pdf",
+              "label": "NR-3060S/EM-3060 φ2.0㎜ Drilling Application（A6061)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "EM20-S6000 φ2.0㎜ Drilling Application（S50C)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-drilling/drilling-EM20-S6000-%CF%862.0%E3%8E%9C-Drilling-Application-S50C.jpg",
+        "tags": [
+          "application examples", "drilling"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-drilling/drilling-EM20-S6000-%CF%862.0%E3%8E%9C-Drilling-Application-S50C.pdf",
+              "label": "EM20-S6000 φ2.0㎜ Drilling Application（S50C)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "EMR-3008K φ2.0㎜ Drilling Application（SUS304)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-drilling/drilling-EMR-3008K-%CF%862.0%E3%8E%9C-Drilling-Application-SUS304.jpg",
+        "tags": [
+          "application examples", "drilling"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-drilling/drilling-EMR-3008K-%CF%862.0%E3%8E%9C-Drilling-Application-SUS304.pdf",
+              "label": "EMR-3008K φ2.0㎜ Drilling Application（SUS304)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "NR-3060S/EM-3060 φ1.8㎜ Drilling Application（A6061)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-drilling/drilling-NR-3060S-EM-3060-%CF%861.8%E3%8E%9C-Drilling-Application-A6061.jpg",
+        "tags": [
+          "application examples", "drilling"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-drilling/drilling-NR-3060S-EM-3060-%CF%861.8%E3%8E%9C-Drilling-Application-A6061.pdf",
+              "label": "NR-3060S/EM-3060 φ1.8㎜ Drilling Application（A6061)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "EMS-3060K φ1.5㎜ Drilling Application（SUS304)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-drilling/drilling-EMS-3060K-%CF%861.5%E3%8E%9C-Drilling-Application-SUS304.jpg",
+        "tags": [
+          "application examples", "drilling"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-drilling/drilling-EMS-3060K-%CF%861.5%E3%8E%9C-Drilling-Application-SUS304.pdf",
+              "label": "EMS-3060K φ1.5㎜ Drilling Application（SUS304)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "EM20-S6000 φ1.0㎜ Drilling Application（SUS304)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-drilling/drilling-EM20-S6000-%CF%861.0%E3%8E%9C-Drilling-Application-SUS304.jpg",
+        "tags": [
+          "application examples", "drilling"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-drilling/drilling-EM20-S6000-%CF%861.0%E3%8E%9C-Drilling-Application-SUS304.pdf",
+              "label": "EM20-S6000 φ1.0㎜ Drilling Application（SUS304)"
+          }
+        ]
+      }
+    ]
+  },  
+  {
+    "name": "Milling",
+    "slug": "milling",
+    "description": "",
+    "category": "Application Examples",
+    "headerImage": "",
+    "image": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-milling/milling-preview.jpg",
+    "products": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "BMS-4020 φ10.0㎜ End mill Application（A6061)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-milling/milling-BMS-4020-%CF%8610.0%E3%8E%9C-End-mill-Application-A6061.jpg",
+        "tags": [
+          "application examples", "milling"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-milling/milling-BMS-4020-%CF%8610.0%E3%8E%9C-End-mill-Application-A6061.pdf",
+              "label": "BMS-4020 φ10.0㎜ End mill Application（A6061)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "BMS-4020 φ10.0㎜ End mill Application (Casting)",
+        "image": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-milling/milling-BMS-4020-%CF%8610.0%E3%8E%9C-End-mill-Application-Casting.jpg",
+        "tags": [
+          "application examples", "milling"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-milling/milling-BMS-4020-%CF%8610.0%E3%8E%9C-End-mill-Application-Casting.pdf",
+              "label": "BMS-4020 φ10.0㎜ End mill Application (Casting)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "RAS-151E/EM-3060 φ10.0㎜ End mill Application（KFS103)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-milling/milling-RAS-151E-EM-3060-%CF%8610.0%E3%8E%9C-End-mill-Application-KFS103.jpg",
+        "tags": [
+          "application examples", "milling"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-milling/milling-RAS-151E-EM-3060-%CF%8610.0%E3%8E%9C-End-mill-Application-KFS103.pdf",
+              "label": "RAS-151E/EM-3060 φ10.0㎜ End mill Application（KFS103)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "BMS-4040 φ8.0㎜ End mill Application（A6061)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-milling/milling-BMS-4040-%CF%868.0%E3%8E%9C-End-mill-Application-A6061.jpg",
+        "tags": [
+          "application examples", "milling"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-milling/milling-BMS-4040-%CF%868.0%E3%8E%9C-End-mill-Application-A6061.pdf",
+              "label": "BMS-4040 φ8.0㎜ End mill Application（A6061)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "BMS-4020 φ8.0㎜ End mill Application (A5052)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-milling/milling-BMS-4020-%CF%868.0%E3%8E%9C-End-mill-Application-A5052.jpg",
+        "tags": [
+          "application examples", "milling"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-milling/milling-BMS-4020-%CF%868.0%E3%8E%9C-End-mill-Application-A5052.pdf",
+              "label": "BMS-4020 φ8.0㎜ End mill Application (A5052)"
+          }
+        ],
+        "videos": [
+          {
+            "title":"NAKANISHI Motor Spindle E4000 φ8 End Milling (A5052)",
+            "provider":"youtube",
+            "videoEmbedId":"https://www.youtube.com/embed/OWOVlmjByLE",
+            "youtubeThumbnail":"https://img.youtube.com/vi/OWOVlmjByLE/0.jpg"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "BMS-4040－RGD φ6 End milling application (A5052)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-milling/milling-BMS-4040-RGD-%CF%866-End-milling-application-A5052.jpg",
+        "tags": [
+          "application examples", "milling"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-milling/milling-BMS-4040-RGD-%CF%866-End-milling-application-A5052.pdf",
+              "label": "BMS-4040－RGD φ6 End milling application (A5052)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "BMS-4040－RGD φ6 End milling application (A5052)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-milling/milling-BMS-4040-RGD-%CF%866-End-milling-application-A5052-2.jpg",
+        "tags": [
+          "application examples", "milling"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-milling/milling-BMS-4040-RGD-%CF%866-End-milling-application-A5052-2.pdf",
+              "label": "BMS-4040－RGD φ6 End milling application (A5052)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "BMS-4040 φ6.0㎜ End mill Application (SUS303)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-milling/milling-BMS-4040-%CF%866.0%E3%8E%9C-End-mill-Application-SUS303.jpg",
+        "tags": [
+          "application examples", "milling"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-milling/milling-BMS-4040-%CF%866.0%E3%8E%9C-End-mill-Application-SUS303.pdf",
+              "label": "BMS-4040 φ6.0㎜ End mill Application (SUS303)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "NR-3060S/EM-3030T-J φ6.0㎜ End mill Application（A6061)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-milling/milling-NR-3060S-EM-3030T-J-%CF%866.0%E3%8E%9C-End-mill-Application-A6061.jpg",
+        "tags": [
+          "application examples", "milling"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-milling/milling-NR-3060S-EM-3030T-J-%CF%866.0%E3%8E%9C-End-mill-Application-A6061.pdf",
+              "label": "NR-3060S/EM-3030T-J φ6.0㎜ End mill Application（A6061)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "EMA-3020K φ5.0㎜ End mill Application（S45C）",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-milling/milling-EMA-3020K-%CF%865.0%E3%8E%9C-End-mill-Application-S45C.jpg",
+        "tags": [
+          "application examples", "milling"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-milling/milling-EMA-3020K-%CF%865.0%E3%8E%9C-End-mill-Application-S45C.pdf",
+              "label": "EMA-3020K φ5.0㎜ End mill Application（S45C)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "BMS-4020 φ4.0㎜ Helical processing Application (Gray cast iron)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-milling/milling-BMS-4020-%CF%864.0%E3%8E%9C-Helical-processing-Application.jpg",
+        "tags": [
+          "application examples", "milling"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-milling/milling-BMS-4020-%CF%864.0%E3%8E%9C-Helical-processing-Application.pdf",
+              "label": "BMS-4020 φ4.0㎜ Helical processing Application (Gray cast iron)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "BMS-4040 φ4.0㎜ Contouring Application（Aluminum)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-milling/milling-BMS-4040-%CF%864.0%E3%8E%9C-Contouring-Application-Aluminum.jpg",
+        "tags": [
+          "application examples", "milling"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-milling/milling-BMS-4040-%CF%864.0%E3%8E%9C-Contouring-Application-Aluminum.pdf",
+              "label": "BMS-4040 φ4.0㎜ Contouring Application（Aluminum)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "EMR-3008K φ4.0㎜ End mill Application（A2017)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-milling/milling-EMR-3008K-%CF%864.0%E3%8E%9C-End-mill-Application-A2017.jpg",
+        "tags": [
+          "application examples", "milling"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-milling/milling-EMR-3008K-%CF%864.0%E3%8E%9C-End-mill-Application-A2017.pdf",
+              "label": "EMR-3008K φ4.0㎜ End mill Application（A2017)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "EMA-3020K φ4.0㎜ End mill Application（S45C)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-milling/milling-EMA-3020K-%CF%864.0%E3%8E%9C-End-mill-Application-S45C.jpg",
+        "tags": [
+          "application examples", "milling"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-milling/milling-EMA-3020K-%CF%864.0%E3%8E%9C-End-mill-Application-S45C.pdf",
+              "label": "EMA-3020K φ4.0㎜ End mill Application（S45C)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "EM20-S6000 φ4.0㎜ End mill Application（SUS303)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-milling/milling-EM20-S6000-%CF%864.0%E3%8E%9C-End-mill-Application-SUS303.jpg",
+        "tags": [
+          "application examples", "milling"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-milling/milling-EM20-S6000-%CF%864.0%E3%8E%9C-End-mill-Application-SUS303.pdf",
+              "label": "EM20-S6000 φ4.0㎜ End mill Application（SUS303)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "EM20-S6000 φ4.0㎜ End mill Application（SUS303)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-milling/milling-EM20-S6000-%CF%864.0%E3%8E%9C-End-mill-Application-SUS303-2.jpg",
+        "tags": [
+          "application examples", "milling"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-milling/milling-EM20-S6000-%CF%864.0%E3%8E%9C-End-mill-Application-SUS303-2.pdf",
+              "label": "EM20-S6000 φ4.0㎜ End mill Application（SUS303)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "NR3060-AQC/EM-3060J R2 Ball End mill Application（A7075P)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-milling/milling-NR3060-AQC-EM-3060J-R2-Ball-End-mill-Application-A7075P.jpg",
+        "tags": [
+          "application examples", "milling"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-milling/milling-NR3060-AQC-EM-3060J-R2-Ball-End-mill-Application-A7075P.pdf",
+              "label": "NR3060-AQC/EM-3060J R2 Ball End mill Application（A7075P)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "BMS-4040 φ3.0㎜ End mill Application（A5052P)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-milling/milling-BMS-4040-%CF%863.0%E3%8E%9C-End-mill-Application-A5052P.jpg",
+        "tags": [
+          "application examples", "milling"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-milling/milling-BMS-4040-%CF%863.0%E3%8E%9C-End-mill-Application-A5052P.pdf",
+              "label": "BMS-4040 φ3.0㎜ End mill Application（A5052P)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "BMS-4020 φ3.0㎜ End mill Application（S50C)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-milling/milling-BMS-4020-%CF%863.0%E3%8E%9C-End-mill-Application-S50C.jpg",
+        "tags": [
+          "application examples", "milling"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-milling/milling-BMS-4020-%CF%863.0%E3%8E%9C-End-mill-Application-S50C.jpg",
+              "label": "BMS-4020 φ3.0㎜ End mill Application（S50C)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "BMS-4020 φ3.0㎜ End mill Application（S50C)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-milling/milling-BMS-4020-%CF%863.0%E3%8E%9C-End-mill-Application-S50C-2.jpg",
+        "tags": [
+          "application examples", "milling"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-milling/milling-BMS-4020-%CF%863.0%E3%8E%9C-End-mill-Application-S50C-2.pdf",
+              "label": "BMS-4020 φ3.0㎜ End mill Application（S50C)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "EMR-3008K φ3.0㎜ End mill Application (S50C)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-milling/milling-EMR-3008K-%CF%863.0%E3%8E%9C-End-mill-Application-S50C.jpg",
+        "tags": [
+          "application examples", "milling"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-milling/milling-EMR-3008K-%CF%863.0%E3%8E%9C-End-mill-Application-S50C.pdf",
+              "label": "EMR-3008K φ3.0㎜ End mill Application (S50C)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "EMS-3060K φ2.5㎜ End mill Application (A2017)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-milling/milling-EMS-3060K-%CF%862.5%E3%8E%9C-End-mill-Application-A2017.jpg",
+        "tags": [
+          "application examples", "milling"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-milling/milling-EMS-3060K-%CF%862.5%E3%8E%9C-End-mill-Application-A2017.pdf",
+              "label": "EMS-3060K φ2.5㎜ End mill Application (A2017)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "EMR-3008K φ2.5㎜ End mill Application (SUS304)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-milling/milling-EMR-3008K-%CF%862.5%E3%8E%9C-End-mill-Application-SUS304.jpg",
+        "tags": [
+          "application examples", "milling"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-milling/milling-EMR-3008K-%CF%862.5%E3%8E%9C-End-mill-Application-SUS304.pdf",
+              "label": "EMR-3008K φ2.5㎜ End mill Application (SUS304)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "NR50-5100ATC/EM-3060 φ2.0㎜ End mill Application (PCB)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-milling/milling-NR50-5100ATCEM-3060-%CF%862.0%E3%8E%9C-End-mill-Application-PCB.jpg",
+        "tags": [
+          "application examples", "milling"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-milling/milling-NR50-5100ATCEM-3060-%CF%862.0%E3%8E%9C-End-mill-Application-PCB.pdf",
+              "label": "NR50-5100ATC/EM-3060 φ2.0㎜ End mill Application (PCB)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "NR3060-AQC/EM-3060J R1 Ball End mill Application (A7075P)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-milling/milling-NR3060-AQC-EM-3060J-R1-Ball-End-mill-Application-A7075P.jpg",
+        "tags": [
+          "application examples", "milling"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-milling/milling-NR3060-AQC-EM-3060J-R1-Ball-End-mill-Application-A7075P.pdf",
+              "label": "NR3060-AQC/EM-3060J R1 Ball End mill Application (A7075P)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "EMS-3060K φ2.0㎜ End mill Application (S50C)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-milling/milling-EMS-3060K-%CF%862.0%E3%8E%9C-End-mill-Application-S50C.jpg",
+        "tags": [
+          "application examples", "milling"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-milling/milling-EMS-3060K-%CF%862.0%E3%8E%9C-End-mill-Application-S50C.pdf",
+              "label": "EMS-3060K φ2.0㎜ End mill Application (S50C)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "EMS-3060K φ2.0㎜ End mill Application (SUS304)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-milling/milling-EMS-3060K-%CF%862.0%E3%8E%9C-End-mill-Application-SUS304.jpg",
+        "tags": [
+          "application examples", "milling"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-milling/milling-EMS-3060K-%CF%862.0%E3%8E%9C-End-mill-Application-SUS304.pdf",
+              "label": "EMS-3060K φ2.0㎜ End mill Application (SUS304)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "BMS-4020-MQL φ1.5㎜ End mill Application（NAK80)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-milling/milling-BMS-4020-MQL-%CF%861.5%E3%8E%9C-End-mill-Application-NAK80.jpg",
+        "tags": [
+          "application examples", "milling"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-milling/milling-BMS-4020-MQL-%CF%861.5%E3%8E%9C-End-mill-Application-NAK80.pdf",
+              "label": "BMS-4020-MQL φ1.5㎜ End mill Application（NAK80)"
+          }
+        ],
+        "videos": [
+          {
+            "title":"NAKANISHI Motor Spindle E4000 End Milling φ1.5 (NAK80)",
+            "provider":"youtube",
+            "videoEmbedId":"https://www.youtube.com/embed/SKW9SJgGdO0",
+            "youtubeThumbnail":"https://img.youtube.com/vi/SKW9SJgGdO0/0.jpg"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "EM20-S6000 φ1.5㎜ End mill Application (S50C)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-milling/milling-EM20-S6000-%CF%861.5%E3%8E%9C-End-mill-Application-S50C.jpg",
+        "tags": [
+          "application examples", "milling"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-milling/milling-EM20-S6000-%CF%861.5%E3%8E%9C-End-mill-Application-S50C.pdf",
+              "label": "EM20-S6000 φ1.5㎜ End mill Application (S50C)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "EM20-S6000 φ1.5㎜ End mill Application (SUS304)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-milling/milling-EM20-S6000-%CF%861.5%E3%8E%9C-End-mill-Application-SUS304.jpg",
+        "tags": [
+          "application examples", "milling"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-milling/milling-EM20-S6000-%CF%861.5%E3%8E%9C-End-mill-Application-SUS304.pdf",
+              "label": "EM20-S6000 φ1.5㎜ End mill Application (SUS304)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "NR-3060S/EM-3060J C1 chamfer End mill Application (A5052P)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-milling/milling-NR-3060S-EM-3060J-C1-chamfer-End-mill-Application-A5052P.jpg",
+        "tags": [
+          "application examples", "milling"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-milling/milling-NR-3060S-EM-3060J-C1-chamfer-End-mill-Application-A5052P.pdf",
+              "label": "NR-3060S/EM-3060J C1 chamfer End mill Application (A5052P)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Thread Milling",
+    "slug": "thread-milling",
+    "description": "",
+    "category": "Application Examples",
+    "headerImage": "",
+    "image": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-thread-milling/thread-milling-preview.jpg",
+    "products": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "BM-319F φ2.3㎜ Thread Milling Application (SUS420J2)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-thread-milling/thread-milling-BM-319F-%CF%862.3%E3%8E%9C-Thread-Milling-Application-SUS420J2.jpg",
+        "tags": [
+          "application examples", "thread milling"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-thread-milling/thread-milling-BM-319F-%CF%862.3%E3%8E%9C-Thread-Milling-Application-SUS420J2.pdf",
+              "label": "BM-319F φ2.3㎜ Thread Milling Application (SUS420J2)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "BMJ-320 φ1.5㎜ Thread Milling Application (TB340)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-thread-milling/thread-milling-BMJ-320-%CF%861.5%E3%8E%9C-Thread-Milling-Application-TB340.jpg",
+        "tags": [
+          "application examples", "thread milling"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-thread-milling/thread-milling-BMJ-320-%CF%861.5%E3%8E%9C-Thread-Milling-Application-TB340.pdf",
+              "label": "BMJ-320 φ1.5㎜ Thread Milling Application (TB340)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "BM-320F φ1.5㎜ Thread Milling Application (TP340)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-thread-milling/thread-milling-BM-320F-%CF%861.5%E3%8E%9C-Thread-Milling-Application-TP340.jpg",
+        "tags": [
+          "application examples", "thread milling"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-thread-milling/thread-milling-BM-320F-%CF%861.5%E3%8E%9C-Thread-Milling-Application-TP340.pdf",
+              "label": "BM-320F φ1.5㎜ Thread Milling Application (TP340)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "BMJ-320 φ1.3㎜ Thread Milling Application (SUS420J2)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-thread-milling/thread-milling-BM-319F-%CF%862.3%E3%8E%9C-Thread-Milling-Application-SUS420J2.jpg",
+        "tags": [
+          "application examples", "thread milling"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-thread-milling/thread-milling-BM-319F-%CF%862.3%E3%8E%9C-Thread-Milling-Application-SUS420J2.pdf",
+              "label": "BMJ-320 φ1.3㎜ Thread Milling Application (SUS420J2)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Deburring",
+    "slug": "deburring",
+    "description": "",
+    "category": "Application Examples",
+    "headerImage": "",
+    "image": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-deburring/deburring-preview.jpg"
+  },
+  {
+    "name": "Grinding",
+    "slug": "grinding",
+    "description": "",
+    "category": "Application Examples",
+    "headerImage": "",
+    "image": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-grinding/grinding-preview.jpg",
+    "products": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "BMS-4020-MQL φ15mm Internal Grinding Application （SUS420)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-grinding/grinding-BMS-4020-MQL-%CF%8615mm-Internal-Grinding-Application-SUS420.jpg",
+        "tags": [
+          "application examples", "grinding"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/application-examples-grinding/grinding-BMS-4020-MQL-%CF%8615mm-Internal-Grinding-Application-SUS420.pdf",
+              "label": "BMS-4020-MQL φ15mm Internal Grinding Application （SUS420)"
+          }
+        ],
+        "videos": [
+          {
+            "title":"NAKANISHI Air Turbine Spindle PLANET600 Internal Grinding (HRc52)",
+            "provider":"youtube",
+            "videoEmbedId":"https://www.youtube.com/embed/T8mKWNdFSms",
+            "youtubeThumbnail":"https://img.youtube.com/vi/T8mKWNdFSms/0.jpg"
+          }
+        ]
+      }
+    ]
+  },
+
+
+  {
+    "name": "Aluminum",
+    "slug": "aluminum",
+    "description": "",
+    "category": "Work Materials",
+    "headerImage": "",
+    "image": "https://nsk.nyc3.cdn.digitaloceanspaces.com/img/transparent-380x254.png",
+    "products": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "BMS-4020 φ10.0㎜ End mill Application（A6061)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-aluminum/aluminum-BMS-4020-%CF%8610.0%E3%8E%9C-End-mill-Application-A6061.jpg",
+        "tags": [
+          "work examples", "aluminum"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-aluminum/aluminum-BMS-4020-%CF%8610.0%E3%8E%9C-End-mill-Application-A6061.pdf",
+              "label": "BMS-4020 φ10.0㎜ End mill Application (A6061)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "BMS-4040 φ8.0㎜ End mill Application（A6061)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-aluminum/aluminum-BMS-4040-%CF%868.0%E3%8E%9C-End-mill-Application-A6061.jpg",
+        "tags": [
+          "work examples", "aluminum"
+        ],
+        "downloads": [ 
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-aluminum/aluminum-BMS-4040-%CF%868.0%E3%8E%9C-End-mill-Application-A6061.pdf",
+              "label": "BMS-4040 φ8.0㎜ End mill Application（A6061)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "BMS-4020 φ8.0㎜ End mill Application (A5052)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-aluminum/aluminum-BMS-4020-%CF%868.0%E3%8E%9C-End-mill-Application-A5052.jpg",
+        "tags": [
+          "work examples", "aluminum"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-aluminum/aluminum-BMS-4020-%CF%868.0%E3%8E%9C-End-mill-Application-A5052.pdf",
+              "label": "BMS-4020 φ8.0㎜ End mill Application (A5052)"
+          }
+        ],
+        "videos": [
+          {
+            "title":"NAKANISHI Motor Spindle E4000 φ8 End Milling (A5052)",
+            "provider":"youtube",
+            "videoEmbedId":"https://www.youtube.com/embed/OWOVlmjByLE",
+            "youtubeThumbnail":"https://img.youtube.com/vi/OWOVlmjByLE/0.jpg"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "BMS-4040－RGD φ6 End milling application (A5052)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-aluminum/aluminum-BMS-4040-RGD-%CF%866-End-milling-application-A5052.jpg",
+        "tags": [
+          "work examples", "aluminum"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-aluminum/aluminum-BMS-4040-RGD-%CF%866-End-milling-application-A5052.pdf",
+              "label": "BMS-4040－RGD φ6 End milling application (A5052)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "BMS-4040－RGD φ6 End milling application (A5052)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-aluminum/aluminum-BMS-4040-RGD-%CF%866-End-milling-application-A5052-2.jpg",
+        "tags": [
+          "work examples", "aluminum"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-aluminum/aluminum-BMS-4040-RGD-%CF%866-End-milling-application-A5052-2.pdf",
+              "label": "BMS-4040－RGD φ6 End milling application (A5052)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "BMS-4020 φ6.0㎜ Drilling Application（A5052)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-aluminum/aluminum-BMS-4020-%CF%866.0%E3%8E%9C-Drilling-Application-A5052.jpg",
+        "tags": [
+          "work examples", "aluminum"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-aluminum/aluminum-BMS-4020-%CF%866.0%E3%8E%9C-Drilling-Application-A5052.pdf",
+              "label": "BMS-4020 φ6.0㎜ Drilling Application（A5052)"
+          }
+        ],
+        "videos": [
+          {
+            "title":"NAKANISHI Motor Spindle E4000 φ6 Drilling (A5052)",
+            "provider":"youtube",
+            "videoEmbedId":"https://www.youtube.com/embed/q0TxuXgodf4",
+            "youtubeThumbnail":"https://img.youtube.com/vi/q0TxuXgodf4/0.jpg"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "NR-3060S/EM-3060J φ6.0㎜ Drilling Application（Aluminium composite)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-aluminum/aluminum-NR-3060S-EM-3060J-%CF%866.0%E3%8E%9C-Drilling-Application-Aluminum-composite.jpg",
+        "tags": [
+          "work examples", "aluminum"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-aluminum/aluminum-NR-3060S-EM-3060J-%CF%866.0%E3%8E%9C-Drilling-Application-Aluminum-composite.pdf",
+              "label": "NR-3060S/EM-3060J φ6.0㎜ Drilling Application（Aluminium composite)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "BMS-4020 φ4.8㎜ Drilling Application（ADC12)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-aluminum/aluminum-BMS-4020-%CF%864.8%E3%8E%9C-Drilling-Application-ADC12.jpg",
+        "tags": [
+          "work examples", "aluminum"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-aluminum/aluminum-BMS-4020-%CF%864.8%E3%8E%9C-Drilling-Application-ADC12.pdf",
+              "label": "BMS-4020 φ4.8㎜ Drilling Application（ADC12)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "NR-3060S/EM-3030T-J φ4.0㎜ Drilling Application (A5052)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-aluminum/aluminum-NR-3060S-EM-3030T-J-%CF%864.0%E3%8E%9C-Drilling-Application-A5052.jpg",
+        "tags": [
+          "work examples", "aluminum"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-aluminum/aluminum-NR-3060S-EM-3030T-J-%CF%864.0%E3%8E%9C-Drilling-Application-A5052.pdf",
+              "label": "NR-3060S/EM-3030T-J φ4.0㎜ Drilling Application (A5052)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "EMR-3008K φ4.0㎜ Drilling Application（A2017)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-aluminum/aluminum-EMR-3008K-%CF%864.0%E3%8E%9C-Drilling-Application-A2017.jpg",
+        "tags": [
+          "work examples", "aluminum"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-aluminum/aluminum-EMR-3008K-%CF%864.0%E3%8E%9C-Drilling-Application-A2017.pdf",
+              "label": "EMR-3008K φ4.0㎜ Drilling Application（A2017)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "BMS-4040 φ4.0㎜ Contouring Application（Aluminum)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-aluminum/aluminum-BMS-4040-%CF%864.0%E3%8E%9C-Contouring-Application-Aluminum.jpg",
+        "tags": [
+          "work examples", "aluminum"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-aluminum/aluminum-BMS-4040-%CF%864.0%E3%8E%9C-Contouring-Application-Aluminum.pdf",
+              "label": "BMS-4040 φ4.0㎜ Contouring Application（Aluminum)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "EMS-3060K φ3.5㎜ Drilling Application（A2017)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-aluminum/aluminum-EMS-3060K-%CF%863.5%E3%8E%9C-Drilling-Application-A2017.jpg",
+        "tags": [
+          "work examples", "aluminum"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-aluminum/aluminum-EMS-3060K-%CF%863.5%E3%8E%9C-Drilling-Application-A2017.pdf",
+              "label": "EMS-3060K φ3.5㎜ Drilling Application（A2017)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "EMS-3060K φ3.0㎜ Drilling Application（A2017)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-aluminum/aluminum-EMS-3060K-%CF%863.0%E3%8E%9C-Drilling-Application-A2017.jpg",
+        "tags": [
+          "work examples", "aluminum"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-aluminum/aluminum-EMS-3060K-%CF%863.0%E3%8E%9C-Drilling-Application-A2017.pdf",
+              "label": "EMS-3060K φ3.0㎜ Drilling Application（A2017)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "NR-3060S/EM-3030T-J φ3.0㎜ Drilling Application（A5052)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-aluminum/aluminum-NR-3060S-EM-3030T-J-%CF%863.0%E3%8E%9C-Drilling-Application-A5052.jpg",
+        "tags": [
+          "work examples", "aluminum"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-aluminum/aluminum-NR-3060S-EM-3030T-J-%CF%863.0%E3%8E%9C-Drilling-Application-A5052.pdf",
+              "label": "NR-3060S/EM-3030T-J φ3.0㎜ Drilling Application（A5052)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "NR-3060S/EM-3060J φ3.0㎜ Drilling Application（A5052)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-aluminum/aluminum-NR-3060S-EM-3060J-%CF%863.0%E3%8E%9C-Drilling-Application-A5052.jpg",
+        "tags": [
+          "work examples", "aluminum"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-aluminum/aluminum-NR-3060S-EM-3060J-%CF%863.0%E3%8E%9C-Drilling-Application-A5052.pdf",
+              "label": "NR-3060S/EM-3060J φ3.0㎜ Drilling Application（A5052)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "BMS-4020-MQL-CHK φ3㎜ Drilling Application（A7075)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-aluminum/aluminum-BMS-4020-MQL-CHK-%CF%863%E3%8E%9C-Drilling-Application-A7075.jpg",
+        "tags": [
+          "work examples", "aluminum"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-aluminum/aluminum-BMS-4020-MQL-CHK-%CF%863%E3%8E%9C-Drilling-Application-A7075.pdf",
+              "label": "BMS-4020-MQL-CHK φ3㎜ Drilling Application（A7075)"
+          }
+        ],
+        "videos": [
+          {
+            "title":"NAKANISHI Motor Spindle E4000 MQL φ3.0 Driling",
+            "provider":"youtube",
+            "videoEmbedId":"https://www.youtube.com/embed/22H3_lQTwtA",
+            "youtubeThumbnail":"https://img.youtube.com/vi/22H3_lQTwtA/0.jpg"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "BMS-4040 φ3.0㎜ End mill Application（A5052P)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-aluminum/aluminum-BMS-4040-%CF%863.0%E3%8E%9C-End-mill-Application-A5052P.jpg",
+        "tags": [
+          "work examples", "aluminum"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-aluminum/aluminum-BMS-4040-%CF%863.0%E3%8E%9C-End-mill-Application-A5052P.pdf",
+              "label": "BMS-4040 φ3.0㎜ End mill Application（A5052P)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "EM20-S6000 φ2.5㎜ Drilling Application（A2017)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-aluminum/aluminum-EM20-S6000-%CF%862.5%E3%8E%9C-Drilling-Application-A2017.jpg",
+        "tags": [
+          "work examples", "aluminum"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-aluminum/aluminum-EM20-S6000-%CF%862.5%E3%8E%9C-Drilling-Application-A2017.pdf",
+              "label": "EM20-S6000 φ2.5㎜ Drilling Application（A2017)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "NR-3060S/EM-3060 φ2.0㎜ Drilling Application（A6061)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-aluminum/aluminum-NR-3060S-EM-3060-%CF%862.0%E3%8E%9C-Drilling-Application-A6061.jpg",
+        "tags": [
+          "work examples", "aluminum"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-aluminum/aluminum-NR-3060S-EM-3060-%CF%862.0%E3%8E%9C-Drilling-Application-A6061.pdf",
+              "label": "NR-3060S/EM-3060 φ2.0㎜ Drilling Application（A6061)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "NR-3060S/EM-3060 φ1.8㎜ Drilling Application（A6061)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-aluminum/aluminum-NR-3060S-EM-3060-%CF%861.8%E3%8E%9C-Drilling-Application-A6061.jpg",
+        "tags": [
+          "work examples", "aluminum"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-aluminum/aluminum-NR-3060S-EM-3060-%CF%861.8%E3%8E%9C-Drilling-Application-A6061.pdf",
+              "label": "NR-3060S/EM-3060 φ1.8㎜ Drilling Application（A6061)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "NR-3060S/EM-3030T-J φ6.0㎜ End mill Application（A6061)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-aluminum/aluminum-NR-3060S-EM-3030T-J-%CF%866.0%E3%8E%9C-End-mill-Application-A6061.jpg",
+        "tags": [
+          "work examples", "aluminum"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-aluminum/aluminum-NR-3060S-EM-3030T-J-%CF%866.0%E3%8E%9C-End-mill-Application-A6061.pdf",
+              "label": "NR-3060S/EM-3030T-J φ6.0㎜ End mill Application（A6061)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "EMR-3008K φ4.0㎜ End mill Application（A2017)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-aluminum/aluminum-EMR-3008K-%CF%864.0%E3%8E%9C-End-mill-Application-A2017.jpg",
+        "tags": [
+          "work examples", "aluminum"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-aluminum/aluminum-EMR-3008K-%CF%864.0%E3%8E%9C-End-mill-Application-A2017.pdf",
+              "label": "EMR-3008K φ4.0㎜ End mill Application（A2017)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "NR3060-AQC/EM-3060J R2 Ball End mill Application（A7075P)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-aluminum/aluminum-NR3060-AQCEM-3060J-R2-Ball-End-mill-Application-A7075P.jpg",
+        "tags": [
+          "work examples", "aluminum"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-aluminum/aluminum-NR3060-AQCEM-3060J-R2-Ball-End-mill-Application-A7075P.pdf",
+              "label": "NR3060-AQC/EM-3060J R2 Ball End mill Application（A7075P)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "EMS-3060K φ2.5㎜ End mill Application (A2017)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-aluminum/aluminum-EMS-3060K-%CF%862.5%E3%8E%9C-End-mill-Application-A2017.jpg",
+        "tags": [
+          "work examples", "aluminum"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-aluminum/aluminum-EMS-3060K-%CF%862.5%E3%8E%9C-End-mill-Application-A2017.pdf",
+              "label": "EMS-3060K φ2.5㎜ End mill Application (A2017)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "NR3060-AQC/EM-3060J R1 Ball End mill Application (A7075P)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-aluminum/aluminum-NR3060-AQCEM-3060J-R1-Ball-End-mill-Application-A7075P.jpg",
+        "tags": [
+          "work examples", "aluminum"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-aluminum/aluminum-NR3060-AQCEM-3060J-R1-Ball-End-mill-Application-A7075P.pdf",
+              "label": "NR3060-AQC/EM-3060J R1 Ball End mill Application (A7075P)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "NR-3060S/EM-3060J C1 chamfer End mill Application (A5052P)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-aluminum/aluminum-NR-3060S-EM-3060J-C1-chamfer-End-mill-Application-A5052P.jpg",
+        "tags": [
+          "work examples", "aluminum"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-aluminum/aluminum-NR-3060S-EM-3060J-C1-chamfer-End-mill-Application-A5052P.pdf",
+              "label": "NR-3060S/EM-3060J C1 chamfer End mill Application (A5052P)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "BMS-4020-MQL φ1.5㎜ End mill Application（NAK80)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-aluminum/aluminum-BMS-4020-MQL-%CF%861.5%E3%8E%9C-End-mill-Application-NAK80.jpg",
+        "tags": [
+          "work examples", "aluminum"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-aluminum/aluminum-BMS-4020-MQL-%CF%861.5%E3%8E%9C-End-mill-Application-NAK80.pdf",
+              "label": "BMS-4020-MQL φ1.5㎜ End mill Application（NAK80)"
+          }
+        ],
+        "videos": [
+          {
+            "title":"NAKANISHI Motor Spindle E4000 End Milling φ1.5 (NAK80)",
+            "provider":"youtube",
+            "videoEmbedId":"https://www.youtube.com/embed/SKW9SJgGdO0",
+            "youtubeThumbnail":"https://img.youtube.com/vi/SKW9SJgGdO0/0.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Brass / Copper",
+    "slug": "brass-copper",
+    "description": "",
+    "category": "Work Materials",
+    "headerImage": "",
+    "image": "https://nsk.nyc3.cdn.digitaloceanspaces.com/img/transparent-380x254.png"
+  },
+  {
+    "name": "Steel",
+    "slug": "steel",
+    "description": "",
+    "category": "Work Materials",
+    "headerImage": "",
+    "image": "https://nsk.nyc3.cdn.digitaloceanspaces.com/img/transparent-380x254.png",
+    "products": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "RAS-151E/EM-3060 φ10.0㎜ End mill Application（KFS103)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-steel/steel-RAS-151E-EM-3060-%CF%8610.0%E3%8E%9C-End-mill-Application-KFS103.jpg",
+        "tags": [
+          "work examples", "steel"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-steel/steel-RAS-151E-EM-3060-%CF%8610.0%E3%8E%9C-End-mill-Application-KFS103.pdf",
+              "label": "RAS-151E/EM-3060 φ10.0㎜ End mill Application（KFS103)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "BMS-4020 φ8.0㎜ Drilling Application（S45C)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-steel/steel-BMS-4020-%CF%868.0%E3%8E%9C-Drilling-Application-S45C.jpg",
+        "tags": [
+          "work examples", "steel"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-steel/steel-BMS-4020-%CF%868.0%E3%8E%9C-Drilling-Application-S45C.pdf",
+              "label": "BMS-4020 φ8.0㎜ Drilling Application（S45C)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "BMS-4020 φ5.0㎜ Drilling Application（S55C)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-steel/steel-BMS-4020-%CF%865.0%E3%8E%9C-Drilling-Application-S55C.jpg",
+        "tags": [
+          "work examples", "steel"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-steel/steel-BMS-4020-%CF%865.0%E3%8E%9C-Drilling-Application-S55C.pdf",
+              "label": "BMS-4020 φ5.0㎜ Drilling Application（S55C)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "EMA-3020K φ5.0㎜ End mill Application（S45C)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-steel/steel-EMA-3020K-%CF%865.0%E3%8E%9C-End-mill-Application-S45C.jpg",
+        "tags": [
+          "work examples", "steel"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-steel/steel-EMA-3020K-%CF%865.0%E3%8E%9C-End-mill-Application-S45C.pdf",
+              "label": "EMA-3020K φ5.0㎜ End mill Application（S45C)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "EMA-3020K φ4.0㎜ End mill Application（S45C)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-steel/steel-EMA-3020K-%CF%864.0%E3%8E%9C-End-mill-Application-S45C.jpg",
+        "tags": [
+          "work examples", "steel"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-steel/steel-EMA-3020K-%CF%864.0%E3%8E%9C-End-mill-Application-S45C.pdf",
+              "label": "EMA-3020K φ4.0㎜ End mill Application（S45C)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "BMS-4020-MQL φ4㎜ Drilling Application（S50C)",
+        "image": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-steel/steel-BMS-4020-MQL-%CF%864%E3%8E%9C-Drilling-Application-S50C.jpg",
+        "tags": [
+          "work examples", "steel"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-steel/steel-BMS-4020-MQL-%CF%864%E3%8E%9C-Drilling-Application-S50C.pdf",
+              "label": "BMS-4020-MQL φ4㎜ Drilling Application（S50C)"
+          }
+        ],
+        "videos": [
+          {
+            "title":"NAKANISHI Motor Spindle E4000 MQL φ4.0 (S50C)",
+            "provider":"youtube",
+            "videoEmbedId":"https://www.youtube.com/embed/sPSA7ctvhDI",
+            "youtubeThumbnail":"https://img.youtube.com/vi/sPSA7ctvhDI/0.jpg"
+         }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "BMS-4020 φ3.0㎜ End mill Application（S50C)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-steel/steel-BMS-4020-%CF%863.0%E3%8E%9C-End-mill-Application-S50C.jpg",
+        "tags": [
+          "work examples", "steel"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-steel/steel-BMS-4020-%CF%863.0%E3%8E%9C-End-mill-Application-S50C.pdf",
+              "label": "BMS-4020 φ3.0㎜ End mill Application（S50C)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "BMS-4020 φ3.0㎜ End mill Application（S50C) ",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-steel/steel-BMS-4020-%CF%863.0%E3%8E%9C-End-mill-Application-S50C-2.jpg",
+        "tags": [
+          "work examples", "steel"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-steel/steel-BMS-4020-%CF%863.0%E3%8E%9C-End-mill-Application-S50C-2.pdf",
+              "label": "BMS-4020 φ3.0㎜ End mill Application（S50C)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "EMR-3008K φ3.0㎜ Drilling Application（S50C)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-steel/steel-EMR-3008K-%CF%863.0%E3%8E%9C-Drilling-Application-S50C.jpg",
+        "tags": [
+          "work examples", "steel"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-steel/steel-EMR-3008K-%CF%863.0%E3%8E%9C-Drilling-Application-S50C.pdf",
+              "label": "EMR-3008K φ3.0㎜ Drilling Application（S50C)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "NR-3060S/EM-3030T-J φ3.0㎜ Drilling Application（S50C)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-steel/steel-NR-3060S-EM-3030T-J-%CF%863.0%E3%8E%9C-Drilling-Application-S50C.jpg",
+        "tags": [
+          "work examples", "steel"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-steel/steel-NR-3060S-EM-3030T-J-%CF%863.0%E3%8E%9C-Drilling-Application-S50C.pdf",
+              "label": "NR-3060S/EM-3030T-J φ3.0㎜ Drilling Application（S50C)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "EMS-3060K φ2.5㎜ Drilling Application（S50C)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-steel/steel-EMS-3060K-%CF%862.5%E3%8E%9C-Drilling-Application-S50C.jpg",
+        "tags": [
+          "work examples", "steel"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-steel/steel-EMS-3060K-%CF%862.5%E3%8E%9C-Drilling-Application-S50C.pdf",
+              "label": "EMS-3060K φ2.5㎜ Drilling Application（S50C)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "BMS-4020 φ2.1㎜ Drilling Application (SCM420)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-steel/steel-BMS-4020-%CF%862.1%E3%8E%9C-Drilling-Application-SCM420.jpg",
+        "tags": [
+          "work examples", "steel"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-steel/steel-BMS-4020-%CF%862.1%E3%8E%9C-Drilling-Application-SCM420.pdf",
+              "label": "BMS-4020 φ2.1㎜ Drilling Application (SCM420)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "EM20-S6000 φ2.0㎜ Drilling Application（S50C)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-steel/steel-EM20-S6000-%CF%862.0%E3%8E%9C-Drilling-Application-S50C.jpg",
+        "tags": [
+          "work examples", "steel"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-steel/steel-EM20-S6000-%CF%862.0%E3%8E%9C-Drilling-Application-S50C.pdf",
+              "label": "EM20-S6000 φ2.0㎜ Drilling Application（S50C)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "EMR-3008K φ3.0㎜ End mill Application (S50C)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-steel/steel-EMR-3008K-%CF%863.0%E3%8E%9C-End-mill-Application-S50C.jpg",
+        "tags": [
+          "work examples", "steel"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-steel/steel-EMR-3008K-%CF%863.0%E3%8E%9C-End-mill-Application-S50C.pdf",
+              "label": "EMR-3008K φ3.0㎜ End mill Application (S50C)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "EMS-3060K φ2.0㎜ End mill Application (S50C)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-steel/steel-EMR-3008K-%CF%863.0%E3%8E%9C-End-mill-Application-S50C.jpg",
+        "tags": [
+          "work examples", "steel"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-steel/steel-EMS-3060K-%CF%862.5%E3%8E%9C-Drilling-Application-S50C.pdf",
+              "label": "EMS-3060K φ2.0㎜ End mill Application (S50C)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "EM20-S6000 φ1.5㎜ End mill Application (S50C)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-steel/steel-EM20-S6000-%CF%861.5%E3%8E%9C-End-mill-Application-S50C.jpg",
+        "tags": [
+          "work examples", "steel"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-steel/steel-EM20-S6000-%CF%861.5%E3%8E%9C-End-mill-Application-S50C.pdf",
+              "label": "EM20-S6000 φ1.5㎜ End mill Application (S50C)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Casting Iron",
+    "slug": "casting-iron",
+    "description": "",
+    "category": "Work Materials",
+    "headerImage": "",
+    "image": "https://nsk.nyc3.cdn.digitaloceanspaces.com/img/transparent-380x254.png",
+    "products": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "BMS-4020 φ10.0㎜ End mill Application (Casting)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-casting-iron/casting-iron-BMS-4020-%CF%8610.0%E3%8E%9C-End-mill-Application-Casting.jpg",
+        "tags": [
+          "work examples", "castiong iron"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-casting-iron/casting-iron-BMS-4020-%CF%8610.0%E3%8E%9C-End-mill-Application-Casting.pdf",
+              "label": "BMS-4020 φ10.0㎜ End mill Application (Casting)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Stainless",
+    "slug": "stainless",
+    "description": "",
+    "category": "Work Materials",
+    "headerImage": "",
+    "image": "https://nsk.nyc3.cdn.digitaloceanspaces.com/img/transparent-380x254.png",
+    "products": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "BMS-4020-MQL φ15mm Internal Grinding Application（SUS420)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-stainless/stainless-BMS-4020-MQL-%CF%8615mm-Internal-Grinding-Application-SUS420.jpg",
+        "tags": [
+          "work examples", "stainless"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-stainless/stainless-BMS-4020-MQL-%CF%8615mm-Internal-Grinding-Application-SUS420.pdf",
+              "label": "BMS-4020-MQL φ15mm Internal Grinding Application（SUS420)"
+          }
+        ],
+        "videos": [
+          {
+            "title":"NAKANISHI Motor Spindle E4000 Internal Grinding (SUS420)",
+            "provider":"youtube",
+            "videoEmbedId":"https://www.youtube.com/embed/royUdhUy26A",
+            "youtubeThumbnail":"https://img.youtube.com/vi/royUdhUy26A/0.jpg"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "BMS-4040 φ6.0㎜ End mill Application (SUS303)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-stainless/stainless-BMS-4040-%CF%866.0%E3%8E%9C-End-mill-Application-SUS303.jpg",
+        "tags": [
+          "work examples", "stainless"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-stainless/stainless-BMS-4040-%CF%866.0%E3%8E%9C-End-mill-Application-SUS303.pdf",
+              "label": "BMS-4040 φ6.0㎜ End mill Application (SUS303)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "BMS-4020 φ5.0㎜ Drilling Application（SUS303)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-stainless/stainless-BMS-4020-%CF%865.0%E3%8E%9C-Drilling-Application-SUS303.jpg",
+        "tags": [
+          "work examples", "stainless"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-stainless/stainless-BMS-4020-%CF%865.0%E3%8E%9C-Drilling-Application-SUS303.pdf",
+              "label": "BMS-4020 φ5.0㎜ Drilling Application（SUS303)"
+          }
+        ],
+        "videos": [
+          {
+            "title":"NAKANISHI Motor Spindle E3000 & E4000 Drilling & End Milling",
+            "provider":"youtube",
+            "videoEmbedId":"https://www.youtube.com/embed/antLDQdJNHs",
+            "youtubeThumbnail":"https://img.youtube.com/vi/antLDQdJNHs/0.jpg"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "EM20-S6000 φ4.0㎜ Drilling Application（SUS303)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-stainless/stainless-EM20-S6000-%CF%864.0%E3%8E%9C-Drilling-Application-SUS303.jpg",
+        "tags": [
+          "work examples", "stainless"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-stainless/stainless-EM20-S6000-%CF%864.0%E3%8E%9C-Drilling-Application-SUS303.pdf",
+              "label": "EM20-S6000 φ4.0㎜ Drilling Application（SUS303)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "EM20-S6000 φ4.0㎜ End mill Application（SUS303)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-stainless/stainless-EM20-S6000-%CF%864.0%E3%8E%9C-End-mill-Application-SUS303.jpg",
+        "tags": [
+          "work examples", "stainless"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-stainless/stainless-EM20-S6000-%CF%864.0%E3%8E%9C-End-mill-Application-SUS303.pdf",
+              "label": "EM20-S6000 φ4.0㎜ End mill Application（SUS303)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "EM20-S6000 φ4.0㎜ End mill Application（SUS303)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-stainless/stainless-EM20-S6000-%CF%864.0%E3%8E%9C-End-mill-Application-SUS303-2.jpg",
+        "tags": [
+          "work examples", "stainless"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-stainless/stainless-EM20-S6000-%CF%864.0%E3%8E%9C-End-mill-Application-SUS303-2.pdf",
+              "label": "EM20-S6000 φ4.0㎜ End mill Application（SUS303)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "EMR-3008K φ2.5㎜ End mill Application (SUS304)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-stainless/stainless-EMR-3008K-%CF%862.5%E3%8E%9C-End-mill-Application-SUS304.jpg",
+        "tags": [
+          "work examples", "stainless"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-stainless/stainless-EMR-3008K-%CF%862.5%E3%8E%9C-End-mill-Application-SUS304.pdf",
+              "label": "EMR-3008K φ2.5㎜ End mill Application (SUS304)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "EM20-S6000 φ2.4㎜ Drilling Application（SUS420J2)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-stainless/stainless-EM20-S6000-%CF%862.4%E3%8E%9C-Drilling-Application-SUS420J2.jpg",
+        "tags": [
+          "work examples", "stainless"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-stainless/stainless-EM20-S6000-%CF%862.4%E3%8E%9C-Drilling-Application-SUS420J2.pdf",
+              "label": "M20-S6000 φ2.4㎜ Drilling Application（SUS420J2)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "BM-319F φ2.3㎜ Thread Milling Application (SUS420J2)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-stainless/stainless-BMJ-320-%CF%861.3%E3%8E%9C-Thread-Milling-Application-SUS420J2.jpg",
+        "tags": [
+          "work examples", "stainless"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-stainless/stainless-BMJ-320-%CF%861.3%E3%8E%9C-Thread-Milling-Application-SUS420J2.pdf",
+              "label": "BM-319F φ2.3㎜ Thread Milling Application (SUS420J2)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "EMR-3008K φ2.0㎜ Drilling Application（SUS304)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-stainless/stainless-EMR-3008K-%CF%862.0%E3%8E%9C-Drilling-Application-SUS304.jpg",
+        "tags": [
+          "work examples", "stainless"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-stainless/stainless-EMR-3008K-%CF%862.0%E3%8E%9C-Drilling-Application-SUS304.pdf",
+              "label": "EMR-3008K φ2.0㎜ Drilling Application（SUS304)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "EMS-3060K φ2.0㎜ End mill Application (SUS304)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-stainless/stainless-EMS-3060K-%CF%862.0%E3%8E%9C-End-mill-Application-SUS304.jpg",
+        "tags": [
+          "work examples", "stainless"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-stainless/stainless-EMS-3060K-%CF%862.0%E3%8E%9C-End-mill-Application-SUS304.pdf",
+              "label": "EMS-3060K φ2.0㎜ End mill Application (SUS304)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "EMS-3060K φ1.5㎜ Drilling Application（SUS304)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-stainless/stainless-EMS-3060K-%CF%861.5%E3%8E%9C-Drilling-Application-SUS304.jpg",
+        "tags": [
+          "work examples", "stainless"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-stainless/stainless-EMS-3060K-%CF%861.5%E3%8E%9C-Drilling-Application-SUS304.pdf",
+              "label": "EMS-3060K φ1.5㎜ Drilling Application（SUS304)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "EM20-S6000 φ1.5㎜ End mill Application (SUS304)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-stainless/stainless-EM20-S6000-%CF%861.5%E3%8E%9C-End-mill-Application-SUS304.jpg",
+        "tags": [
+          "work examples", "stainless"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-stainless/stainless-EM20-S6000-%CF%861.5%E3%8E%9C-End-mill-Application-SUS304.pdf",
+              "label": "EM20-S6000 φ1.5㎜ End mill Application (SUS304)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "BMJ-320 φ1.3㎜ Thread Milling Application (SUS420J2)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-stainless/stainless-BMJ-320-%CF%861.3%E3%8E%9C-Thread-Milling-Application-SUS420J2.jpg",
+        "tags": [
+          "work examples", "stainless"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-stainless/stainless-BMJ-320-%CF%861.3%E3%8E%9C-Thread-Milling-Application-SUS420J2.pdf",
+              "label": "BMJ-320 φ1.3㎜ Thread Milling Application (SUS420J2)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "EM20-S6000 φ1.0㎜ Drilling Application（SUS304)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-stainless/stainless-EM20-S6000-%CF%861.0%E3%8E%9C-Drilling-Application-SUS304.jpg",
+        "tags": [
+          "work examples", "stainless"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-stainless/stainless-EM20-S6000-%CF%861.0%E3%8E%9C-Drilling-Application-SUS304.pdf",
+              "label": "EM20-S6000 φ1.0㎜ Drilling Application（SUS304)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Titanium",
+    "slug": "titanium",
+    "description": "",
+    "category": "Work Materials",
+    "headerImage": "",
+    "image": "https://nsk.nyc3.cdn.digitaloceanspaces.com/img/transparent-380x254.png",
+    "products": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "BMJ-320 φ1.5㎜ Thread Milling Application (TB340)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-titanium/titanium-BMJ-320-%CF%861.5%E3%8E%9C-Thread-Milling-Application-TB340.jpg",
+        "tags": [
+          "work examples", "titanium"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-titanium/titanium-BMJ-320-%CF%861.5%E3%8E%9C-Thread-Milling-Application-TB340.pdf",
+              "label": "BMJ-320 φ1.5㎜ Thread Milling Application (TB340)"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "BM-320F φ1.5㎜ Thread Milling Application (TP340)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-titanium/titanium-BM-320F-%CF%861.5%E3%8E%9C-Thread-Milling-Application-TP340.jpg",
+        "tags": [
+          "work examples", "titanium"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-titanium/titanium-BM-320F-%CF%861.5%E3%8E%9C-Thread-Milling-Application-TP340.pdf",
+              "label": "BM-320F φ1.5㎜ Thread Milling Application (TP340)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "PCB",
+    "slug": "pcb",
+    "description": "",
+    "category": "Work Materials",
+    "headerImage": "",
+    "image": "https://nsk.nyc3.cdn.digitaloceanspaces.com/img/transparent-380x254.png",
+    "products": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "NR50-5100ATC/EM-3060 φ2.0㎜ End mill Application (PCB)",
+        "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-pcb/pcb-NR50-5100ATCEM-3060-%CF%862.0%E3%8E%9C-End-mill-Application-PCB.jpg",
+        "tags": [
+          "work examples", "aluminum"
+        ],
+        "downloads": [
+          {
+              "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/solutions/work-materials-pcb/pcb-NR50-5100ATCEM-3060-%CF%862.0%E3%8E%9C-End-mill-Application-PCB.jpdf",
+              "label": "NR50-5100ATC/EM-3060 φ2.0㎜ End mill Application (PCB)"
+          }
+        ]
+      }
+    ]
+  }
+]

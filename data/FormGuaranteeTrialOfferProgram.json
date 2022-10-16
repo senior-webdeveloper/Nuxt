@@ -1,0 +1,33 @@
+{
+  "initialDate": "",
+  "testDate": "",
+  "distributor": "",
+  "endUser": "",
+  "guarantee": "",
+  "distributorDetails": {
+    "distributor": "",
+    "name": "",
+    "title": "",
+    "email": "",
+    "date": ""
+  },
+  "endUserDetails": {
+    "endUser": "",
+    "name": "",
+    "title": "",
+    "phone": "",
+    "email": "",
+    "address": {
+      "street": "",
+      "cityStateZip": "",
+      "state": "",
+      "zip": ""
+    },
+  "date": ""
+  },
+  "createdAt": "",
+  "updatedAt": "",
+  "approved": ""
+}
+
+

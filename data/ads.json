@@ -1,0 +1,14 @@
+<script type="application/ld+json">
+{
+  "title": "",
+  "url": "",
+  "description": "", 
+  "image": "",
+  "isActive": {
+    "startDate": "", //added in case we want to set date when it's published
+    "endDate": "", //added in case we want to set date when it's published
+  },
+  "createdAt": "", //automatic
+  "updatedAt": "", //automatic
+}
+</script>

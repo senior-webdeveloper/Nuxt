@@ -1,0 +1,688 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "details": "",
+    "name": "Emax EVOlution",
+    "slugForUrl": "emax-evolution",
+    "shortTitle": "ULTRA-PRECISION BRUSHLESS MICRO-GRINDER",
+    "subTitle": "Electrically Driven 1,000~40,000 min-1 (rpm)",
+    "description": "Digital display enhances safety and efficiency. Compact and functional design makes the unit portable. Soft-touch switches permit easy operation and long service life.",
+    "features": [
+      "Digital display enhances safety and efficiency",
+      "Compact and functional design makes the unit portable",
+      "Soft touch switches permit easy operation and long service life",
+      "NAKANISHI Smart Switch",
+      "High performance samarium cobalt magnet",
+      "High accuracy, lightweight, high reliability and superior durability",
+      "Major reduction of RF noise",
+      "Provides extremely quiet operation from low to high speed with stepless speed adjustment"
+    ],
+    "specifications": [
+      ["Motor Model", "ENK-410S", "ENK250T"],
+      ["Speed", "1,000-40,000 min-1( rpm)", "1,000-25,000 min-1(rpm)"],
+      ["Weight (w/o Cord)", "3.17 oz.", "5.19 oz."],
+      ["Max. Torque", "4.3 cN·m", "4.8 cN·m" ],
+      ["Output Power", "73W", "76W" ]
+    ],
+    "downloads": [
+      {
+          "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/pdf/operation-manuals/operation-manual-emax-evolution-en.pdf",
+          "label": "Emax EVOlution Operation Manual"
+      },
+      {
+          "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/pdf/operation-manuals/operation-guide-emax-evolution-en.pdf",
+          "label": "Emax EVOlution Guide"
+      }
+    ],
+    "video": {
+      "provider":"upload",          
+      "streamHls":"https://videodelivery.net/d449b08cfb0b7f32da3e0a8a903ef5d9/manifest/video.m3u8"
+    },
+    "catalogPage": "https://nsk-cdn.cinnamondigital.app/NSK-2021-Catalog.pdf#page=16", 
+    "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/series/emax-evolution.png",
+    "category": "Hand Tools",
+    "handToolCategory": "Electric Hand Grinder",
+    "tags": [
+      "hand tools", "electric hand grinder", "electric"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "details": "",
+    "name": "ESPERT 500",
+    "slugForUrl": "espert-500",
+    "shortTitle": "ULTRA-PRECISION BRUSHLESS MICRO-GRINDER",
+    "subTitle": "Electrically Driven 1,000~50,000 min-1 (rpm)",
+    "description": "The ESPERT 500 Brushless Motor takes motor technology to an even higher level. This new state of the art motor has dramatically increased efficiency and torque output. The microprocessor based control unit provides optimal control of the motors and allows for increased flexibility in this multi-function system.",
+    "features": [
+      "Realizes high output power of up to 200W and high durability through the combination of a high-performance brushless DC motor and high grade electronics",
+      "High power system: max. output 140W",
+      "Speed range: 1,000-50,000 min-1(rpm)",
+      "Microprocessor controlled for optimal motor control",
+      "Hand switch [NAKANISHI Smart Switch]",
+      "Memory speed function [FiXpeed]"
+    ],
+    "downloads": [
+      {
+          "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/pdf/operation-manuals/operation-manual-espert500-en.pdf",
+          "label": "ESPERT 500 Operation Manual"
+      }
+    ],
+    "video": {
+      "provider":"upload",          
+      "streamHls":"https://videodelivery.net/d449b08cfb0b7f32da3e0a8a903ef5d9/manifest/video.m3u8"
+    },
+    "catalogPage": "https://nsk-cdn.cinnamondigital.app/NSK-2021-Catalog.pdf#page=34",
+    "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/series/espert.png",
+    "category": "Hand Tools",
+    "handToolCategory": "Electric Hand Grinder",
+    "tags": [
+      "hand tools", "electric hand grinder"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "details": "",
+    "name": "ROTUS",
+    "slugForUrl": "rotus",
+    "shortTitle": "ULTRA-PRECISION HIGH TORQUE AIR GRINDER",
+    "subTitle": "Air Driven 30,000 min-1 (rpm)",
+    "description": "The ROTUS system is a hand-held grinder with an energy saving air motor. Since it is an air driven system, there is virtually no heat generation resulting in excellent durability. Select from a variety of attachments depending on the application.",
+    "features": [
+      "High torque air motor assembled with special vane mechanism",
+      "Two types of air motors can be selected depending on the application",
+      "1/4 and 1/15 speed reducers (RG-01, RG-02) can be connected"
+    ],
+    "specifications": [
+      ["Model", "ROTUS"],
+      ["Speed", "Max. 30,000 min-1(rpm) (56PSI)"],
+      ["Proper Air Pressure", "42-63PSI"],
+      ["Air Consumption", "2.65CFM"],
+      ["Output Power", "46W (motor)"],
+      ["Max. Torque", "6.6 cN · m (56PSI)"],
+      ["Motor", "Air motor IM-301"],
+      ["Dimensions", "Air motor (IM-301) + Attachment (IR-310)"],
+      ["Weight", "Air motor (IM-301) + Attachment (IR310): 6.63 oz."]
+    ],
+    "catalogPage": "https://nsk-cdn.cinnamondigital.app/NSK-2021-Catalog.pdf#page=44",  
+    "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/series/rotus.png",
+    "category": "Hand Tools",
+    "handToolCategory": "Pneumatic Hand Grinder",
+    "tags": [
+      "hand tools", "pneumatic hand grinder"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "details": "",
+    "name": "IMPULSE",
+    "slugForUrl": "impulse",
+    "shortTitle": "ULTRA-PRECISION HIGH TORQUE AIR GRINDER",
+    "subTitle": "Air Driven 60,000 min-1 (rpm)",
+    "description": "The IMPULSE is a high torque pencil type air grinder. It is a durable and quiet high-efficiency air grinder. The IMPULSE Series offers 45 degree and 90 degree models. Choose the type that best fits your application requirements.",
+    "features": [
+      "Durable and quiet high-efficient air grinder",
+      "45 degree and 90 degree models available",
+      "Excellent silencer",
+      "Free from twisting hose",
+      "Mounting and dismounting cutting tool",
+      "Exchangeable collet"
+    ], 
+    "catalogPage": "https://nsk-cdn.cinnamondigital.app/NSK-2021-Catalog.pdf#page=46",
+    "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/series/impulse.png",
+    "category": "Hand Tools",
+    "handToolCategory": "Pneumatic Hand Grinder",
+    "tags": [
+      "hand tools", "pneumatic hand grinder"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "details": "",
+    "name": "PRESTO II",
+    "slugForUrl": "presto-2",
+    "shortTitle": "ULTRA-PRECISION HIGH SPEED AIR TURBINE GRINDER",
+    "subTitle": "Air Driven 320,000 min-1 (rpm)",
+    "description": "PRESTO II is an ultra high speed non-lube air turbine. It is most suitable for precision processing works such as small precision parts, ceramic, correction of printed circuit board, etc. due to its non-lube handpiece. Flexible tubing ensures excellent workability reducing fatigue to the operator's hand for long continuous use.",
+    "features": [
+      "Most suitable for delicate processing work, utilizing a no lube air turbine handpiece",
+      "320,000 min-1(rpm)",
+      "Ultra-high speed no lube air turbine handpiece ideal for delicate processing applications",
+      "Chip air blows away the cutting powder and cools the cutting tool",
+      "Built in dust protect mechanism developed by NAKANISHI ensures long durability"
+    ],
+    "specifications": [
+      ["Model", "PRESTO II"],
+      ["Rotating Speed", "320,000 min-1(rpm)"],
+      ["Proper Air Pressure", "35PSI"],
+      ["Weight", "2.50 oz. (w/o Hose)"],
+      ["Inside Diameter", "ø1.6 mm Bur Only"],
+      ["Air Consumption", "1.41CFM"]
+    ],
+    "catalogPage": "https://nsk-cdn.cinnamondigital.app/NSK-2021-Catalog.pdf#page=52",
+    "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/series/presto.png",
+    "category": "Hand Tools",
+    "handToolCategory": "Pneumatic Hand Grinder",
+    "tags": [
+      "hand tools", "pneumatic hand grinder"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "details": "",
+    "name": "Sheenus ZERO",
+    "slugForUrl": "sheenus-zero",
+    "shortTitle": "ULTRASONIC POLISHER",
+    "subTitle": "19 - 29 KHz",
+    "description": "The Sheenus ZERO can be used for grinding, polishing and mirror finishing on a wide range of materials from aluminum dies to cemented carbide dies. It is also perfect for plastic molds, press, casting, forging, trimming and header dies. This tool quickly removes hard layers of EDM deposits and polishes difficult areas such as complex corners and ribs. Capabilities include bur removal, grinding and polishing of precision molds, dies electronic and ceramic components.",
+    "specifications": [
+      ["Unit Model", "NE330 120V"],
+      ["Power Source", "AC120V/240V, 50-60Hz"],
+      ["Power consumption", "100VA"],
+      ["Dimensions", "W6.34″ x D10.08″ x H3.31″"],
+      ["Oscillation Frequency", "19 KHz - 29 KHZ"],
+      ["Power Conditioning", "Continuous variable type"],
+      ["Frequency Control", "Auto-tracking type"],
+      ["Output Power", "UNCLAMP mode Max. 45W, CLAMP mode Max. 20W"],
+      ["Weight", "3 lb. 5 oz."]
+    ],
+    "specifications2": [
+      ["Handpiece Model", "US-50P"],
+      ["Oscillator", "PZT piezoelectric type"],
+      ["Attachment fixing", "M6 screw"],
+      ["Cable Length", "6 ft"],
+      ["Dimensions", "ø0.63″ (Max ø1.10″) x L5.28″"],
+      ["Weight", "5.29 oz. (excluding cable)"]
+    ],
+    "downloads": [
+      {
+          "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/pdf/operation-manuals/operation-manual-sheenus-zero-en.pdf",
+          "label": "Sheenus ZERO Operation Manual"
+      },
+      {
+          "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/pdf/operation-manuals/operation-guide-sheenus-zero-en.pdf",
+          "label": "Sheenus ZERO Operation Guide"
+      }
+    ], 
+    "catalogPage": "https://nsk-cdn.cinnamondigital.app/NSK-2021-Catalog.pdf#page=54",
+    "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/series/sheenus.png",
+    "category": "Hand Tools",
+    "handToolCategory": "Ultrasonic Products",
+    "tags": [ "hand tools", "ultrasonic products" ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "details": "",
+    "name": "Sonic Cutter ZERO",
+    "slugForUrl": "sonic-cutter-zero",
+    "shortTitle": "HIGH PERFORMANCE ULTRASONIC KNIFE",
+    "subTitle": "38 kHz - 40 kHz",
+    "description": "The vibration free Sonic Cutter ensures accurate and sharp cutting finishes. The ergonomic design and easy to maneuver handpiece reduces hand fatigue for long and continuous operation. The output power auto adjusts to the load which provides constant frequency for steady cutting results.",
+    "features": [
+      "Vibration-Free Operation Ensures Accurate and Sharp Cutting Finishes",
+      "Ergonomic Design Reduces Hand Fatigue for Long and Continuous Operation",
+      "Easy-to-Maneuver Handpiece",
+      "Output Power Auto Adjusts to Load",
+      "Constant Frequency Provides Steady Cutting Results",
+      "Oscillating Frequency: 39.5KHz",
+      "Max. Output Power: 30W"
+    ],
+    "specifications": [
+      ["Unit Model", "7785 120V"],
+      ["Power Source", "AC100-240V"],
+      ["Dimensions", "W6.34″ x D10.08″ x H3.31″"],
+      ["Oscillation Frequency", "38 kHz - 40 kHz"],
+      ["Frequency Control", "Auto-tracking type"],
+      ["Output Power", "30W"],
+      ["Weight", "3 lb. 1.44 oz."]
+    ],
+    "specifications2": [
+      ["Handpiece Model", "UA-40C"],
+      ["Oscillator", "Bolt-clamped Langevin type"],
+      ["Setting the blade", "screwed the blade W0.16″ x thickness 0.015″"],
+      ["Cable Length", "118 in"],
+      ["Dimensions", "Max. φ0.984 in. x L 6.54 in."],
+      ["Weight", "120 g (excluding cable)"]
+    ],
+    "downloads": [
+      {
+          "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/pdf/operation-manuals/operation-manual-sonic-cutter-en.pdf",
+          "label": "Sonic Cutter Operation Manual"
+      }
+    ],
+    "video": {
+      "provider":"upload",          
+      "streamHls":"https://videodelivery.net/30dc95709a57b6af84f191896d9eaf1b/manifest/video.m3u8"
+    },  
+    "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/series/sonic-cutter-zero.png",
+    "category": "Hand Tools",
+    "handToolCategory": "Ultrasonic Products",
+    "catalog": "https://nsk.nyc3.cdn.digitaloceanspaces.com/series/pdfs/iSpeed5.pdf",
+    "tags": [ "hand tools", "ultrasonic products" ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "details": "",
+    "name": "iSpeed3",
+    "slugForUrl": "ispeed3",
+    "shortTitle": "ELECTRIC SPINDLES FOR SWISS STYLE LATHES",
+    "subTitle": "19.05mm (.75”), 20mm, 22mm, 25mm Spindle Dia., 19.05mm Flange, 20mm Flange, 22mm Flange, 60,000 – 80,000RPM, 140 – 150W (.18 - .2HP) Max Power",
+    "description": "The shorter spindle length is suitable for compact sized automatic CNC lathes. The iSpeed3 Series features sensorless motors and is equipped with super precision hybrid ceramic bearings for longer spindle life.",
+    "features": [
+      "Maximum 60,000/80,000 min-1(rpm)",
+      "Maximum motor power output 140W/150W",
+      "Air-cooling system",
+      "Spindle accuracy",
+      "High rigidity, short body",
+      "Motor connector attaches directly to the back of the motor/spindle",
+      "Spindle accuracy less than 1 micron T.I.R."
+    ],
+    "downloads": [
+      {
+          "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/pdf/operation-manuals/operation-manual-ispeed3-control-unit.pdf",
+          "label": "iSpeed3 Control Unit Operation Manual"
+      }
+    ],
+    "video": {
+      "provider":"upload",          
+      "streamHls":"https://videodelivery.net/95573a202513b716d2a55487ddb7fd85/manifest/video.m3u8"
+    },
+    "catalogPage": "https://nsk-cdn.cinnamondigital.app/NSK-2021-Catalog.pdf#page=60",
+    "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/series/ispeed3.png",
+    "category": "Machining Spindles",
+    "machiningSpindlesCategory": ["Electric", "Swiss style"],
+    "tags": [
+      "machining spindles", "high-speed electric spindles"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "details": "",
+    "name": "E2000",
+    "slugForUrl": "e2000",
+    "shortTitle": "ELECTRIC SPINDLES",
+    "subTitle": "22.8mm (0.89”) Spindle Dia., 50,000 Max RPM, 200W Max Power",
+    "description": "The E2000 Series employs a high-speed, ultra-quiet brushless motor. A high-performance system and state of the art design provides high-speed machining and a variety of safety functions.",
+    "features": [
+      "Maximum Output 200W",
+      "Brushless DC Motor designs for excellent reliability and durability",
+      "Air-cooled motor uses a small volume of dry air (1.0 CFM) to minimize heat buildup and allow continuous operation",
+      "Wide variety of interchangeable spindles are available",
+      "Safe protection function",
+      "Centering mode switch",
+      "2 motors can be connected (No simultaneous operation)",
+      "Compact vertical control unit",
+      "Power source auto detection",
+      "Stainless steel body",
+      "Emergency stop function"
+    ], 
+    "catalogPage": "https://nsk-cdn.cinnamondigital.app/NSK-2021-Catalog.pdf#page=76",
+    "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/series/e2000.png",
+    "category": "Machining Spindles",
+    "machiningSpindlesCategory": ["Electric", "Lathes", "Specialty purpose", "Robotics"],
+    "tags": [
+      "machining spindles", "high-speed electric spindles"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "details": "",
+    "name": "E3000",
+    "slugForUrl": "e3000",
+    "shortTitle": "ELECTRIC SPINDLES",
+    "subTitle": "20mm (0.79”), 22.8mm (0.89”), 25mm (0.98”), 25.4mm (1”), 30mm (1.18”) Spindle dia., 60,000/80,000rpm Max RPM, 350W (0.47) Max Power",
+    "description": "The E3000 Series employs a high-speed, ultra-quiet brushless motor. A high-performance system and state of the art design provides high-speed machining and a variety of safety functions.",
+    "features": [
+      "Max motor speed 60,000/80,000 min-1(rpm)",
+      "Maximum motor output with 350W power supply",
+      "Motor spindle diameter",
+      "Air-cooling system",
+      "Spindle accuracy",
+      "High rigidity, short body",
+      "Motor connector attaches directly to the back of the motor/spindle",
+      "Power source auto detection",
+      "Protection system, external Input/Output control signal",
+      "Use E2550 Motor and Spindle with E3000 Control Unit",
+      "ø0.897″(ø22.8 mm) spindle usage",
+      "Centering mode switch"
+    ],
+    "downloads": [
+      {
+          "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/pdf/operation-manuals/operation-manual-e3000-en.pdf",
+          "label": "E3000 Operation Manual"
+      },
+      {
+          "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/pdf/operation-manuals/operation-manual-e3000-selector-en.pdf",
+          "label": "E3000 Selector Operation Manual"
+      },
+      {
+          "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/pdf/operation-manuals/operation-manual-e3000-controller-en.pdf",
+          "label": "E3000 Controller Operation Manual"
+      }
+    ], 
+    "catalogPage": "https://nsk-cdn.cinnamondigital.app/NSK-2021-Catalog.pdf#page=96",
+    "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/series/e3000.png",
+    "category": "Machining Spindles",
+    "machiningSpindlesCategory": ["Electric", "Lathes", "Specialty purpose", "Robotics"],
+    "tags": [
+      "machining spindles", "high-speed electric spindles"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "details": "",
+    "name": "E4000",
+    "slugForUrl": "e4000",
+    "shortTitle": "ELECTRIC SPINDLES",
+    "subTitle": "40mm (1.57”) Spindle Dia., 40,000 Max RPM, 1,200W (1.60HP) Max Power",
+    "description": "The E4000 Series employs a high-speed, ultra-quiet brushless motor. A high-performance system and state of the art design provides high-speed machining and a variety of safety functions.",
+    "features": [
+      "2,000~40,000 min-1(rpm), 500 min-1(rpm)(for centering rotation)",
+      "Rated output 400W (Max. output 1,200W)",
+      "Extremely low vibration brushless DC motor",
+      "Utilizes a double pair of ultra-precision ceramic bearings to obtain high rigidity in both radial and thrust directions. Incorporates 2 ceramic bearings on the front side and 2 on the rear side.",
+      "Spindle accuracy"
+    ],
+    "video": {
+      "provider" : "youtube",
+      "videoEmbedId": "https://www.youtube.com/embed/s30pSbXpeFI"
+    },
+    "downloads": [
+      {
+          "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/pdf/operation-manuals/operation-manual-e4000-controller-en.pdf",
+          "label": "E4000 Controller Operation Manual"
+      },
+      {
+          "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/pdf/operation-manuals/operation-manual-e4000-safety-relay-box-en.pdf",
+          "label": "E4000 Safety Relay Box Operation Manual"
+      }
+    ], 
+    "catalogPage": "https://nsk-cdn.cinnamondigital.app/NSK-2021-Catalog.pdf#page=136",
+    "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/series/e4000.png",
+    "category": "Machining Spindles",
+    "machiningSpindlesCategory": ["Electric", "Lathes", "Specialty purpose", "Robotics"],
+    "tags": [
+      "machining spindles", "high-speed electric spindles"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "details": "",
+    "name": "MA",
+    "slugForUrl": "ma",
+    "shortTitle": "PNEUMATIC SPINDLES",
+    "subTitle": "22.8mm (0.89”) Spindle Dia., 58,000 Max RPM, 108W (0.14HP) Max Power; 25/25.4mm (0.98/1.0”) Spindle Dia., 24,000 Max RPM, 130W (0.17HP) Max Power; 30mm (1.18”) Spindle Dia., 19,000 Max. RPM, 130W (0.17HP) Max Power",
+    "description": "The MA Series has been designed to operate smoothly at high speeds for long continuous cutting and grinding by connecting an air line kit directly between the air compressor and the air motor. Separate motors and spindles provide flexible application changes. Easy to interchange the components",
+    "features": [
+      "Gang slide NC lathe can be transformed into complex machining centers",
+      "Specialized machine design will be made compact and universal",
+      "Mounting MA Series on existing equipment can eliminate secondary operations or the equipment can be turned into a special purpose machine",
+      "Applicable to secondary operation machines, single purpose machines or special machining and grinding machines",
+      "The air motors are explosion proof and do not generate heat even in continuous use",
+      "When the MA Series is used at low motor speeds, a speed reducer (AR-01, or other selections) is added to obtain the speed of your choice",
+      "A collet, Jacobs Drill Chuck, saw arbor and grinding stone arbor are available for grinding, drilling, milling, slitting, chamfer and deburring operations"
+    ],
+    "catalogPage": "https://nsk-cdn.cinnamondigital.app/NSK-2021-Catalog.pdf#page=151",
+    "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/series/ma.png",
+    "category": "Machining Spindles",
+    "machiningSpindlesCategory": ["Pneumatic", "Lathes", "Specialty purpose"],
+    "tags": [
+      "machining spindles", "high-speed pneumatic spindles"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "details": "",
+    "name": "MS",
+    "slugForUrl": "ms",
+    "shortTitle": "ONE PIECE PNEUMATIC SPINDLES",
+    "subTitle": "19.05 mm - 25.4 mm (0.75”  - 1.0”) Spindle Diameters, 1,400 - 30,000 RPM, max 130W (0.17HP)",
+    "description": "A shorter overall length suitable for CNC lathes and special purpose machines. Hardened and precision ground for high rigidity and excellent durability. External one-piece housing includes both the motor and spindle.",
+    "features": [
+      "Outer housing material (SUS416) is precision ground to +0/-0.01mm",
+      "Either staight or 90º air connection types are avialable depending on mounting and plumbing restrictions",
+      "Very high spindle accuracy makes ultra-precision machining possible",
+      "The design of NAKANISHI's air motors gives the highest output power in this small spindle class",
+      "Silencer on the exhaust air tubing greatly reduces noise",
+      "Speed reduction system"
+    ],
+    "catalogPage": "https://nsk-cdn.cinnamondigital.app/NSK-2021-Catalog.pdf#page=176",
+    "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/series/ms.png",
+    "category": "Machining Spindles",
+    "machiningSpindlesCategory": ["Pneumatic", "Lathes", "Specialty purpose"],
+    "tags": [
+      "machining spindles", "high-speed pneumatic spindles"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "details": "",
+    "name": "HES",
+    "slugForUrl": "hes",
+    "shortTitle": "ELECTRIC SPINDLES",
+    "subTitle": "BT/CAT/NT/HSK/R8, 50,000 / 80,000 Max RPM, 340W (0.45HP) Max Power",
+    "description": "Ultra-precision, high-speed HES510 Spindles allow you to use your existing equipment for a much larger variety of operations. Conventional milling machines and machining centers can now do high-speed machining, small diameter drilling and milling with extremely good surface finishes with the HES510.",
+    "features": [
+      "5,000-50,000 min-1(rpm)",
+      "Maximum output 340W (.45HP)",
+      "Ceramic bearings",
+      "Smooth rotation",
+      "One-piece motor and spindle construction",
+      "Emergency connector",
+      "Excellent durability by air-cooling system",
+      "Best for small diameter drilling and milling",
+      "Cooling air",
+      "Large variety of tapers available",
+      "Protection circuit"
+    ],
+    "specifications": [
+      ["Model", "HES 510"],
+      ["Speed", "5,000-50,000 min-1(rpm)"],
+      ["Max. Output Power", "340W (.45HP)"],
+      ["Spindle Accuracy", "Within 1 μm"],
+      ["Standard Size Collet (CHK-3.175)", "ø1/8"]
+    ],
+    "specifications2": [
+      ["Optional", ""],
+      ["Air Line Kit (AL-C1204)", "For Control Unit NE211"],
+      ["Collet (CHK-)", "ø0.5 mm-ø6.35 mm"],
+      ["Motor Cord (EMCD-810-)", "Length 13 ft (9249)/ 26 ft (9250); Provided with Air Cooling Hose ø4 mm"]
+    ],
+    "video": {
+      "provider":"upload",          
+      "streamHls":"https://videodelivery.net/a3ebd9525ce5ea2719e627ab7d12a662/manifest/video.m3u8"
+    },
+    "catalogPage": "https://nsk-cdn.cinnamondigital.app/NSK-2021-Catalog.pdf#page=187",
+    "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/series/hes.png",
+    "category": "Machining Spindles",
+    "machiningSpindlesCategory": ["Electric", "Mills"],
+    "tags": [
+      "machining spindles", "high-speed electric spindles"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "details": "",
+    "name": "iSpeed5",
+    "slugForUrl": "ispeed5",
+    "shortTitle": "FULLY TOOL CHANGEABLE ELECTRIC SPINDLE SYSTEM",
+    "subTitle": "60,000 - 80,000 Max RPM, 350W",
+    "description": "The iSpeed5 is a 60,000 or 80,000 RPM, 350-Watt, Brushless DC Electric System eliminates the need for any operator intervention by using a special designed stop block connection under that machine spindle that can withstand coolant, chips, dust and other machining debris from contaminating the stop block. Please contact NSK America Corporation directly for information regarding iSpeed5 for your specific machine.",
+    "features": [
+      "Fully tool-changeable electric spindles increase machine tool speed.",
+      "The iSpeed5 System primarily consists of a motor spindle, stop block, air pressure switch and control unit. Power, cooling air, and control signals are provided to the spindle when engaged to the innovative electromechanical stop block that attaches to your machine tool spindle.",
+      "The iSpeed5 is created for continuous lights out manufacturing even in the case of cutting fluids and coolants.",
+      "The internal air passage allows the pressurization and cooling of the system while preventing the entry of contaminants into the stop block."
+    ],
+    "specifications": [
+      ["Model", "iSpeed5"],
+      ["Max RPM", "60,000-80,000 (rpm)"],
+      ["Max. Output Power", "350W"]
+    ],
+    "specifications2": [
+      ["Available Collet"],
+      ["NR3060S: Series CHK diameter 0.5mm to 6.35mm"],
+      ["NR3080S: Series CHA diameter 0.5mm to 4.0mm "]
+    ],
+    "downloads": [
+      {
+          "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/pdf/system-charts/system-chart-ispeed5.png",
+          "label": "iSpeed5 System Chart"
+      }
+    ], 
+    "catalogPage": "https://nsk-cdn.cinnamondigital.app/NSK-2021-Catalog.pdf#page=203",
+    "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/series/ispeed5.png",
+    "category": "Machining Spindles",
+    "machiningSpindlesCategory": ["Electric", "Fully automatic tool changeable"],
+    "tags": [
+      "machining spindles", "high-speed electric spindles"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "details": "",
+    "name": "HTS",
+    "slugForUrl": "hts",
+    "shortTitle": "ULTRA HIGH-SPEED AIR TURBINE SPINDLES",
+    "subTitle": "Straight/BT/HSK, 150,000 Max RPM",
+    "description": "The HTS Series ultra high-speed spindle is suitable for cutting tool diameters of less than 0.5 mm. It has negligible spindle expansions. The air turbine mechanism has extremely low heat generation. Cutting tool depth of cut is up to R x 0.1 mm. Very high feed rates are also possible. Highly stable milling conditions can be achieved even with very small diameter cutting tools.",
+    "specifications": [
+      ["Series", "HTS"],
+      ["Speed", "150,000min-1(rpm)"],
+      ["Max. Output Power", "25W"],
+      ["Air Type", "Side Air Supply Type"],
+      ["Shank", "Straight, BT30/ 40/ 50; HSK E25/ 32/ 40/ 50/ A63/ F63"],
+      ["Proper Air Pressure", "42~71 PSI"],
+      ["Air Consumption", "3.18CFM"],
+      ["Spindle Accuracy", "Within 1 μm"],
+      ["Hose Diameter (Air intake)", "ø6 mm (O.D.)"],
+      ["Standard Size Collet(CHA-4.0)", "ø4.0 mm"],
+      ["(Optional) Collet (CHA-)", "ø0.5 mm~ø4.0 mm"]
+    ],
+    "catalogPage": "https://nsk-cdn.cinnamondigital.app/NSK-2021-Catalog.pdf#page=210",
+    "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/series/hts.png",
+    "category": "Machining Spindles",
+    "machiningSpindlesCategory": ["Pneumatic", "Mills"],
+    "tags": [
+      "machining spindles", "high-speed air turbine spindle"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "details": "",
+    "name": "PLANET",
+    "slugForUrl": "planet",
+    "shortTitle": "PNEUMATIC SPINDLES",
+    "subTitle": "PLANET 600 Air Turbine Spindle - 65,000 RPM",
+    "description": "The PLANET 600 System turns a milling machine into a jig grinding machine, a lathe into an internal grinding machine.",
+    "features": [
+      "Turns a milling machine into a jig grinding machine and a lathe into an internal grinding machine.",
+      "An adapted air exhaust system keeps noise to a minimum.",
+      "Excellent performance at a relatively low cost.",
+      "When mounted in a turning center, the PLANET 600 can be used as a precision internal grinder.",
+      "Can be used as a high speed grinder in specialty built machines.",
+      "Collets ranging from 0.5mm thru 6.35mm are available to accommodate all of the most common tool shanks.",
+      "Special built-in high-speed bearings withstand extended periods of operation."
+    ],
+    "specifications": [
+      ["Series", "Planet 600"],
+      ["Speed", "65,000 min-1(rpm)"],
+      ["Air Input", "Side Air Supply"],
+      ["Proper Air Pressure", "58 PSI"],
+      ["Air Consumption", "6.18 CFM"],
+      ["Spindle Accuracy", "Within 1 μm"],
+      ["Hose Diameter (Air intake)", "ø6 mm (O.D.)"]
+    ],
+    "specifications2": [
+      ["Optional", ""],
+      ["Air Line Kit (AL-M1202)", ""],
+      ["Collet (CHK-)", "ø0.5 mm-ø6.35 mm"],
+      ["Collet Nut", "K-265"]
+    ],
+    "catalogPage": "https://nsk-cdn.cinnamondigital.app/NSK-2021-Catalog.pdf#page=226",
+    "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/series/planet.png",
+    "category": "Machining Spindles",
+    "machiningSpindlesCategory": ["Lathes", "Jig Grinder"],
+    "tags": [
+      "machining spindles", "high-speed air turbine spindle"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "details": "",
+    "name": "Xpeed",
+    "slugForUrl": "xpeed",
+    "shortTitle": "AIR TURBINES",
+    "features": [
+      "Ideal for extremely high precision, small diameter machining applications",
+      "Air bearings use compressed air blown into a small gap between the spindle and the bearing surface. The spindle floats on an even cushion of compressed air. The non-contact type of bearing means the spindle has a very long service life because of low friction and wear; it also means that the spindle generates almost no heat or vibration.",
+      "The spindle and bearing are finished with a very high-accuracy process to ensure extremely low vibration and very high rotating accuracy."
+    ],
+    "specifications": [
+      ["Series", "", ""],
+      ["Xpeed1600", "160,000 min-1(rpm)", "Output 56W"],
+      ["Xpeed1200", "120,000 min-1(rpm)", "Output 192W"]
+    ],
+    "catalogPage": "https://nsk-cdn.cinnamondigital.app/NSK-2021-Catalog.pdf#page=232",
+    "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/series/xpeed.png",
+    "category": "Machining Spindles",
+    "machiningSpindlesCategory": ["Pneumatic"],
+    "tags": [
+      "machining spindles", "high-speed air turbine spindle"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "details": "",
+    "name": "ABT",
+    "slugForUrl": "abt",
+    "shortTitle": "ABT-1000 AIR TURBINE",
+    "features": [
+      "Ideal for extremely high precision, small diameter machining applications.",
+      "Air bearings use compressed air blown into a small gap between the spindle and the bearing surface. The spindle floats on an even cushion of compressed air. This non-contact type of bearing means the spindle has a very long service life because of low friction and wear; it also means that the spindle generates almost no heat or vibration.",
+      "The spindle and bearing are finished with a very high-accuracy process to ensure extremely low vibration and very high rotating accuracy.",
+      "The ABT Series are equipped with a Rotational Speed Detection Sensor. When in operation, a digital pulse signal representing the RPM can be output. The rotation speed and load condition can be monitored using a high performance, locally available speed meter."
+    ],
+    "specifications": [
+      ["Series", "ABT"],
+      ["Spindle Accuracy", "Within 1 μm"],
+      ["Standard Size Collet (CHA-3.175)", "ø1/8”"],
+      ["Main Body Mount Method", "Outside Mounting Diameters Clamp Method"],
+      ["Bearing Type", "Static Air Bearing"],
+      ["Proper Air Pressure for Air Bearing", "80 PSI"],
+      ["Air Consumption for Air Bearing", "Less than 1.77 CFM"],
+      ["Proper Air Pressure for Air Turbine", "80 PSI"],
+      ["Air Consumption for Air Turbine", "4.24 CFM"],
+      ["Bearing Load Capacity", "Radial : Less than 20N; Thrust : Less than 35N; (Bearing Air supply pressure 80 PSI)"],
+      ["Useable Max. Diameter of Grindstone", "Less than ø2.0 mm (For ø4.0 mm shank)"],
+      ["Hose Diameter", "Bearing supply ø6 mm (1 location); Turbine Air supply ø6 mm (2 locations)"],
+      ["Other", "Rotational Speed Detection Sensor with 5 meter cable"]
+    ],
+    "catalogPage": "https://nsk-cdn.cinnamondigital.app/NSK-2021-Catalog.pdf#page=235",
+    "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/series/abt.png",
+    "category": "Machining Spindles",
+    "machiningSpindlesCategory": ["Pneumatic"],
+    "tags": [
+      "machining spindles", "high-speed air turbine spindle"
+    ]
+  }
+]

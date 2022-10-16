@@ -1,0 +1,10 @@
+{
+  "name": "",
+  "email": "", 
+  "phone": "",
+  "company": "",
+  "message": "",
+  "status": "",
+  "createdAt": "", //automatic
+  "updatedAt": "", //automatic
+}

@@ -1,0 +1,98 @@
+{
+  "testDescription": "",
+  "nskAmericaRepresentative": "",
+  "companyName": "",
+  "preparedFor": "",
+  "firstName": "",
+  "lastName": "",
+  "email": "",
+  "supportingDistributor": "",
+  "distributorSalesperson": "",
+  "createdAt": "",
+  "partNameNumber": "",
+  "machine": "",
+  "material": "",
+  "hardness": "",
+  "surfCond": "",
+  "loremIpsum": "",
+  "currentProcess": {
+    "toolingDescription": {
+      "manufacturer": "",
+      "spindleType": "",
+      "cuttingToolDiameterType": "",
+      "coating": ""
+    },
+    "operatingParameters": {
+      "lengthOfCut": "",
+      "spindleSpeed": "",
+      "feed": "",
+      "inCutTime": "",
+      "partsPerTool": "",
+      "totalPiecesPerNewTool": "",
+      "piecesForEachRegrind": ""
+    },
+    "machineBurden": {
+      "machineBurdenRate": "",
+      "machineCostPerWorkpiece": ""
+    },
+    "machineCostAnalysis": {
+      "cuttingToolCost": "",
+      "numberReconditioningPerTool": "",
+      "regrindCostPerTool": "",
+      "costPerPieceOnRegrind": "",
+      "numberOfToolsPerHolder": "",
+      "costOfUsePerTool": "",
+      "toolChangeTime": "",
+      "toolChangeCost": "",
+      "toolingCostPerUse": "",
+      "estimatedToolConsumption": "",
+      "toolingCostPerPiece": ""
+    },
+    "grandTotalMachiningCostPerPiece": ""
+  },
+  "nsk": {
+    "toolingDescription": {
+      "manufacturer": "",
+      "spindleType": "",
+      "cuttingToolDiameterType": "",
+      "coating": ""
+    },
+    "operatingParameters": {
+      "lengthOfCut": "",
+      "spindleSpeed": "",
+      "feed": "",
+      "inCutTime": "",
+      "partsPerTool": "",
+      "totalPiecesPerNewTool": "",
+      "piecesForEachRegrind": ""
+    },
+    "machineBurden": {
+      "machineBurdenRate": "",
+      "machineCostPerWorkpiece": ""
+    },
+    "machineCostAnalysis": {
+      "spindleInvestmentCost": "",
+      "cuttingToolCost": "",
+      "numberReconditioningPerTool": "",
+      "regrindCostPerTool": "",
+      "costPerPieceOnRegrind": "",
+      "numberOfToolsPerHolder": "",
+      "costOfUsePerTool": "",
+      "toolChangeTime": "",
+      "toolChangeCost": "",
+      "toolingCostPerUse": "",
+      "estimatedToolConsumption": "",
+      "toolingCostPerPiece": ""
+    },
+    "grandTotalMachiningCostPerPiece": ""
+  },
+  "savingsPerPart": "",
+  "averageNumberPartsRunPerYear": "",
+  "capitalInvestmentPerPieceCost": "",
+  "potentialSavingsPerYearDuringCapitalPayback": "",
+  "potentialSavingsPerYearAfterCapitalPayback": "",
+  "potentialToolingSavingsPerYear": "",
+  "potentialMachineCapacityGained": "",
+  "approximateTimeForCapitalPayback": "",
+  "updatedAt": ""
+}

@@ -1,0 +1,11 @@
+{
+  "text": "",
+  "textColor": "",
+  "bannerColor": "",
+  "url": "", // if there is value for this, link will be applied to the whole text in the banner
+  "status": "", // if "active", banner will show on top of the header
+  "createdBy": "",
+  "updatedBy": "",
+  "createdAt": "",
+  "updatedAt": ""
+}

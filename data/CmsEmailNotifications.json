@@ -1,0 +1,93 @@
+{
+  "name": "",
+  "toUser": {
+    "from": "",
+    "cc": [],
+    "bcc": [],
+    "emailContent": {
+      "subject": "",
+      "body": ""
+    }
+  },
+  "toNsk": {
+    "from": "",
+    "cc": [],
+    "bcc": [],
+    "emailContent": {
+      "subject": "",
+      "body": ""
+    }
+  }
+}
+
+<script type="application/ld+json">
+{
+  "form": "",
+  "toUser": "",
+  "toNsk": [],
+  "from": "",
+  "cc": [],
+  "bcc": [],
+  "emailContent": {
+    "toUserSubject": "",
+    "toUserBody": "",
+    "toNskSubject": "",
+    "toNskBody": "",
+  },
+  "createdAt": "",
+  "updatedAt": "",
+}
+</script>
+
+OR
+
+<script type="application/ld+json">
+{
+  "form": "", //I'm not sure what should in this field if ever
+  "formTechnicalQuestions": {
+    "toUser": "",
+    "toNsk": [],
+    "from": "",
+    "cc": [],
+    "bcc": [],
+    "emailContent": {
+      "toUserSubject": "",
+      "toUserBody": "",
+      "toNskSubject": "",
+      "toNskBody": "",
+    },
+    "createdAt": "",
+    "updatedAt": "",
+  },
+  "formWarrantyRegistration": {
+    "toUser": "",
+    "toNsk": [],
+    "from": "",
+    "cc": [],
+    "bcc": [],
+    "emailContent": {
+      "toUserSubject": "",
+      "toUserBody": "",
+      "toNskSubject": "",
+      "toNskBody": "",
+    },
+    "createdAt": "",
+    "updatedAt": "",
+  },
+  "formDemonstrationRequest": {
+    "toUser": "",
+    "toNsk": [],
+    "from": "",
+    "cc": [],
+    "bcc": [],
+    "emailContent": {
+      "toUserSubject": "",
+      "toUserBody": "",
+      "toNskSubject": "",
+      "toNskBody": "",
+    },
+    "createdAt": "",
+    "updatedAt": "",
+  }
+}
+</script>

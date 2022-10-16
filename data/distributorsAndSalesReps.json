@@ -1,0 +1,129 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "distributors": [
+    {
+      "@type": "LocalBusiness",
+      "name": "Beachwalk Beachwear & Giftware",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Mexico Beach",
+        "addressRegion": "FL",
+        "postalCode": "98052",
+        "streetAddress": "3102 Highway 98"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "40.75",
+        "longitude": "73.98"
+      },
+      "telephone": "850-648-4200",
+      "faxNumber": "",
+      "url": "",
+      "distributorType": "",
+      "isNationalDistributor": "",
+    }
+  ],
+  "salesRepresentatives": [
+    {
+      "@type": "Person",
+      "name": "",
+      "territoryState": "",
+      "territoryTitle": "",
+      "company": "",
+      "email": "mailto:jane-doe@xyz.edu",
+      "telephone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Seattle",
+        "addressRegion": "WA",
+        "postalCode": "98052",
+        "streetAddress1": "20341 Whitworth Institute 405 N. Whitworth",
+        "streetAddress2": "",
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "40.75",
+        "longitude": "73.98"
+      },
+    },
+  ],
+  "status": "",
+  "createdAt": "",
+  "updatedAt": "",
+}
+</script>
+
+
+
+//Combined version
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "", //"LocalBusiness" or "Person"
+  "name": "Beachwalk Beachwear & Giftware", //name of business or salesrep
+  "category": "", //distributor or sales representative
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Mexico Beach",
+    "addressRegion": "FL",
+    "postalCode": "98052",
+    "streetAddress": "3102 Highway 98"
+  },
+  "geo": { //for biz, this is address of biz. for salesrep, should it be address or the state?
+    "@type": "GeoCoordinates",
+    "latitude": "40.75",
+    "longitude": "73.98"
+  },
+  "company": "", //for salesrep only
+  "territoryState": "", //for salesrep only
+  "territoryTitle": "", //for salesrep only
+  "email": "mailto:jane-doe@xyz.edu", //for salesrep only
+  "telephone": "850-648-4200",
+  "faxNumber": "", //for distributors only
+  "url": "", //for distributors only
+  "distributorType": "", //for distributors only
+  "isNationalDistributor": "", //for distributors only
+  "status": "",
+  "createdAt": "",
+  "updatedAt": "",
+}
+</script>
+
+
+//version 3
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "", //"LocalBusiness" or "Person"
+  "name": "Beachwalk Beachwear & Giftware", //name of business or salesrep
+  "category": "", //distributor or sales representative
+  "categoryType": "", //options are Sales Representative, Jewelry, Traditional, Woodworking
+  "address": {
+    "@type": "PostalAddress",
+    "country": "",
+    "addressRegion": "FL",
+    "addressLocality": "Mexico Beach",
+    "postalCode": "98052",
+    "streetAddress": "3102 Highway 98"
+  },
+  "geo": { //for biz, this is address of biz. for salesrep, should it be address or the state?
+    "@type": "GeoCoordinates",
+    "latitude": "40.75",
+    "longitude": "73.98"
+  },
+  "company": "", //for salesrep only
+  "territoryState": "", //for salesrep only
+  "territoryTitle": "", //for salesrep only
+  "email": "mailto:jane-doe@xyz.edu", //for salesrep only
+  "telephone": "850-648-4200",
+  "faxNumber": "", //for distributors only
+  "url": "", //for distributors only
+  "isNationalDistributor": "", //for distributors only
+  "status": "", //options are Published, Unpublished 
+  "createdAt": "",
+  "updatedAt": "",
+}
+</script>

@@ -1,0 +1,17 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "", //originally "Title" field
+  "slug": "",
+  "datePublished": "",
+  "author": "",
+  "preview": "", //originally "Short Description" field
+  "articleBody": "", //originally "Long Description" field. articleBody refers to actual article.
+  "image": "",
+  "url": "",
+  "status": "", //"Published" or "Unpublished". originally on the site, it's the "isActive" field but I cant see the values 
+  "createdAt": "", //automatic
+  "updatedAt": "", //automatic
+}
+</script>

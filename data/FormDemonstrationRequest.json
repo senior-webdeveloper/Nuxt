@@ -1,0 +1,54 @@
+{
+  "value": "",
+  "timeToClose": "",
+  "cuttingTool": "",
+  "material": "",
+  "currentState": {
+    "cutLength": "",
+    "cutDepth": "",
+    "spindleSpeed": "",
+    "feed": ""
+  },
+  "futureState": {
+    "cutLength": "",
+    "cutDepth": "",
+    "spindleSpeed": "",
+    "feed": ""
+  },
+  "successfulTest": "",
+  "requestDate": "",
+  "demonstrationDate": "",
+  "distributor": "",
+  "endUser": "",
+  "productDetails": [
+    {
+      "quantity": "",
+      "catalogOrModel": "",
+      "description": ""
+    }
+  ],
+  "nskSalesRep": "",
+  "name": "",
+  "title": "",
+  "email": "",
+  "date": "",
+  "distributorDetails": {
+    "distributor": "",
+    "street": "",
+    "cityStateZip": "",
+    "name": "",
+    "title": "",
+    "email": ""
+  },
+  "endUserCompanyDetails": {
+    "endUserCompany": "",
+    "phone": "",
+    "email": "",
+    "cityStateZip": "",
+    "name": "",
+    "title": ""
+  },
+  "shippingOption": "",
+  "status": ""
+}
+//Under acknowledgement, is the NSK sales rep the same person who is logged in? so we can just autofill some fields in the form

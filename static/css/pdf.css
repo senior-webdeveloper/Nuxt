@@ -1,0 +1,105 @@
+/*
+AFTER UPDATING THIS FILE, PLEASE UPLOAD IT TO THE CDN!
+HOSTING THIS FILE ON THE CDN HAS GIVEN US THE BEST + MOST CONSISTENT RESULTS
+ONCE THIS PROJECT IS INITIALLY DEPLOYED, WE CAN LINK TO THE LOCAL FILES INSTEAD OF USING THE CDN (IF NEEDED)
+*/
+
+/*
+CDN HOSTED FILES
+[x] /static/css/pdf.css
+[ ] /static/img/nsk-logo.svg
+
+*/
+
+/*
+PDF UPDATE CHECKLIST
+[ ] TQ
+[ ] WR
+[ ] DA
+[ ] DR
+[ ] QTOP
+[ ] RR
+[ ] CU
+[x] CSA
+
+*/
+
+
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10px;
+  overflow-wrap: break-word;
+}
+
+h1 {font-size: 16px;}
+
+h2 {
+  margin-top: 50px;
+  font-size: 14px;
+}
+
+.cd-pdfs {
+  font-size: 10px;
+} */
+
+.cd-pdfs .word-wrap {
+  overflow-wrap: break-word;
+} */
+
+table, th, td {
+  border: none;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 10px;
+}
+
+/* START KO STYLING (CSA) */
+/* .pdf-logo {
+  width: 350px!important;
+  margin-bottom: 50px;
+} */
+
+table.csa {
+  margin-top: 20px;
+  font-family: Arial, Helvetica, sans-serif!important;
+  border: 1px solid #EDEDED!important;
+  background-color: #FFFFFF!important;
+  width: 100%!important;
+  height: 42px!important;
+  text-align: left!important;
+  border-collapse: collapse!important;
+}
+table.csa th {
+  font-size: 14px!important;
+  font-weight: bold!important;
+}
+table.csa td, table.csa th {
+  border: 1px solid #EDEDED!important;
+  padding: 10px 10px!important;
+}
+table.csa tbody td {
+  font-size: 12px!important;
+}
+table.csa tr:nth-child(even) {
+  background: #F6F6F6!important;
+}
+table.csa tfoot td {
+  font-size: 14px!important;
+}
+table.csa tfoot .links {
+  text-align: right!important;
+}
+table.csa tfoot .links a {
+  display: inline-block!important;
+  background: #F6F6F6!important;
+  color: #FFFFFF!important;
+  padding: 2px 8px!important;
+  border-radius: 5px!important;
+}
+
+.pdf-legal {
+  font-size: 10px;
+  font-style: italic;
+}

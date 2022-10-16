@@ -1,0 +1,190 @@
+/* purgecss start ignore */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+/* purgecss end ignore */
+@import 'tailwindcss/utilities';
+
+body {
+  @apply font-body;
+}
+
+h1 {
+  @apply mt-2 text-3xl font-extrabold leading-8 tracking-tight text-gray-900 font-heading sm:text-4xl;
+}
+.hero {
+  @apply text-4xl font-extrabold tracking-tight text-center sm:text-5xl lg:text-6xl;
+}
+
+/*h1 for dashboard page titles
+h1 {
+  @apply text-3xl font-bold
+}*/
+h2 {
+  @apply text-2xl font-medium text-gray-500 font-subheading;
+}
+h3 {
+  @apply text-xl font-medium text-nsk-primary font-subheading;
+}
+h4 {
+  @apply text-lg font-medium text-nsk-primary font-subheading;
+}
+h5 {
+  @apply text-sm font-semibold tracking-wider uppercase text-blueGray-200;
+}
+h6 {
+  @apply text-sm font-semibold tracking-wider text-gray-500 uppercase;
+}
+p {
+  @apply text-base text-blueGray-500;
+}
+.pre-header {
+    @apply text-sm font-semibold tracking-wider uppercase ;
+}
+.description {
+    @apply mt-4 text-lg text-blueGray-500;
+}
+/*tiny notes for under tables, graphs, and the like */
+.note {
+    @apply text-xs text-gray-500;
+}
+.checkbox {
+    @apply w-4 h-4 border-gray-300 rounded shadow-sm text-blueGray-700 focus:ring-blueGray-400 focus:border-blueGray-400;
+}
+.radio {
+    @apply w-4 h-4 border-gray-300 shadow-sm text-blueGray-700 focus:ring-blueGray-400 focus:border-blueGray-400;
+}
+/*dt - label for viewing of forms*/
+.details-dt {
+  @apply text-sm font-medium text-gray-500 sm:w-40 sm:flex-shrink-0;
+}
+/*dd - field values for viewing of forms*/
+.details-dd {
+  @apply mt-1 text-sm text-gray-900 sm:mt-0 sm:ml-6 sm:col-span-2;
+}
+/* thClass is not used on the AppTable component because the sticky class doesn't work if applied here, should be on the component file itself */
+.thClass {
+  @apply px-6 py-3 text-xs font-medium tracking-wider text-left uppercase whitespace-nowrap bg-blueGray-200 text-blueGray-500;
+}
+.tdClass {
+  @apply px-6 py-4 text-sm text-gray-500;
+}
+.trClass {
+  @apply bg-white hover:bg-gray-50;
+}
+.ti-new-tag-input {
+  @apply text-xs;
+}
+.ti-input {
+  @apply block w-full mt-1 border-gray-300 rounded-md shadow-sm focus:ring-blueGray-400 focus:border-blueGray-400 sm:text-sm;
+}
+.ti-valid {
+  @apply text-sm;
+}
+.ti-tag {
+  @apply bg-nsk-primary text-sm !important;
+}
+/* Algolia */
+
+/* .ais-highlight {
+  @apply text-6xl;
+}                               */
+
+.ais-InstantSearch input[type="search"] {
+  @apply w-full p-4 rounded;
+}
+
+/* Filter List Group */
+.ais-RefinementList {}
+
+/* Filter List */
+.ais-RefinementList-list {}
+
+/* Filter List Item */
+.ais-RefinementList-item {
+  @apply my-1;
+}
+
+/* Filter Checkbox and Label Group */
+.ais-RefinementList-label {}
+
+/* Filter Checkbox */
+.ais-RefinementList-checkbox {}
+
+/* Filter Checkbox Label */
+.ais-RefinementList-labelText {}
+
+li.ais-RefinementList-item.ais-RefinementList-item--selected {
+  @apply font-medium text-nsk-primary;
+}
+
+.ais-InfiniteHits {
+  @apply flex flex-wrap overflow-hidden text-base;
+}
+
+/* div.ais-InfiniteHits {
+  @apply m-4;
+} */
+
+.ais-InfiniteHits h3 {
+  @apply text-nsk-primary;
+}
+
+.ais-InfiniteHits p {
+  @apply text-sm;
+}
+
+.ais-refinement-list {
+
+}
+
+/* Filter Checkbox Label */
+/* Product & Series */
+/* .ais-hits div div {
+  @apply overflow-visible;
+} */
+
+.faq-highlight {
+  @apply bg-yellow-200;
+}
+.toggle-active {
+  @apply bg-white shadow-sm;
+}
+.toggle-default {
+  @apply hover:bg-white hover:shadow-sm;
+}
+
+.mapboxgl-popup {
+  @apply min-w-[300px];
+}
+
+.mapboxgl-popup-tip {
+  /** change the value if you want to change the color of the infobox tip */
+  /** add !important flag */
+  /* border-top-color: red !important; */
+}
+
+.mapboxgl-popup-content {
+  /** infobox parent container styles here */
+  /** add !important flag */
+  /* background-color: red !important; */
+}
+
+
+.ProseMirror {
+  @apply block w-full p-2 mt-1 mb-5 border border-gray-300 rounded-md shadow-sm focus:border-blueGray-400 focus:ring-blueGray-400 sm:text-sm;
+}
+
+
+/* CD (KO on 20210726): WIP scrollbar styling */
+
+/* ::-webkit-scrollbar {
+  @apply w-3;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-gray-50;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-gray-300 border-4 border-solid rounded-full border-gray-50;
+} */

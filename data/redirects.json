@@ -1,0 +1,54 @@
+[
+    {
+      "from": "/faqs.html",
+      "to": "/faq"
+    },
+    {
+      "from": "/distributormap2.html",
+      "to": "/find-distributors"
+    },
+    {
+      "from": "/repairform",
+      "to": "/support/repair-return-form"
+    },
+    {
+      "from": "/product/category/Emax-EVOlution/11",
+      "to": "/series/emax-evolution"
+    },
+    {
+      "from": "/product/category/Rotus/24",
+      "to": "/series/rotus"
+    },
+    {
+      "from": "/product/category/e2000/30",
+      "to": "/series/e2000"
+    },
+    {
+      "from": "/product/category/E4000/10",
+      "to": "/series/e4000"
+    },
+    {
+      "from": "/product/category/MA/20",
+      "to": "/series/ma"
+    },
+    {
+      "from": "/product/category/ms/21",
+      "to": "/series/ma"
+    },
+    {
+      "from": "/category/ispeed5/31",
+      "to": "/series/ispeed5"
+    },
+    {
+      "from": "/machine-tools-spindles.html",
+      "to": "/products"
+    },
+    {
+      "from": "/product/category/sonic-cutter-zero/26",
+      "to": "/series/sonic-cutter-zero"
+    },
+    {
+      "from": "/product/category/PrestoII/23",
+      "to": "/series/presto-2"
+    }
+]

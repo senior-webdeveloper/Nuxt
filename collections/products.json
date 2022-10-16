@@ -1,0 +1,39 @@
+[{
+  "_id": {
+    "$oid": "604110314cb55e057c8f9e5e"
+  },
+  "sku": "bike_1",
+  "product_name": "Bike1"
+},{
+  "_id": {
+    "$oid": "604110314cb55e057c8f9e5f"
+  },
+  "sku": "tire1",
+  "product_name": "Tire",
+  "category_1": "accessories",
+  "category_2": "blue"
+},{
+  "_id": {
+    "$oid": "604110314cb55e057c8f9e60"
+  },
+  "sku": "bikeseat",
+  "product_name": "Bike seat",
+  "category_1": "attachments",
+  "category_2": "blue"
+},{
+  "_id": {
+    "$oid": "604110314cb55e057c8f9e61"
+  },
+  "sku": "ribbon",
+  "product_name": "Ribbon - red",
+  "category_1": "accessories",
+  "category_2": "red"
+},{
+  "_id": {
+    "$oid": "604110314cb55e057c8f9e62"
+  },
+  "sku": "ribbon_2",
+  "product_name": "Ribbon - blue",
+  "category_1": "accessories",
+  "category_2": "blue"
+}]

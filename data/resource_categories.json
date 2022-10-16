@@ -1,0 +1,6 @@
+//set this up similar to the faq or form
+
+//multiple categories can be saved, edit and deleted by the user
+//add createdAt and updatedAt date fields
+
+//these categories will be fetched in the /dashboard/admin/cms/resources add and view/edit pages

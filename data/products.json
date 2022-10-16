@@ -1,0 +1,2234 @@
+[
+  {
+      "_id": {
+          "$oid": "604bf7ec30bc6710f82fa1ac"
+      },
+      "@context": "https://schema.org",
+      "@type": "Product",   
+      "details": {
+          "@type": "Thing",
+          "alternateName": "NE249 120V Emax EVOlution Control Unit",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ornare aenean euismod elementum nisi quis eleifend quam adipiscing vitae. Integer vitae justo eget magna. Neque sodales ut etiam sit amet. Blandit cursus risus at ultrices mi. Elementum sagittis vitae et leo duis ut. Tincidunt vitae semper quis lectus nulla at volutpat diam ut. Sed cras ornare arcu dui vivamus. Bibendum neque egestas congue quisque egestas diam. Urna id volutpat lacus laoreet non. Quisque egestas diam in arcu cursus euismod.",
+          "features": [
+            "Upgraded Digital Display - Emax EVOlutionLUTION Speed Control with Flash Load Indicator.",
+            "User-friendly case meets design and performance requirements.",
+            "2 Motors A and B can be connected to cover multiple work requirements.",
+            "An exclusive FiXpeed® system allows independent foot switch operation for the A and B Motors.",
+            "An Auto Cruise function eliminates foot fatigue during operation."
+            ],
+          "name": "NE249 120",
+          "image": "https://nsk.nyc3.cdn.digitaloceanspaces.com/products/8224.jpg"
+      },
+      "downloads": [
+        {
+            "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/pdf/test-pdf.pdf",
+            "label": "first Download"
+        },
+        {
+            "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/pdf/test-pdf.pdf",
+            "label": "second Download"
+        }
+      ],
+      "video": {
+        "provider" : "youtube",
+        "videoEmbedId": "https://www.youtube.com/embed/AM20txE0V8o"
+      },      
+      "productType": [
+        "electric"
+      ],
+      "isAccessoryOrSparePartFor": [
+          "Emax EVOlution",
+          "Rotus"
+      ],
+      "isRelatedTo": [
+          "8231",
+          "8222",
+          "8224",
+          "8232",
+          "8086",
+          "8087",
+          "8088",
+          "8089",
+          "8090",
+          "8091",
+          "1144",
+          "7097",
+          "2812",
+          "2810",
+          "2904",
+          "1012",
+          "1013",
+          "2900",
+          "2901",
+          "1483",
+          "1302",
+          "1307",
+          "1380",
+          "8060",
+          "1146",
+          "1015",
+          "1009",
+          "1010",
+          "90693",
+          "90692",
+          "2009",
+          "8107",
+          "8104",
+          "8106",
+          "1484",
+          "2014",
+          "2055",
+          "4507",
+          "1003",
+          "1004",
+          "1064",
+          "1060",
+          "2027"
+      ],
+      "toolType": "Hand Tools",
+      "productCategory": "Controllers",
+      "sku": "8224",
+      "slugForUrl": "NE249-120",
+      "tags": [
+          "electric",
+          "controllers",
+          "deburring",
+          "grinding",
+          "polishing",
+          "ergonomic"
+      ]
+  },
+  {
+      "_id": {
+          "$oid": "604bf7ec30bc6710f82fa1ad"
+      },
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "details": {
+          "@type": "Thing",
+          "alternateName": "EV410-IR Emax EVOlution Standard Set - Ring Type",
+          "description": "",
+          "name": "EV410-IR",
+          "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/products/8231.jpg"
+      },
+      "catalogPage": "23",
+      "video": {
+        "provider" : "youtube",
+        "videoEmbedId": "https://www.youtube.com/embed/AM20txE0V8o"
+      },  
+      "productType": [
+          "electric"
+      ],
+      "isAccessoryOrSparePartFor": [
+          "Emax EVOlution",
+          "Rotus"
+      ],
+      "isRelatedTo": [
+          "8231",
+          "8222",
+          "8224",
+          "8232",
+          "8086",
+          "8087",
+          "8088",
+          "8089",
+          "8090",
+          "8091",
+          "1144",
+          "7097",
+          "2812",
+          "2810",
+          "2904",
+          "1012",
+          "1013",
+          "2900",
+          "2901",
+          "1483",
+          "1302",
+          "1307",
+          "1380",
+          "8060",
+          "1146",
+          "1015",
+          "1009",
+          "1010",
+          "90693",
+          "90692",
+          "2009",
+          "8107",
+          "8104",
+          "8106",
+          "1484",
+          "2014",
+          "2055",
+          "4507",
+          "1003",
+          "1004",
+          "1064",
+          "1060",
+          "2027"
+      ],
+      "toolType": "Hand Tools",
+      "productCategory": "Sets",
+      "sku": "8231",
+      "slugForUrl": "EV410-IR",
+      "tags": [
+          "electric", "Sets", "deburring", "grinding", "polishing", "ergonomic"
+      ]
+  },
+  {
+      "_id": {
+          "$oid": "604bf7ec30bc6710f82fa1ae"
+      },
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "details": {
+          "@type": "Thing",
+          "alternateName": "EV410-IH US Emax EVOlution Standard Set - Lever Type",
+          "description": "",
+          "name": "EV410-IH",
+          "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/products/8222.jpg"
+      },
+      "catalogPage": "23",
+      "downloads": [
+        {
+            "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/pdf/test-pdf.pdf",
+            "label": "first Download"
+        },
+        {
+            "link": "https://nsk.nyc3.cdn.digitaloceanspaces.com/pdf/test-pdf.pdf",
+            "label": "second Download"
+        }
+      ],
+      "video": {
+        "provider" : "youtube",
+        "videoEmbedId": "https://www.youtube.com/embed/AM20txE0V8o"
+      },  
+      "productType": [
+          "electric"
+      ],
+      "isAccessoryOrSparePartFor": [
+          "Emax EVOlution",
+          "Rotus"
+      ],
+      "isRelatedTo": [
+          "8231",
+          "8222",
+          "8224",
+          "8232",
+          "8086",
+          "8087",
+          "8088",
+          "8089",
+          "8090",
+          "8091",
+          "1144",
+          "7097",
+          "2812",
+          "2810",
+          "2904",
+          "1012",
+          "1013",
+          "2900",
+          "2901",
+          "1483",
+          "1302",
+          "1307",
+          "1380",
+          "8060",
+          "1146",
+          "1015",
+          "1009",
+          "1010",
+          "90693",
+          "90692",
+          "2009",
+          "8107",
+          "8104",
+          "8106",
+          "1484",
+          "2014",
+          "2055",
+          "4507",
+          "1003",
+          "1004",
+          "1064",
+          "1060",
+          "2027"
+      ],
+      "toolType": "Hand Tools",
+      "productCategory": "Sets",
+      "sku": "8222",
+      "slugForUrl": "EV410-IH",
+      "tags": [
+          "electric", "Sets", "deburring", "grinding", "polishing", "ergonomic"
+      ]
+  },
+  {
+      "_id": {
+          "$oid": "604bf7ec30bc6710f82fa1af"
+      },
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "details": {
+          "@type": "Thing",
+          "alternateName": "EV250-IR Emax EVOlution Torque Set - Ring Type",
+          "description": "",
+          "name": "EV250-IR",
+          "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/products/8232.jpg"
+      },
+      "video": {
+        "provider" : "youtube",
+        "videoEmbedId": "https://www.youtube.com/embed/AM20txE0V8o"
+      }, 
+      "productType": [
+          "electric"
+      ],
+      "isAccessoryOrSparePartFor": [
+          "Emax EVOlution",
+          "Rotus"
+      ],
+      "isRelatedTo": [
+          "8231",
+          "8222",
+          "8224",
+          "8232",
+          "8086",
+          "8087",
+          "8088",
+          "8089",
+          "8090",
+          "8091",
+          "1144",
+          "7097",
+          "2812",
+          "2810",
+          "2904",
+          "1012",
+          "1013",
+          "2900",
+          "2901",
+          "1483",
+          "1302",
+          "1307",
+          "1380",
+          "8060",
+          "1146",
+          "1015",
+          "1009",
+          "1010",
+          "90693",
+          "90692",
+          "2009",
+          "8107",
+          "8104",
+          "8106",
+          "1484",
+          "2014",
+          "2055",
+          "4507",
+          "1003",
+          "1004",
+          "1064",
+          "1060",
+          "2027"
+      ],
+      "toolType": "Hand Tools",
+      "productCategory": "Sets",
+      "sku": "8232",
+      "slugForUrl": "EV250-IR",
+      "tags": [
+          "electric", "Sets", "deburring", "grinding", "polishing", "ergonomic"
+      ]
+  },
+  {
+      "_id": {
+          "$oid": "604bf7ec30bc6710f82fa1b0"
+      },
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "details": {
+          "@type": "Thing",
+          "alternateName": "ENK-410S Emax EVOlution Standard Motor",
+          "description": "Excellent combination of high speed, lightweight, small diameter and high torque. This lighweight and compact general-use type is perfect for precision work. 1,000~40,000 rpm.",
+          "name": "ENK-410S",
+          "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/products/8086.jpg"
+      },
+      "productType": [
+          "electric"
+      ],
+      "isAccessoryOrSparePartFor": [
+          "Emax EVOlution",
+          "Rotus"
+      ],
+      "isRelatedTo": [
+          "8231",
+          "8222",
+          "8224",
+          "8232",
+          "8086",
+          "8087",
+          "8088",
+          "8089",
+          "8090",
+          "8091",
+          "1144",
+          "7097",
+          "2812",
+          "2810",
+          "2904",
+          "1012",
+          "1013",
+          "2900",
+          "2901",
+          "1483",
+          "1302",
+          "1307",
+          "1380",
+          "8060",
+          "1146",
+          "1015",
+          "1009",
+          "1010",
+          "90693",
+          "90692",
+          "2009",
+          "8107",
+          "8104",
+          "8106",
+          "1484",
+          "2014",
+          "2055",
+          "4507",
+          "1003",
+          "1004",
+          "1064",
+          "1060",
+          "2027"
+      ],
+      "toolType": "Hand Tools",
+      "productCategory": "Motors",
+      "sku": "8086",
+      "slugForUrl": "ENK-410S",
+      "tags": [
+          "electric", "Motors", "deburring", "grinding", "polishing", "ergonomic"
+      ]
+  },
+  {
+      "_id": {
+          "$oid": "604bf7ec30bc6710f82fa1b1"
+      },
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "details": {
+          "@type": "Thing",
+          "alternateName": "ENK-250T Emax EVOlution Torque Motor",
+          "description": "Combines the best of both high speed and high torque. It is perfect for applications requiring large burs. 1,000~25,000 rpm.",
+          "name": "ENK-250T",
+          "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/products/8087.jpg"
+      },
+      "productType": [
+          "electric"
+      ],
+      "isAccessoryOrSparePartFor": [
+          "Emax EVOlution",
+          "Rotus"
+      ],
+      "isRelatedTo": [
+          "8231",
+          "8222",
+          "8224",
+          "8232",
+          "8086",
+          "8087",
+          "8088",
+          "8089",
+          "8090",
+          "8091",
+          "1144",
+          "7097",
+          "2812",
+          "2810",
+          "2904",
+          "1012",
+          "1013",
+          "2900",
+          "2901",
+          "1483",
+          "1302",
+          "1307",
+          "1380",
+          "8060",
+          "1146",
+          "1015",
+          "1009",
+          "1010",
+          "90693",
+          "90692",
+          "2009",
+          "8107",
+          "8104",
+          "8106",
+          "1484",
+          "2014",
+          "2055",
+          "4507",
+          "1003",
+          "1004",
+          "1064",
+          "1060",
+          "2027"
+      ],
+      "toolType": "Hand Tools",
+      "productCategory": "Motors",
+      "sku": "8087",
+      "slugForUrl": "ENK-250T",
+      "tags": [
+          "electric", "Motors", "deburring", "grinding", "polishing", "ergonomic"
+      ]
+  },
+  {
+      "_id": {
+          "$oid": "604bf7ec30bc6710f82fa1b2"
+      },
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "details": {
+          "@type": "Thing",
+          "alternateName": "IR-310 ?3.175 Ring Type Attachment",
+          "description": "Perfectly designed for powerful and delicate cutting and Grinding, and made slim and light weight for comfortable gripping.",
+          "name": "IR-310",
+          "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/products/1144.jpg"
+      },
+      "productType": [
+          "electric",
+          "Pneumatic"
+      ],
+      "isAccessoryOrSparePartFor": [
+          "Emax EVOlution",
+          "Rotus"
+      ],
+      "isRelatedTo": [
+          "8231",
+          "8222",
+          "8224",
+          "8232",
+          "8086",
+          "8087",
+          "8088",
+          "8089",
+          "8090",
+          "8091",
+          "1144",
+          "7097",
+          "2812",
+          "2810",
+          "2904",
+          "1012",
+          "1013",
+          "2900",
+          "2901",
+          "1483",
+          "1302",
+          "1307",
+          "1380",
+          "8060",
+          "1146",
+          "1015",
+          "1009",
+          "1010",
+          "90693",
+          "90692",
+          "2009",
+          "8107",
+          "8104",
+          "8106",
+          "1484",
+          "2014",
+          "2055",
+          "4507",
+          "1003",
+          "1004",
+          "1064",
+          "1060",
+          "2027"
+      ],
+      "toolType": "Hand Tools",
+      "productCategory": "Attachments",
+      "sku": "1144",
+      "slugForUrl": "IR-310",
+      "tags": [
+          "electric", "Pneumatic", "Attachments", "deburring", "grinding", "polishing", "ergonomic"
+      ]
+  },
+  {
+      "_id": {
+          "$oid": "604bf7ec30bc6710f82fa1b3"
+      },
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "details": {
+          "@type": "Thing",
+          "alternateName": "IH-300 ?3.175 Lever Type Attachment",
+          "description": "Perfectly designed for powerful and delicate cutting and Grinding, and made slim and light weight for comfortable gripping.",
+          "name": "IH-300",
+          "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/products/7097.jpg"
+      },
+      "productType": [
+          "electric",
+          "Pneumatic"
+      ],
+      "isAccessoryOrSparePartFor": [
+          "Emax EVOlution",
+          "Rotus"
+      ],
+      "isRelatedTo": [
+          "8231",
+          "8222",
+          "8224",
+          "8232",
+          "8086",
+          "8087",
+          "8088",
+          "8089",
+          "8090",
+          "8091",
+          "1144",
+          "7097",
+          "2812",
+          "2810",
+          "2904",
+          "1012",
+          "1013",
+          "2900",
+          "2901",
+          "1483",
+          "1302",
+          "1307",
+          "1380",
+          "8060",
+          "1146",
+          "1015",
+          "1009",
+          "1010",
+          "90693",
+          "90692",
+          "2009",
+          "8107",
+          "8104",
+          "8106",
+          "1484",
+          "2014",
+          "2055",
+          "4507",
+          "1003",
+          "1004",
+          "1064",
+          "1060",
+          "2027"
+      ],
+      "toolType": "Hand Tools",
+      "productCategory": "Attachments",
+      "sku": "7097",
+      "slugForUrl": "IH-300",
+      "tags": [
+          "electric", "Pneumatic", "Attachments", "deburring", "grinding", "polishing", "ergonomic"
+      ]
+  },
+  {
+      "_id": {
+          "$oid": "604bf7ec30bc6710f82fa1b4"
+      },
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "details": {
+          "@type": "Thing",
+          "alternateName": "IG-400 ?3.175 Straight Type Attachment",
+          "description": "Light weight ergonomically designed with minimal vibration for extended use",
+          "name": "IG-400",
+          "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/products/2812.jpg"
+      },
+      "productType": [
+          "electric",
+          "Pneumatic"
+      ],
+      "isAccessoryOrSparePartFor": [
+          "Emax EVOlution",
+          "Rotus"
+      ],
+      "isRelatedTo": [
+          "8231",
+          "8222",
+          "8224",
+          "8232",
+          "8086",
+          "8087",
+          "8088",
+          "8089",
+          "8090",
+          "8091",
+          "1144",
+          "7097",
+          "2812",
+          "2810",
+          "2904",
+          "1012",
+          "1013",
+          "2900",
+          "2901",
+          "1483",
+          "1302",
+          "1307",
+          "1380",
+          "8060",
+          "1146",
+          "1015",
+          "1009",
+          "1010",
+          "90693",
+          "90692",
+          "2009",
+          "8107",
+          "8104",
+          "8106",
+          "1484",
+          "2014",
+          "2055",
+          "4507",
+          "1003",
+          "1004",
+          "1064",
+          "1060",
+          "2027"
+      ],
+      "toolType": "Hand Tools",
+      "productCategory": "Attachments",
+      "sku": "2812",
+      "slugForUrl": "IG-400",
+      "tags": [
+          "electric", "Pneumatic", "Attachments", "deburring", "grinding", "polishing", "ergonomic"
+      ]
+  },
+  {
+      "_id": {
+          "$oid": "604bf7ec30bc6710f82fa1b5"
+      },
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "details": {
+          "@type": "Thing",
+          "alternateName": "HG-200 ?6.35 Torque Type Attachment",
+          "description": "The resistance produced by cutting and&nbsp;grinding is absorbed by a special rubber&nbsp;grip to eliminate slipping.",
+          "name": "HG-200",
+          "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/products/2810.jpg"
+      },
+      "productType": [
+          "electric",
+          "Pneumatic"
+      ],
+      "isAccessoryOrSparePartFor": [
+          "Emax EVOlution",
+          "Rotus"
+      ],
+      "isRelatedTo": [
+          "8231",
+          "8222",
+          "8224",
+          "8232",
+          "8086",
+          "8087",
+          "8088",
+          "8089",
+          "8090",
+          "8091",
+          "1144",
+          "7097",
+          "2812",
+          "2810",
+          "2904",
+          "1012",
+          "1013",
+          "2900",
+          "2901",
+          "1483",
+          "1302",
+          "1307",
+          "1380",
+          "8060",
+          "1146",
+          "1015",
+          "1009",
+          "1010",
+          "90693",
+          "90692",
+          "2009",
+          "8107",
+          "8104",
+          "8106",
+          "1484",
+          "2014",
+          "2055",
+          "4507",
+          "1003",
+          "1004",
+          "1064",
+          "1060",
+          "2027"
+      ],
+      "toolType": "Hand Tools",
+      "productCategory": "Attachments",
+      "sku": "2810",
+      "slugForUrl": "HG-200",
+      "tags": [
+          "electric", "Pneumatic", "Attachments", "deburring", "grinding", "polishing", "ergonomic"
+      ]
+  },
+  {
+      "_id": {
+          "$oid": "604bf7ec30bc6710f82fa1b6"
+      },
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "details": {
+          "@type": "Thing",
+          "alternateName": "BMH-300 ?3.175 Long Type Attachment",
+          "description": "This unique slim body makes it ideal for cutting and grinding the bottom surface of deep ribs or holes.",
+          "name": "BMH-300",
+          "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/products/2904.jpg"
+      },
+      "productType": [
+          "electric",
+          "Pneumatic"
+      ],
+      "isAccessoryOrSparePartFor": [
+          "Emax EVOlution",
+          "Rotus"
+      ],
+      "isRelatedTo": [
+          "8231",
+          "8222",
+          "8224",
+          "8232",
+          "8086",
+          "8087",
+          "8088",
+          "8089",
+          "8090",
+          "8091",
+          "1144",
+          "7097",
+          "2812",
+          "2810",
+          "2904",
+          "1012",
+          "1013",
+          "2900",
+          "2901",
+          "1483",
+          "1302",
+          "1307",
+          "1380",
+          "8060",
+          "1146",
+          "1015",
+          "1009",
+          "1010",
+          "90693",
+          "90692",
+          "2009",
+          "8107",
+          "8104",
+          "8106",
+          "1484",
+          "2014",
+          "2055",
+          "4507",
+          "1003",
+          "1004",
+          "1064",
+          "1060",
+          "2027"
+      ],
+      "toolType": "Hand Tools",
+      "productCategory": "Attachments",
+      "sku": "2904",
+      "slugForUrl": "BMH-300",
+      "tags": [
+          "electric", "Pneumatic", "Attachments", "deburring", "grinding", "polishing", "ergonomic"
+      ]
+  },
+  {
+      "_id": {
+          "$oid": "604bf7ec30bc6710f82fa1b7"
+      },
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "details": {
+          "@type": "Thing",
+          "alternateName": "MFC-300S 90�Mini Angle Type Attachment",
+          "description": "Ideal for chamfering and deburring the inside of slit pipe.",
+          "name": "MFC-300S",
+          "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/products/1012.jpg"
+      },
+      "productType": [
+          "electric",
+          "Pneumatic"
+      ],
+      "isAccessoryOrSparePartFor": [
+          "Emax EVOlution",
+          "Rotus"
+      ],
+      "isRelatedTo": [
+          "8231",
+          "8222",
+          "8224",
+          "8232",
+          "8086",
+          "8087",
+          "8088",
+          "8089",
+          "8090",
+          "8091",
+          "1144",
+          "7097",
+          "2812",
+          "2810",
+          "2904",
+          "1012",
+          "1013",
+          "2900",
+          "2901",
+          "1483",
+          "1302",
+          "1307",
+          "1380",
+          "8060",
+          "1146",
+          "1015",
+          "1009",
+          "1010",
+          "90693",
+          "90692",
+          "2009",
+          "8107",
+          "8104",
+          "8106",
+          "1484",
+          "2014",
+          "2055",
+          "4507",
+          "1003",
+          "1004",
+          "1064",
+          "1060",
+          "2027"
+      ],
+      "toolType": "Hand Tools",
+      "productCategory": "Attachments",
+      "sku": "1012",
+      "slugForUrl": "MFC-300S",
+      "tags": [
+          "electric", "Pneumatic", "Attachments", "deburring", "grinding", "polishing", "ergonomic"
+      ]
+  },
+  {
+      "_id": {
+          "$oid": "604bf7ec30bc6710f82fa1b8"
+      },
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "details": {
+          "@type": "Thing",
+          "alternateName": "MFC-300M 90�Mini Angle Type Attachment",
+          "description": "The smallest 90&deg; Angle type head is suitable for chamfering and deburring the inside of slit pipe.",
+          "name": "MFC-300M",
+          "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/products/1013.jpg"
+      },
+      "productType": [
+          "electric",
+          "Pneumatic"
+      ],
+      "isAccessoryOrSparePartFor": [
+          "Emax EVOlution",
+          "Rotus"
+      ],
+      "isRelatedTo": [
+          "8231",
+          "8222",
+          "8224",
+          "8232",
+          "8086",
+          "8087",
+          "8088",
+          "8089",
+          "8090",
+          "8091",
+          "1144",
+          "7097",
+          "2812",
+          "2810",
+          "2904",
+          "1012",
+          "1013",
+          "2900",
+          "2901",
+          "1483",
+          "1302",
+          "1307",
+          "1380",
+          "8060",
+          "1146",
+          "1015",
+          "1009",
+          "1010",
+          "90693",
+          "90692",
+          "2009",
+          "8107",
+          "8104",
+          "8106",
+          "1484",
+          "2014",
+          "2055",
+          "4507",
+          "1003",
+          "1004",
+          "1064",
+          "1060",
+          "2027"
+      ],
+      "toolType": "Hand Tools",
+      "productCategory": "Attachments",
+      "sku": "1013",
+      "slugForUrl": "MFC-300M",
+      "tags": [
+          "electric", "Pneumatic", "Attachments", "deburring", "grinding", "polishing", "ergonomic"
+      ]
+  },
+  {
+      "_id": {
+          "$oid": "604bf7ec30bc6710f82fa1b9"
+      },
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "details": {
+          "@type": "Thing",
+          "alternateName": "IC-300 ?3.175 90�Angle Type Attachment",
+          "description": "90&deg; angle attachment with&nbsp;&oslash;1/8&Prime;(&oslash;3.175mm) Collet. Most suitable for polishing flat surfaces, corners and internal surfaces of pipes with paper disk mounted on rubber pad.",
+          "name": "IC-300",
+          "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/products/2900.jpg"
+      },
+      "productType": [
+          "electric",
+          "Pneumatic"
+      ],
+      "isAccessoryOrSparePartFor": [
+          "Emax EVOlution",
+          "Rotus"
+      ],
+      "isRelatedTo": [
+          "8231",
+          "8222",
+          "8224",
+          "8232",
+          "8086",
+          "8087",
+          "8088",
+          "8089",
+          "8090",
+          "8091",
+          "1144",
+          "7097",
+          "2812",
+          "2810",
+          "2904",
+          "1012",
+          "1013",
+          "2900",
+          "2901",
+          "1483",
+          "1302",
+          "1307",
+          "1380",
+          "8060",
+          "1146",
+          "1015",
+          "1009",
+          "1010",
+          "90693",
+          "90692",
+          "2009",
+          "8107",
+          "8104",
+          "8106",
+          "1484",
+          "2014",
+          "2055",
+          "4507",
+          "1003",
+          "1004",
+          "1064",
+          "1060",
+          "2027"
+      ],
+      "toolType": "Hand Tools",
+      "productCategory": "Attachments",
+      "sku": "2900",
+      "slugForUrl": "IC-300",
+      "tags": [
+          "electric", "Pneumatic", "Attachments", "deburring", "grinding", "polishing", "ergonomic"
+      ]
+  },
+  {
+      "_id": {
+          "$oid": "604bf7ec30bc6710f82fa1ba"
+      },
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "details": {
+          "@type": "Thing",
+          "alternateName": "KC-300 ?3.175 50�Angle Type Attachment",
+          "description": "Ideal for work at 45&deg; angle, especially corners and deep concaves.",
+          "name": "KC-300",
+          "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/products/2901.jpg"
+      },
+      "productType": [
+          "electric",
+          "Pneumatic"
+      ],
+      "isAccessoryOrSparePartFor": [
+          "Emax EVOlution",
+          "Rotus"
+      ],
+      "isRelatedTo": [
+          "8231",
+          "8222",
+          "8224",
+          "8232",
+          "8086",
+          "8087",
+          "8088",
+          "8089",
+          "8090",
+          "8091",
+          "1144",
+          "7097",
+          "2812",
+          "2810",
+          "2904",
+          "1012",
+          "1013",
+          "2900",
+          "2901",
+          "1483",
+          "1302",
+          "1307",
+          "1380",
+          "8060",
+          "1146",
+          "1015",
+          "1009",
+          "1010",
+          "90693",
+          "90692",
+          "2009",
+          "8107",
+          "8104",
+          "8106",
+          "1484",
+          "2014",
+          "2055",
+          "4507",
+          "1003",
+          "1004",
+          "1064",
+          "1060",
+          "2027"
+      ],
+      "toolType": "Hand Tools",
+      "productCategory": "Attachments",
+      "sku": "2901",
+      "slugForUrl": "KC-300",
+      "tags": [
+          "electric", "Pneumatic", "Attachments", "deburring", "grinding", "polishing", "ergonomic"
+      ]
+  },
+  {
+      "_id": {
+          "$oid": "604bf7ec30bc6710f82fa1bb"
+      },
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "details": {
+          "@type": "Thing",
+          "alternateName": "NLS-110 Luster Attachment (Built-in Motor)",
+          "description": "High Power. Reciprocating Stroke: 0~7,600 times/min. Fully adjustable. Ultra-Precision Grinder. Designed with comfortable rubber-grip. Stroke Range: 0~6 mm adjustable by stroke cam. The tilt angle for grindstone arbor is adjustable.",
+          "name": "NLS-110",
+          "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/products/1483.jpg"
+      },
+      "productType": [
+          "electric"
+      ],
+      "isAccessoryOrSparePartFor": [
+          "Emax EVOlution"
+      ],
+      "isRelatedTo": [
+          "8231",
+          "8222",
+          "8224",
+          "8232",
+          "8086",
+          "8087",
+          "8088",
+          "8089",
+          "8090",
+          "8091",
+          "1144",
+          "7097",
+          "2812",
+          "2810",
+          "2904",
+          "1012",
+          "1013",
+          "2900",
+          "2901",
+          "1483",
+          "1302",
+          "1307",
+          "1380",
+          "8060",
+          "1146",
+          "1015",
+          "1009",
+          "1010",
+          "90693",
+          "90692",
+          "2009",
+          "8107",
+          "8104",
+          "8106",
+          "1484",
+          "2014",
+          "2055",
+          "62502",
+          "62505",
+          "62751",
+          "62525",
+          "62526",
+          "62527",
+          "62814",
+          "62510"
+      ],
+      "toolType": "Hand Tools",
+      "productCategory": "Attachments",
+      "sku": "1483",
+      "slugForUrl": "NLS-110",
+      "tags": [
+          "electric", "Attachments", "deburring", "grinding", "polishing", "ergonomic"
+      ]
+  },
+  {
+      "_id": {
+          "$oid": "604bf7ec30bc6710f82fa1bc"
+      },
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "details": {
+          "@type": "Thing",
+          "alternateName": "LS-100  Luster Attachment",
+          "description": "Powerful reciprocating stroke polisher. Reciprocating stroke: 0~7,600 times/min. Fully adjustable. Ultra precision grinder. All important parts are hardened by heat treatment to provide excellent durability. Designed with comfortable rubber grip.",
+          "name": "LS-100",
+          "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/products/1302.jpg"
+      },
+      "productType": [
+          "electric",
+          "Pneumatic"
+      ],
+      "isAccessoryOrSparePartFor": [
+          "Emax EVOlution",
+          "Rotus"
+      ],
+      "isRelatedTo": [
+          "8231",
+          "8222",
+          "8224",
+          "8232",
+          "8086",
+          "8087",
+          "8088",
+          "8089",
+          "8090",
+          "8091",
+          "1144",
+          "7097",
+          "2812",
+          "2810",
+          "2904",
+          "1012",
+          "1013",
+          "2900",
+          "2901",
+          "1483",
+          "1302",
+          "1307",
+          "1380",
+          "8060",
+          "1146",
+          "1015",
+          "1009",
+          "1010",
+          "90693",
+          "90692",
+          "2009",
+          "8107",
+          "8104",
+          "8106",
+          "1484",
+          "2014",
+          "2055",
+          "4507",
+          "1003",
+          "1004",
+          "1064",
+          "1060",
+          "2027",
+          "62502",
+          "62505",
+          "62751",
+          "62525",
+          "62526",
+          "62527",
+          "62814",
+          "62510"
+      ],
+      "toolType": "Hand Tools",
+      "productCategory": "Attachments",
+      "sku": "1302",
+      "slugForUrl": "LS-100",
+      "tags": [
+          "electric", "Pneumatic", "Attachments", "deburring", "grinding", "polishing", "ergonomic"
+      ]
+  },
+  {
+      "_id": {
+          "$oid": "604bf7ec30bc6710f82fa1bd"
+      },
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "details": {
+          "@type": "Thing",
+          "alternateName": "ML-8  Mini-Luster Attachment",
+          "description": "Reciprocating Stroke (variable): Approx 0~9,000 times/min. Stroke Range (fixed): 0.8 mm. Due to pencil type grip, it is most suitable for polishing narrow grooves, details, etc. Lightweight, compact design and minimal vibration keep the hand free from fatigue for long continuous operation. By using the grindstone holder provded, various tools such as oil stone, super stone, diamond files, etc. can be used.",
+          "name": "ML-8",
+          "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/products/1307.jpg"
+      },
+      "productType": [
+          "electric",
+          "Pneumatic"
+      ],
+      "isAccessoryOrSparePartFor": [
+          "Emax EVOlution",
+          "Rotus"
+      ],
+      "isRelatedTo": [
+          "8231",
+          "8222",
+          "8224",
+          "8232",
+          "8086",
+          "8087",
+          "8088",
+          "8089",
+          "8090",
+          "8091",
+          "1144",
+          "7097",
+          "2812",
+          "2810",
+          "2904",
+          "1012",
+          "1013",
+          "2900",
+          "2901",
+          "1483",
+          "1302",
+          "1307",
+          "1380",
+          "8060",
+          "1146",
+          "1015",
+          "1009",
+          "1010",
+          "90693",
+          "90692",
+          "2009",
+          "8107",
+          "8104",
+          "8106",
+          "1484",
+          "2014",
+          "2055",
+          "4507",
+          "1003",
+          "1004",
+          "1064",
+          "1060",
+          "2027",
+          "62502",
+          "62505",
+          "62751",
+          "62525",
+          "62526",
+          "62527",
+          "62814",
+          "62510"
+      ],
+      "toolType": "Hand Tools",
+      "productCategory": "Attachments",
+      "sku": "1307",
+      "slugForUrl": "ML-8",
+      "tags": [
+          "electric", "Pneumatic", "Attachments", "deburring", "grinding", "polishing", "ergonomic"
+      ]
+  },
+  {
+      "_id": {
+          "$oid": "604bf7ec30bc6710f82fa1be"
+      },
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "details": {
+          "@type": "Thing",
+          "alternateName": "SLS-16  Swing-Luster Attachment",
+          "description": "High speed grinding and polishing operations can be performed while maintaining the fine and delicate feeling of hand polishing",
+          "name": "SLS-16",
+          "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/products/1380.jpg"
+      },
+      "productType": [
+          "electric",
+          "Pneumatic"
+      ],
+      "isAccessoryOrSparePartFor": [
+          "Emax EVOlution",
+          "Rotus"
+      ],
+      "isRelatedTo": [
+          "8231",
+          "8222",
+          "8224",
+          "8232",
+          "8086",
+          "8087",
+          "8088",
+          "8089",
+          "8090",
+          "8091",
+          "1144",
+          "7097",
+          "2812",
+          "2810",
+          "2904",
+          "1012",
+          "1013",
+          "2900",
+          "2901",
+          "1483",
+          "1302",
+          "1307",
+          "1380",
+          "8060",
+          "1146",
+          "1015",
+          "1009",
+          "1010",
+          "90693",
+          "90692",
+          "2009",
+          "8107",
+          "8104",
+          "8106",
+          "1484",
+          "2014",
+          "2055",
+          "4507",
+          "1003",
+          "1004",
+          "1064",
+          "1060",
+          "2027",
+          "62502",
+          "62505",
+          "62751",
+          "62525",
+          "62526",
+          "62527",
+          "62814",
+          "62510"
+      ],
+      "toolType": "Hand Tools",
+      "productCategory": "Attachments",
+      "sku": "1380",
+      "slugForUrl": "SLS-16",
+      "tags": [
+          "electric", "Pneumatic", "Attachments", "deburring", "grinding", "polishing", "ergonomic"
+      ]
+  },
+  {
+      "_id": {
+          "$oid": "604bf7ec30bc6710f82fa1bf"
+      },
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "details": {
+          "@type": "Thing",
+          "alternateName": "HA-500  Hammer Action Type Attachment",
+          "description": "Stroke speed: 25~5,000 strokes/min. Light weight, pencil type grip makes the handpiece very comfortable to hold and easy to use. Adjustable spring pressure. Self lubricating hammer mechanism ensure excellent durability.",
+          "name": "HA-500",
+          "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/products/8060.jpg"
+      },
+      "productType": [
+          "electric"
+      ],
+      "isAccessoryOrSparePartFor": [
+          "Emax EVOlution",
+          "Rotus"
+      ],
+      "isRelatedTo": [
+          "8231",
+          "8222",
+          "8224",
+          "8232",
+          "8086",
+          "8087",
+          "8088",
+          "8089",
+          "8090",
+          "8091",
+          "1144",
+          "7097",
+          "2812",
+          "2810",
+          "2904",
+          "1012",
+          "1013",
+          "2900",
+          "2901",
+          "1483",
+          "1302",
+          "1307",
+          "1380",
+          "8060",
+          "1146",
+          "1015",
+          "1009",
+          "1010",
+          "90693",
+          "90692",
+          "2009",
+          "8107",
+          "8104",
+          "8106",
+          "1484",
+          "2014",
+          "2055",
+          "4507",
+          "1003",
+          "1004",
+          "1064",
+          "1060",
+          "2027",
+          "62502",
+          "62505",
+          "62751",
+          "62525",
+          "62526",
+          "62527",
+          "62814",
+          "62510",
+          "65301"
+      ],
+      "toolType": "Hand Tools",
+      "productCategory": "Attachments",
+      "sku": "8060",
+      "slugForUrl": "HA-500",
+      "tags": [
+          "electric", "Attachments", "deburring", "grinding", "polishing", "ergonomic"
+      ]
+  },
+  {
+      "_id": {
+          "$oid": "604bf7ec30bc6710f82fa1c0"
+      },
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "details": {
+          "@type": "Thing",
+          "alternateName": "KBS-101  Fine Belt Sander Attachment",
+          "description": "Light-weight, compact, minimal vibration and a small diameter grip design keep the hand free from fatigue for long, continuous operation. When polishing a curved surface, the tension between the front and central pulley can be utilized. When polishing a flat surface or a groove, use the flat part of belt.",
+          "name": "KBS-101",
+          "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/products/1146.jpg"
+      },
+      "productType": [
+          "electric",
+          "Pneumatic"
+      ],
+      "isAccessoryOrSparePartFor": [
+          "Emax EVOlution",
+          "Rotus"
+      ],
+      "isRelatedTo": [
+          "8231",
+          "8222",
+          "8224",
+          "8232",
+          "8086",
+          "8087",
+          "8088",
+          "8089",
+          "8090",
+          "8091",
+          "1144",
+          "7097",
+          "2812",
+          "2810",
+          "2904",
+          "1012",
+          "1013",
+          "2900",
+          "2901",
+          "1483",
+          "1302",
+          "1307",
+          "1380",
+          "8060",
+          "1146",
+          "1015",
+          "1009",
+          "1010",
+          "90693",
+          "90692",
+          "2009",
+          "8107",
+          "8104",
+          "8106",
+          "1484",
+          "2014",
+          "2055",
+          "4507",
+          "1003",
+          "1004",
+          "1064",
+          "1060",
+          "2027",
+          "62502",
+          "62505",
+          "62751",
+          "62525",
+          "62526",
+          "62527",
+          "62814",
+          "62510"
+      ],
+      "toolType": "Hand Tools",
+      "productCategory": "Attachments",
+      "sku": "1146",
+      "slugForUrl": "KBS-101",
+      "tags": [
+          "electric", "Pneumatic", "Attachments", "deburring", "grinding", "polishing", "ergonomic"
+      ]
+  },
+  {
+      "_id": {
+          "$oid": "604bf7ec30bc6710f82fa1c1"
+      },
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "details": {
+          "@type": "Thing",
+          "alternateName": "iSpeed3 120V Controller",
+          "description": "",
+          "name": "NE273 B Type",
+          "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/products/8478.jpg"
+      },
+      "productType": [
+          "electric"
+      ],
+      "isAccessoryOrSparePartFor": [],
+      "isRelatedTo": [
+          "7626",
+          "7628",
+          "7633",
+          "7635",
+          "7639",
+          "7702",
+          "7637",
+          "7651",
+          "7652",
+          "7653",
+          "7654",
+          "7655",
+          "7656",
+          "7657",
+          "7658",
+          "9261",
+          "9262",
+          "9263",
+          "9264",
+          "9265",
+          "9266",
+          "9267",
+          "9268",
+          "9269",
+          "4504",
+          "DB25M",
+          "DB15M"
+      ],
+      "toolType": "Machine Tools",
+      "productCategory": "Controllers",
+      "sku": "8478",
+      "slugForUrl": "NE273-B-Type",
+      "tags": [
+          "electric", "controllers", "milling", "drilling", "machining", "swiss cnc"
+      ]
+  },
+  {
+      "_id": {
+          "$oid": "604bf7ec30bc6710f82fa1c2"
+      },
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "details": {
+          "@type": "Thing",
+          "alternateName": "iSpeed3 230U Controller",
+          "description": "",
+          "name": "NE273 D Type",
+          "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/products/8490.jpg"
+      },
+      "productType": [
+          "electric"
+      ],
+      "isAccessoryOrSparePartFor": [],
+      "isRelatedTo": [
+          "7626",
+          "7628",
+          "7633",
+          "7635",
+          "7639",
+          "7702",
+          "7637",
+          "7651",
+          "7652",
+          "7653",
+          "7654",
+          "7655",
+          "7656",
+          "7657",
+          "7658",
+          "9261",
+          "9262",
+          "9263",
+          "9264",
+          "9265",
+          "9266",
+          "9267",
+          "9268",
+          "9269",
+          "4504",
+          "DB25M",
+          "DB15M"
+      ],
+      "toolType": "Machine Tools",
+      "productCategory": "Controllers",
+      "sku": "8490",
+      "slugForUrl": "NE273-D-Type",
+      "tags": [
+          "electric", "controllers", "milling", "drilling", "machining", "swiss cnc"
+      ]
+  },
+  {
+      "_id": {
+          "$oid": "604bf7ec30bc6710f82fa1c3"
+      },
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "details": {
+          "@type": "Thing",
+          "alternateName": "BM-319 ?3.175 Motor Spindle",
+          "description": "0.75 (19.05mm) Outside Diameter. Straight Type with Quick Disconnect. Motor Cord is sold separately.",
+          "name": "BM-319",
+          "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/products/7626.jpg"
+      },
+      "productType": [
+          "electric"
+      ],
+      "isAccessoryOrSparePartFor": [],
+      "isRelatedTo": [
+          "8478",
+          "8490",
+          "9261",
+          "9262",
+          "9263",
+          "4504",
+          "DB25M",
+          "DB15M"
+      ],
+      "toolType": "Machine Tools",
+      "productCategory": "Motor Spindle",
+      "sku": "7626",
+      "slugForUrl": "BM-319",
+      "tags": [
+          "electric", "motor spindle", "milling", "drilling", "machining", "swiss cnc"
+      ]
+  },
+  {
+      "_id": {
+          "$oid": "604bf7ec30bc6710f82fa1c4"
+      },
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "details": {
+          "@type": "Thing",
+          "alternateName": "BM-320 ?3.175 Motor Spindle",
+          "description": "0.79 (20mm) Outside Diameter. Straight Type with Quick Disconnect. Motor Cord is sold separately.",
+          "name": "BM-320",
+          "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/products/7628.jpg"
+      },
+      "productType": [
+          "electric"
+      ],
+      "isAccessoryOrSparePartFor": [],
+      "isRelatedTo": [
+          "8478",
+          "8490",
+          "9261",
+          "9262",
+          "9263",
+          "4504",
+          "DB25M",
+          "DB15M"
+      ],
+      "toolType": "Machine Tools",
+      "productCategory": "Motor Spindle",
+      "sku": "7628",
+      "slugForUrl": "BM-320",
+      "tags": [
+          "electric", "motor spindle", "milling", "drilling", "machining", "swiss cnc"
+      ]
+  },
+  {
+      "_id": {
+          "$oid": "604bf7ec30bc6710f82fa1c5"
+      },
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "details": {
+          "@type": "Thing",
+          "alternateName": "BM-320F ?3.175 Motor Spindle",
+          "description": "0.79 (20mm) Outside Diameter. Flange Type with Quick Disconnect. Motor Cord is sold separately.",
+          "name": "BM-320F",
+          "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/products/7633.jpg"
+      },
+      "productType": [
+          "electric"
+      ],
+      "isAccessoryOrSparePartFor": [],
+      "isRelatedTo": [
+          "8478",
+          "8490",
+          "9261",
+          "9262",
+          "9263",
+          "4504",
+          "DB25M",
+          "DB15M"
+      ],
+      "toolType": "Machine Tools",
+      "productCategory": "Motor Spindle",
+      "sku": "7633",
+      "slugForUrl": "BM-320F",
+      "tags": [
+          "electric", "motor spindle", "milling", "drilling", "machining", "swiss cnc"
+      ]
+  },
+  {
+      "_id": {
+          "$oid": "604bf7ec30bc6710f82fa1c6"
+      },
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "details": {
+          "@type": "Thing",
+          "alternateName": "BM-322 ?3.175 Motor Spindle",
+          "description": "0.87 (22mm) Outside Diameter. Straight Type with Quick Disconnect. Motor Cord is sold separately.",
+          "name": "BM-322",
+          "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/products/7635.jpg"
+      },
+      "productType": [
+          "electric"
+      ],
+      "isAccessoryOrSparePartFor": [],
+      "isRelatedTo": [
+          "8478",
+          "8490",
+          "9261",
+          "9262",
+          "9263",
+          "4504",
+          "DB25M",
+          "DB15M"
+      ],
+      "toolType": "Machine Tools",
+      "productCategory": "Motor Spindle",
+      "sku": "7635",
+      "slugForUrl": "BM-322",
+      "tags": [
+          "electric", "motor spindle", "milling", "drilling", "machining", "swiss cnc"
+      ]
+  },
+  {
+      "_id": {
+          "$oid": "604bf7ec30bc6710f82fa1c7"
+      },
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "details": {
+          "@type": "Thing",
+          "alternateName": "BM-322FL ?3.175 Motor Spindle",
+          "description": "0.87 (22mm) Outside Diameter. Flange Type with Quick Disconnect. Motor Cord is sold separately.",
+          "name": "BM-322FL",
+          "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/products/7639.jpg"
+      },
+      "productType": [
+          "electric"
+      ],
+      "isAccessoryOrSparePartFor": [],
+      "isRelatedTo": [
+          "8478",
+          "8490",
+          "9261",
+          "9262",
+          "9263",
+          "4504",
+          "8533",
+          "1882",
+          "DB25M",
+          "DB15M"
+      ],
+      "toolType": "Machine Tools",
+      "productCategory": "Motor Spindle",
+      "sku": "7639",
+      "slugForUrl": "BM-322FL",
+      "tags": [
+          "electric", "motor spindle", "milling", "drilling", "machining", "swiss cnc"
+      ]
+  },
+  {
+      "_id": {
+          "$oid": "604bf7ec30bc6710f82fa1c8"
+      },
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "details": {
+          "@type": "Thing",
+          "alternateName": "BM-322FR ?3.175 Motor Spindle",
+          "description": "0.87 (22mm) Outside Diameter. Flange Type with Quick Disconnect. Motor Cord is sold separately.",
+          "name": "BM-322FR",
+          "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/products/7641.jpg"
+      },
+      "productType": [
+          "electric"
+      ],
+      "isAccessoryOrSparePartFor": [],
+      "isRelatedTo": [
+          "8478",
+          "8490",
+          "9261",
+          "9262",
+          "9263",
+          "4504",
+          "8533",
+          "1882",
+          "DB25M",
+          "DB15M"
+      ],
+      "toolType": "Machine Tools",
+      "productCategory": "Motor Spindle",
+      "sku": "7641",
+      "slugForUrl": "BM-322FR",
+      "tags": [
+          "electric", "motor spindle", "milling", "drilling", "machining", "swiss cnc"
+      ]
+  },
+  {
+      "_id": {
+          "$oid": "604bf7ec30bc6710f82fa1c9"
+      },
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "details": {
+          "@type": "Thing",
+          "alternateName": "BM3-IG Idle Gear",
+          "description": "This 34 mm O.D. / 22mm I.D. Sleeve with Idler Gear is designed to replace the Star CNC standard 8,000 rpm gear driven spindle with an NSK/BM-322FL 60,000 rpm Motor/Spindle.",
+          "name": "BM3-IG",
+          "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/products/8533.jpg"
+      },
+      "productType": [
+          "electric"
+      ],
+      "isAccessoryOrSparePartFor": [],
+      "isRelatedTo": [
+          "8478",
+          "8490",
+          "9261",
+          "9262",
+          "9263",
+          "4504"
+      ],
+      "toolType": "Machine Tools",
+      "productCategory": "Accessories",
+      "sku": "8533",
+      "slugForUrl": "BM3-IG",
+      "tags": [
+          "electric", "accessories", "milling", "drilling", "machining", "swiss cnc"
+      ]
+  },
+  {
+      "_id": {
+          "$oid": "604bf7ec30bc6710f82fa1ca"
+      },
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "details": {
+          "@type": "Thing",
+          "alternateName": "SP-22X10L Spacer",
+          "description": "Inserting the spacer between the back of the flange and the face of the machines tool block moves the back of the Motor Spindle forward 10mm to eliminate gear face interference.",
+          "name": "SP-22x10L",
+          "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/products/1882.jpg"
+      },
+      "productType": [
+          "electric"
+      ],
+      "isAccessoryOrSparePartFor": [],
+      "isRelatedTo": [
+          "8478",
+          "8490",
+          "9261",
+          "9262",
+          "9263",
+          "4504"
+      ],
+      "toolType": "Accessories",
+      "productCategory": "Accessories",
+      "sku": "1882",
+      "slugForUrl": "SP-22x10L",
+      "tags": [
+          "electric", "accessories", "milling", "drilling", "machining", "swiss cnc"
+      ]
+  },
+  {
+      "_id": {
+          "$oid": "604bf7ec30bc6710f82fa1cb"
+      },
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "details": {
+          "@type": "Thing",
+          "alternateName": "NR-303 ?3.175 Spindle",
+          "description": "This spindle is ideal for small diameter Drilling, milling and grinding. A wide selection of collets and accessories is available.",
+          "name": "NR-303",
+          "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/products/7591.jpg"
+      },
+      "productType": [
+          "electric"
+      ],
+      "isAccessoryOrSparePartFor": [
+          "E2000",
+          "MA",
+          "CHK"
+      ],
+      "isRelatedTo": [
+          "1022",
+          "1023",
+          "8333",
+          "7721",
+          "7722",
+          "7723",
+          "7724",
+          "7720",
+          "4504",
+          "2045",
+          "2018",
+          "1021",
+          "1083",
+          "1018",
+          "1084",
+          "1079",
+          "1085",
+          "1081",
+          "1082",
+          "4502",
+          "4503",
+          "2038",
+          "2039",
+          "2049",
+          "1060",
+          "1061"
+      ],
+      "toolType": "Machine Tools",
+      "productCategory": "Spindles",
+      "sku": "7591",
+      "slugForUrl": "NR-303",
+      "tags": [
+          "electric", "spindles", "milling", "drilling", "machining", "lathe"
+      ]
+  },
+  {
+      "_id": {
+          "$oid": "604bf7ec30bc6710f82fa1cc"
+      },
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "details": {
+          "@type": "Thing",
+          "alternateName": "EM-3060 Motor",
+          "description": "1.18 (30mm) Outside Diameter. Modular Brushless Motor. Motor Cord is sold separately.",
+          "name": "EM-3060",
+          "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/products/1597.jpg"
+      },
+      "productType": [
+          "electric"
+      ],
+      "isAccessoryOrSparePartFor": [
+          "E3000"
+      ],
+      "isRelatedTo": [
+          "9775",
+          "9781",
+          "1507",
+          "1508",
+          "1748",
+          "1749",
+          "1750",
+          "1744",
+          "1743",
+          "1742",
+          "2045"
+      ],
+      "toolType": "Machine Tools",
+      "productCategory": "Motors",
+      "sku": "1597",
+      "slugForUrl": "EM-3060",
+      "tags": [
+          "electric", "Motors", "milling", "drilling", "machining", "lathe"
+      ]
+  },
+  {
+      "_id": {
+          "$oid": "604bf7ec30bc6710f82fa1cd"
+      },
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "details": {
+          "@type": "Thing",
+          "alternateName": "NR-3060S ?3.175 Spindle",
+          "description": "This modular spindle can be used for small-diameter milling, Drilling, slitting, chamfering, Grinding, etc.",
+          "name": "NR-3060S",
+          "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/products/7590.jpg"
+      },
+      "productType": [
+          "electric"
+      ],
+      "isAccessoryOrSparePartFor": [
+          "E3000",
+          "iSpeed5"
+      ],
+      "isRelatedTo": [
+          "9775",
+          "9781",
+          "1507",
+          "1508",
+          "1597",
+          "1748",
+          "1749",
+          "1750",
+          "1744",
+          "1743",
+          "1742",
+          "1765",
+          "1779",
+          "1778",
+          "1768",
+          "1767",
+          "1766",
+          "7358",
+          "7359",
+          "2045",
+          "506001",
+          "506002",
+          "508001",
+          "508002",
+          "506003",
+          "506004",
+          "508003",
+          "508004",
+          "506005",
+          "508005",
+          "506006",
+          "508006",
+          "8491",
+          "8492",
+          "500101",
+          "500102",
+          "500103",
+          "500104",
+          "ISE30A",
+          "8493",
+          "8494"
+      ],
+      "toolType": "Machine Tools",
+      "productCategory": "Spindles",
+      "sku": "7590",
+      "slugForUrl": "NR-3060S",
+      "tags": [
+          "electric", "spindles", "milling", "drilling", "machining", "lathe"
+      ]
+  },
+  {
+      "_id": {
+          "$oid": "604bf7ec30bc6710f82fa1ce"
+      },
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "details": {
+          "@type": "Thing",
+          "alternateName": "HES510-BT30 ?3.175  Motor Spindle",
+          "description": "Ultra-precision, high-speed HES510 spindles allow you to use your existing equipment for a much larger variety of operations. Conventional milling machines and machining centers can now do high-speed Machining, small diameter drilling and milling with extremely good surface finishes with the HES510.",
+          "name": "HES510-BT30",
+          "image":"https://nsk.nyc3.cdn.digitaloceanspaces.com/products/7621.jpg"
+      },
+      "productType": [
+          "electric"
+      ],
+      "isAccessoryOrSparePartFor": [],
+      "isRelatedTo": [
+          "91593",
+          "2129",
+          "2026",
+          "9775",
+          "DB25M",
+          "DB15M",
+          "4504",
+          "9248",
+          "9249",
+          "9250",
+          "8407"
+      ],
+      "toolType": "Machine Tools",
+      "productCategory": "Motor Spindle",
+      "sku": "7621",
+      "slugForUrl": "HES510-BT30",
+      "tags": [
+          "electric", "motor spindle", "milling", "drilling", "machining", "Machining Center"
+      ]
+  }
+]

@@ -1,0 +1,18 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "name": "",
+  "startDate": "2025-07-21T19:00-05:00",
+  "endDate": "2025-07-21T19:00-05:00",
+  "description": "", //originally "Booth Info" field
+  "location": "", //the whole location is just originally the "Venue" field
+  "image": "",
+  "isActive": {
+    "startDate": "", //added in case we want to set date when it's published
+    "endDate": "", //added in case we want to set date when it's published
+  },
+  "createdAt": "", //automatic
+  "updatedAt": "", //automatic
+}
+</script>

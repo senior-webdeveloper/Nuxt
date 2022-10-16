@@ -1,0 +1,21 @@
+{
+  "name": "",
+  "title": "",
+  "company": "",
+  "email": "",
+  "phone": "",
+  "mailingAddress": {
+    "street": "",
+    "city": "",
+    "state": "",
+    "zip": "",
+    "country": ""
+  },
+  "productDetails": {
+    "modelNumber": "",
+    "serialNumber": "",
+    "orderDate": "",
+    "distributorPurchaseForm": "",
+    "productDescription": ""
+  }
+}

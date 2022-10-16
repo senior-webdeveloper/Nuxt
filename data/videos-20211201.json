@@ -1,0 +1,1109 @@
+[{
+  "_id": {
+    "$oid": "618b579f36d1d81cdb4d4663"
+  },
+  "tags": [
+    {
+      "$oid": "60f0c41e776c747ae8fbfa77"
+    },
+    {
+      "$oid": "6171cfbf5b7124dd8ec0cc62"
+    }
+  ],
+  "createdAt": "11/10/2021, 1:24:21 PM",
+  "updatedBy": "NSK Admin",
+  "provider": "youtube",
+  "videoEmbedId": "https://www.youtube.com/embed/xtCt7skG-vc",
+  "title": "Nakanishi E3000 Deburring by Fujimoto (Aluminum cast)",
+  "updatedAt": "11/10/2021, 2:03:12 PM",
+  "youtubeThumbnail": "https://img.youtube.com/vi/xtCt7skG-vc/maxresdefault.jpg",
+  "slug": "nakanishi-e3000-deburring-by-fujimoto-aluminum-cast",
+  "createdBy": "NSK Admin",
+  "thumbnail": "",
+  "description": ""
+},{
+  "_id": {
+    "$oid": "618b57d327e581af10567955"
+  },
+  "createdAt": "11/10/2021, 1:25:23 PM",
+  "provider": "youtube",
+  "createdBy": "NSK Admin",
+  "updatedBy": "NSK Admin",
+  "description": "",
+  "videoEmbedId": "https://www.youtube.com/embed/1f1L_LRt9Rs",
+  "slug": "nakanishi-e4000-deburring-corroborated-with-fanuc-and-xebec-cylinder-head",
+  "youtubeThumbnail": "https://img.youtube.com/vi/1f1L_LRt9Rs/maxresdefault.jpg",
+  "title": "Nakanishi E4000 Deburring corroborated with Fanuc and Xebec (Cylinder head)",
+  "thumbnail": "",
+  "tags": [
+    {
+      "$oid": "60f0c41e776c747ae8fbfa77"
+    },
+    {
+      "$oid": "6171cfbf5b7124dd8ec0cc62"
+    }
+  ],
+  "updatedAt": "11/10/2021, 2:03:59 PM"
+},{
+  "_id": {
+    "$oid": "618b57e927e581af10567fa7"
+  },
+  "slug": "nakanishi-e4000-deburring-corroborated-with-fanuc-and-xebec-output-shaft",
+  "youtubeThumbnail": "https://img.youtube.com/vi/-wPyDM4yO30/maxresdefault.jpg",
+  "thumbnail": "",
+  "description": "",
+  "videoEmbedId": "https://www.youtube.com/embed/-wPyDM4yO30",
+  "updatedAt": "11/10/2021, 2:04:20 PM",
+  "createdAt": "11/10/2021, 1:25:45 PM",
+  "title": "Nakanishi E4000 Deburring corroborated with Fanuc and Xebec (Output shaft)",
+  "provider": "youtube",
+  "tags": [
+    {
+      "$oid": "60f0c41e776c747ae8fbfa77"
+    },
+    {
+      "$oid": "6171cfbf5b7124dd8ec0cc62"
+    }
+  ],
+  "createdBy": "NSK Admin",
+  "updatedBy": "NSK Admin"
+},{
+  "_id": {
+    "$oid": "618b580080e3544043aef375"
+  },
+  "videoEmbedId": "https://www.youtube.com/embed/m3-ESm7mD-8",
+  "createdAt": "11/10/2021, 1:26:06 PM",
+  "updatedBy": "NSK Admin",
+  "description": "",
+  "thumbnail": "",
+  "slug": "nakanishi-e3000-motor-spindle-deburring-by-techno-wave-fine-techno--nachi",
+  "title": "NAKANISHI E3000 Motor Spindle Deburring by Techno Wave (Fine Techno / Nachi)",
+  "tags": [
+    {
+      "$oid": "60f0c41e776c747ae8fbfa77"
+    },
+    {
+      "$oid": "6171cfbf5b7124dd8ec0cc62"
+    }
+  ],
+  "updatedAt": "11/10/2021, 2:05:06 PM",
+  "provider": "youtube",
+  "youtubeThumbnail": "https://img.youtube.com/vi/m3-ESm7mD-8/maxresdefault.jpg",
+  "createdBy": "NSK Admin"
+},{
+  "_id": {
+    "$oid": "618b5813ced82fc2399de375"
+  },
+  "updatedBy": "NSK Admin",
+  "thumbnail": "",
+  "createdBy": "NSK Admin",
+  "description": "",
+  "youtubeThumbnail": "https://img.youtube.com/vi/xKZjo_wnV6c/maxresdefault.jpg",
+  "provider": "youtube",
+  "slug": "nakanishi-e3000-motor-spindle-deburring-by-techno-wave-fine-techno--sankyo",
+  "createdAt": "11/10/2021, 1:26:28 PM",
+  "updatedAt": "11/10/2021, 2:05:21 PM",
+  "videoEmbedId": "https://www.youtube.com/embed/xKZjo_wnV6c",
+  "tags": [
+    {
+      "$oid": "60f0c41e776c747ae8fbfa77"
+    },
+    {
+      "$oid": "6171cfbf5b7124dd8ec0cc62"
+    }
+  ],
+  "title": "NAKANISHI E3000 Motor Spindle Deburring by Techno Wave (Fine Techno / Sankyo)"
+},{
+  "_id": {
+    "$oid": "618b582aced82fc2399deceb"
+  },
+  "tags": [
+    {
+      "$oid": "6171cfbf5b7124dd8ec0cc69"
+    },
+    {
+      "$oid": "6171cfbf5b7124dd8ec0cc66"
+    },
+    {
+      "$oid": "6171cfbf5b7124dd8ec0cc63"
+    }
+  ],
+  "title": "NAKANISHI Motor Spindle E3000 Milling by Pocket NC V2-50",
+  "updatedBy": "NSK Admin",
+  "updatedAt": "11/10/2021, 2:11:00 PM",
+  "description": "",
+  "youtubeThumbnail": "https://img.youtube.com/vi/Ce50kmLTyPg/maxresdefault.jpg",
+  "provider": "youtube",
+  "slug": "nakanishi-motor-spindle-e3000-milling-by-pocket-nc-v2-50",
+  "thumbnail": "",
+  "createdAt": "11/10/2021, 1:26:49 PM",
+  "createdBy": "NSK Admin",
+  "videoEmbedId": "https://www.youtube.com/embed/Ce50kmLTyPg"
+},{
+  "_id": {
+    "$oid": "618b58406ae2ab3b68a334a6"
+  },
+  "description": "",
+  "thumbnail": "",
+  "provider": "youtube",
+  "videoEmbedId": "https://www.youtube.com/embed/sWwNi5y0qks",
+  "tags": [
+    {
+      "$oid": "618b06872151e9f89e74f3a8"
+    },
+    {
+      "$oid": "6171cfbf5b7124dd8ec0cc66"
+    },
+    {
+      "$oid": "6171cfbf5b7124dd8ec0cc64"
+    }
+  ],
+  "createdAt": "11/10/2021, 1:27:11 PM",
+  "title": "NAKANISHI E3000 Cutting PCB with Elite EM-5700N",
+  "youtubeThumbnail": "https://img.youtube.com/vi/sWwNi5y0qks/maxresdefault.jpg",
+  "createdBy": "NSK Admin",
+  "updatedBy": "NSK Admin",
+  "updatedAt": "11/10/2021, 2:11:20 PM",
+  "slug": "nakanishi-e3000-cutting-pcb-with-elite-em-5700n"
+},{
+  "_id": {
+    "$oid": "618b589c80e3544043af3a33"
+  },
+  "youtubeThumbnail": "https://img.youtube.com/vi/caKGz-Ycgd8/maxresdefault.jpg",
+  "title": "NAKANISHI Motor Spindle iSpeed3 Drilling & Milling",
+  "slug": "nakanishi-motor-spindle-ispeed3-drilling--milling",
+  "videoEmbedId": "https://www.youtube.com/embed/caKGz-Ycgd8",
+  "tags": [
+    {
+      "$oid": "6171cfbf5b7124dd8ec0cc66"
+    },
+    {
+      "$oid": "618b585b27e581af1056a743"
+    },
+    {
+      "$oid": "6171cfbf5b7124dd8ec0cc65"
+    }
+  ],
+  "createdAt": "11/10/2021, 1:28:41 PM",
+  "updatedAt": "11/10/2021, 1:59:02 PM",
+  "provider": "youtube",
+  "createdBy": "NSK Admin",
+  "thumbnail": "",
+  "updatedBy": "NSK Admin",
+  "description": ""
+},{
+  "_id": {
+    "$oid": "618b5d8780e3544043b1e5b3"
+  },
+  "thumbnail": "",
+  "tags": [
+    {
+      "$oid": "60f0c41e776c747ae8fbfa77"
+    },
+    {
+      "$oid": "618b58c527e581af1056d146"
+    }
+  ],
+  "description": "",
+  "provider": "youtube",
+  "youtubeThumbnail": "https://img.youtube.com/vi/K41MzIchrwQ/maxresdefault.jpg",
+  "title": "Robotic process applications with NAKANISHI Spindle",
+  "createdAt": "11/10/2021, 1:49:42 PM",
+  "createdBy": "NSK Admin",
+  "updatedBy": "NSK Admin",
+  "updatedAt": "11/10/2021, 2:09:22 PM",
+  "slug": "robotic-process-applications-with-nakanishi-spindle",
+  "videoEmbedId": "https://www.youtube.com/embed/K41MzIchrwQ"
+},{
+  "_id": {
+    "$oid": "618b5de327e581af10593952"
+  },
+  "videoEmbedId": "https://www.youtube.com/embed/fw1YyDfc-X4",
+  "createdAt": "11/10/2021, 1:51:17 PM",
+  "title": "NAKANISHI Air Bearing Turbine Spindle ABT-1600-BT30 End Milling R0.2 (NAK80)",
+  "provider": "youtube",
+  "tags": [
+    {
+      "$oid": "6171cfbf5b7124dd8ec0cc66"
+    },
+    {
+      "$oid": "618b5da4ced82fc239a08467"
+    }
+  ],
+  "description": "",
+  "updatedAt": "11/10/2021, 1:56:40 PM",
+  "slug": "nakanishi-air-bearing-turbine-spindle-abt-1600-bt30-end-milling-r02-nak80",
+  "youtubeThumbnail": "https://img.youtube.com/vi/fw1YyDfc-X4/maxresdefault.jpg",
+  "thumbnail": "",
+  "createdBy": "NSK Admin",
+  "updatedBy": "NSK Admin"
+},{
+  "_id": {
+    "$oid": "618b5df6657489527bfc0723"
+  },
+  "createdBy": "NSK Admin",
+  "updatedBy": "NSK Admin",
+  "tags": [
+    {
+      "$oid": "6171cfbf5b7124dd8ec0cc66"
+    },
+    {
+      "$oid": "618b5da4ced82fc239a08467"
+    }
+  ],
+  "description": "",
+  "title": "NAKANISHI Air Turbine Spindle HTS1501 φ0.2 End Milling (NAK80)",
+  "slug": "nakanishi-air-turbine-spindle-hts1501-02-end-milling-nak80",
+  "thumbnail": "",
+  "provider": "youtube",
+  "createdAt": "11/10/2021, 1:51:38 PM",
+  "youtubeThumbnail": "https://img.youtube.com/vi/ngQAuvqMnvg/maxresdefault.jpg",
+  "updatedAt": "11/10/2021, 1:57:21 PM",
+  "videoEmbedId": "https://www.youtube.com/embed/ngQAuvqMnvg"
+},{
+  "_id": {
+    "$oid": "618b5e0936d1d81cdb50849a"
+  },
+  "description": "",
+  "provider": "youtube",
+  "videoEmbedId": "https://www.youtube.com/embed/Zu65MTfpQvs",
+  "thumbnail": "",
+  "slug": "nakanishi-motor-spindle-hes810-r02-end-milling-nak80",
+  "tags": [
+    {
+      "$oid": "6171cfbf5b7124dd8ec0cc66"
+    },
+    {
+      "$oid": "618b5da4ced82fc239a08467"
+    }
+  ],
+  "updatedAt": "11/10/2021, 1:57:38 PM",
+  "updatedBy": "NSK Admin",
+  "createdBy": "NSK Admin",
+  "title": "NAKANISHI Motor Spindle HES810 R0.2 End Milling (NAK80)",
+  "youtubeThumbnail": "https://img.youtube.com/vi/Zu65MTfpQvs/maxresdefault.jpg",
+  "createdAt": "11/10/2021, 1:51:55 PM"
+},{
+  "_id": {
+    "$oid": "618b5e1c8b6a062f8b58eaca"
+  },
+  "videoEmbedId": "https://www.youtube.com/embed/bT49vqr0Tt4",
+  "createdBy": "NSK Admin",
+  "description": "",
+  "provider": "youtube",
+  "createdAt": "11/10/2021, 1:52:17 PM",
+  "updatedBy": "NSK Admin",
+  "youtubeThumbnail": "https://img.youtube.com/vi/bT49vqr0Tt4/maxresdefault.jpg",
+  "updatedAt": "11/10/2021, 1:57:52 PM",
+  "title": "NAKANISHI Motor Spindle HES510 R0.3 End Milling (NAK80)",
+  "slug": "nakanishi-motor-spindle-hes510-r03-end-milling-nak80",
+  "thumbnail": "",
+  "tags": [
+    {
+      "$oid": "6171cfbf5b7124dd8ec0cc66"
+    },
+    {
+      "$oid": "618b5da4ced82fc239a08467"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "618b5e306ae2ab3b68a60d86"
+  },
+  "createdAt": "11/10/2021, 1:52:34 PM",
+  "thumbnail": "",
+  "createdBy": "NSK Admin",
+  "updatedBy": "NSK Admin",
+  "tags": [
+    {
+      "$oid": "6171cfbf5b7124dd8ec0cc66"
+    },
+    {
+      "$oid": "618b5da4ced82fc239a08467"
+    }
+  ],
+  "updatedAt": "11/10/2021, 1:58:10 PM",
+  "slug": "nakanishi-air-turbine-spindle-xpeed-r02-end-milling-nak80",
+  "description": "",
+  "videoEmbedId": "https://www.youtube.com/embed/Gx2XD0mpFVE",
+  "title": "NAKANISHI Air Turbine Spindle Xpeed R0.2 End Milling (NAK80)",
+  "youtubeThumbnail": "https://img.youtube.com/vi/Gx2XD0mpFVE/maxresdefault.jpg",
+  "provider": "youtube"
+},{
+  "_id": {
+    "$oid": "618b5e4405fe58ef3f946b78"
+  },
+  "slug": "nakanishi-motor-spindle-r1-ball-end-milling-46rc",
+  "updatedBy": "NSK Admin",
+  "description": "",
+  "thumbnail": "",
+  "videoEmbedId": "https://www.youtube.com/embed/5nakjKMxMN8",
+  "youtubeThumbnail": "https://img.youtube.com/vi/5nakjKMxMN8/maxresdefault.jpg",
+  "createdBy": "NSK Admin",
+  "tags": [
+    {
+      "$oid": "6171cfbf5b7124dd8ec0cc66"
+    },
+    {
+      "$oid": "618b5da4ced82fc239a08467"
+    }
+  ],
+  "title": "NAKANISHI Motor Spindle R1 Ball End Milling (46RC)",
+  "provider": "youtube",
+  "updatedAt": "11/10/2021, 1:59:48 PM",
+  "createdAt": "11/10/2021, 1:52:55 PM"
+},{
+  "_id": {
+    "$oid": "618b5e578b6a062f8b59027f"
+  },
+  "tags": [
+    {
+      "$oid": "6171cfbf5b7124dd8ec0cc66"
+    },
+    {
+      "$oid": "618b5da4ced82fc239a08467"
+    }
+  ],
+  "videoEmbedId": "https://www.youtube.com/embed/vzkundMsGoY",
+  "youtubeThumbnail": "https://img.youtube.com/vi/vzkundMsGoY/maxresdefault.jpg",
+  "createdBy": "NSK Admin",
+  "updatedAt": "11/10/2021, 2:00:05 PM",
+  "thumbnail": "",
+  "description": "",
+  "createdAt": "11/10/2021, 1:53:17 PM",
+  "updatedBy": "NSK Admin",
+  "provider": "youtube",
+  "title": "NAKANISHI Air Spindle φ0.2 End Milling (NAK80)",
+  "slug": "nakanishi-air-spindle-02-end-milling-nak80"
+},{
+  "_id": {
+    "$oid": "618b5e6705fe58ef3f9476eb"
+  },
+  "provider": "youtube",
+  "updatedAt": "11/10/2021, 2:00:33 PM",
+  "tags": [
+    {
+      "$oid": "6171cfbf5b7124dd8ec0cc66"
+    },
+    {
+      "$oid": "618b5da4ced82fc239a08467"
+    }
+  ],
+  "createdAt": "11/10/2021, 1:53:31 PM",
+  "title": "NAKANISHI Air Spindle R0.1 Ball End Milling (NAK80)",
+  "videoEmbedId": "https://www.youtube.com/embed/O_WH1fnQOM8",
+  "youtubeThumbnail": "https://img.youtube.com/vi/O_WH1fnQOM8/maxresdefault.jpg",
+  "slug": "nakanishi-air-spindle-r01-ball-end-milling-nak80",
+  "description": "",
+  "thumbnail": "",
+  "createdBy": "NSK Admin",
+  "updatedBy": "NSK Admin"
+},{
+  "_id": {
+    "$oid": "618b5ebc18f30d6982b6b340"
+  },
+  "description": "",
+  "updatedBy": "NSK Admin",
+  "youtubeThumbnail": "https://img.youtube.com/vi/2ixJxzvi9wY/maxresdefault.jpg",
+  "updatedAt": "11/10/2021, 1:55:10 PM",
+  "thumbnail": "",
+  "videoEmbedId": "https://www.youtube.com/embed/2ixJxzvi9wY",
+  "createdAt": "11/10/2021, 1:54:56 PM",
+  "provider": "youtube",
+  "title": "NAKANISHI Motor Spindle φ3.0 Drilling (A5052)",
+  "tags": [
+    {
+      "$oid": "6171cfbf5b7124dd8ec0cc65"
+    }
+  ],
+  "createdBy": "NSK Admin",
+  "slug": "nakanishi-motor-spindle-30-drilling-a5052"
+},{
+  "_id": {
+    "$oid": "618b60178b6a062f8b59b491"
+  },
+  "thumbnail": "",
+  "description": "",
+  "createdAt": "11/10/2021, 2:00:44 PM",
+  "title": "NAKANISHI Motor Spindle E3000 Milling by Roland Machine",
+  "slug": "nakanishi-motor-spindle-e3000-milling-by-roland-machine",
+  "tags": [
+    {
+      "$oid": "6171cfbf5b7124dd8ec0cc66"
+    }
+  ],
+  "updatedBy": "NSK Admin",
+  "videoEmbedId": "https://www.youtube.com/embed/I-LzP-DZoiU",
+  "updatedAt": "11/10/2021, 2:00:57 PM",
+  "youtubeThumbnail": "https://img.youtube.com/vi/I-LzP-DZoiU/maxresdefault.jpg",
+  "createdBy": "NSK Admin",
+  "provider": "youtube"
+},{
+  "_id": {
+    "$oid": "618b602705fe58ef3f953804"
+  },
+  "updatedBy": "NSK Admin",
+  "description": "",
+  "title": "NAKANISHI Motor Spindle E3000 Milling by JANOME Robot",
+  "videoEmbedId": "https://www.youtube.com/embed/0RN5peNmTos",
+  "createdAt": "11/10/2021, 2:00:59 PM",
+  "createdBy": "NSK Admin",
+  "thumbnail": "",
+  "updatedAt": "11/10/2021, 2:01:13 PM",
+  "tags": [
+    {
+      "$oid": "6171cfbf5b7124dd8ec0cc66"
+    }
+  ],
+  "provider": "youtube",
+  "youtubeThumbnail": "https://img.youtube.com/vi/0RN5peNmTos/maxresdefault.jpg",
+  "slug": "nakanishi-motor-spindle-e3000-milling-by-janome-robot"
+},{
+  "_id": {
+    "$oid": "618b605080e3544043b307c3"
+  },
+  "thumbnail": "",
+  "provider": "youtube",
+  "youtubeThumbnail": "https://img.youtube.com/vi/INz5VWXhGR0/maxresdefault.jpg",
+  "createdAt": "11/10/2021, 2:01:20 PM",
+  "createdBy": "NSK Admin",
+  "title": "NAKANISHI Motor Spindle E3000 Milling by Roland Machine 2",
+  "slug": "nakanishi-motor-spindle-e3000-milling-by-roland-machine-2",
+  "videoEmbedId": "https://www.youtube.com/embed/INz5VWXhGR0",
+  "tags": [
+    {
+      "$oid": "6171cfbf5b7124dd8ec0cc66"
+    }
+  ],
+  "updatedAt": "11/10/2021, 2:01:53 PM",
+  "updatedBy": "NSK Admin",
+  "description": ""
+},{
+  "_id": {
+    "$oid": "618b607227e581af105a3502"
+  },
+  "provider": "youtube",
+  "description": "",
+  "tags": [
+    {
+      "$oid": "6171cfbf5b7124dd8ec0cc67"
+    }
+  ],
+  "videoEmbedId": "https://www.youtube.com/embed/3qXLTWJj8fM",
+  "title": "NAKANISHI Motor Spindle iSpeed3 Thread Milling",
+  "createdAt": "11/10/2021, 2:02:17 PM",
+  "thumbnail": "",
+  "createdBy": "NSK Admin",
+  "updatedBy": "NSK Admin",
+  "updatedAt": "11/10/2021, 2:02:28 PM",
+  "slug": "nakanishi-motor-spindle-ispeed3-thread-milling",
+  "youtubeThumbnail": "https://img.youtube.com/vi/3qXLTWJj8fM/maxresdefault.jpg"
+},{
+  "_id": {
+    "$oid": "618b60866ae2ab3b68a70470"
+  },
+  "slug": "nakanishi-e3000-deburring-corroborated-with-nachifujikoshi",
+  "description": "",
+  "updatedAt": "11/10/2021, 2:02:47 PM",
+  "thumbnail": "",
+  "createdAt": "11/10/2021, 2:02:35 PM",
+  "provider": "youtube",
+  "updatedBy": "NSK Admin",
+  "title": "Nakanishi E3000 Deburring corroborated with Nachi(Fujikoshi)",
+  "youtubeThumbnail": "https://img.youtube.com/vi/NewvsOrfqIM/maxresdefault.jpg",
+  "createdBy": "NSK Admin",
+  "videoEmbedId": "https://www.youtube.com/embed/NewvsOrfqIM",
+  "tags": [
+    {
+      "$oid": "60f0c41e776c747ae8fbfa77"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "618b60ba27e581af105a61e8"
+  },
+  "updatedBy": "NSK Admin",
+  "tags": [
+    {
+      "$oid": "60f0c41e776c747ae8fbfa77"
+    }
+  ],
+  "updatedAt": "11/10/2021, 2:03:39 PM",
+  "title": "Nakanishi E4000 Deburring corroborated with Fanuc and Xbec technology",
+  "slug": "nakanishi-e4000-deburring-corroborated-with-fanuc-and-xbec-technology",
+  "thumbnail": "",
+  "provider": "youtube",
+  "createdBy": "NSK Admin",
+  "videoEmbedId": "https://www.youtube.com/embed/00NSKH7yzCQ",
+  "youtubeThumbnail": "https://img.youtube.com/vi/00NSKH7yzCQ/maxresdefault.jpg",
+  "createdAt": "11/10/2021, 2:03:29 PM",
+  "description": ""
+},{
+  "_id": {
+    "$oid": "618b60f86ae2ab3b68a72f76"
+  },
+  "thumbnail": "",
+  "youtubeThumbnail": "https://img.youtube.com/vi/1iYg3T8yULM/maxresdefault.jpg",
+  "createdBy": "NSK Admin",
+  "provider": "youtube",
+  "updatedBy": "NSK Admin",
+  "updatedAt": "11/10/2021, 2:04:41 PM",
+  "slug": "nakanishi-motor-spindle-e4000-deburring-by-fanuc-robot",
+  "description": "",
+  "createdAt": "11/10/2021, 2:04:31 PM",
+  "title": "NAKANISHI Motor Spindle E4000 Deburring by FANUC Robot",
+  "videoEmbedId": "https://www.youtube.com/embed/1iYg3T8yULM",
+  "tags": [
+    {
+      "$oid": "60f0c41e776c747ae8fbfa77"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "618b61326ae2ab3b68a7498f"
+  },
+  "provider": "youtube",
+  "updatedBy": "NSK Admin",
+  "updatedAt": "11/10/2021, 2:05:40 PM",
+  "slug": "nakanishi-motor-spindle-deburring-by-fanuc-robot",
+  "youtubeThumbnail": "https://img.youtube.com/vi/eFyLJWndM6s/maxresdefault.jpg",
+  "title": "NAKANISHI Motor Spindle Deburring by FANUC Robot",
+  "thumbnail": "",
+  "createdBy": "NSK Admin",
+  "videoEmbedId": "https://www.youtube.com/embed/eFyLJWndM6s",
+  "tags": [
+    {
+      "$oid": "60f0c41e776c747ae8fbfa77"
+    }
+  ],
+  "description": "",
+  "createdAt": "11/10/2021, 2:05:30 PM"
+},{
+  "_id": {
+    "$oid": "618b61eb36d1d81cdb5242a9"
+  },
+  "createdBy": "NSK Admin",
+  "tags": [
+    {
+      "$oid": "60f0c41e776c747ae8fbfa77"
+    }
+  ],
+  "createdAt": "11/10/2021, 2:05:47 PM",
+  "updatedAt": "11/10/2021, 2:08:45 PM",
+  "description": "",
+  "title": "NAKANISHI Motor Spindle E4000 Deburring by FANUC Robot 2",
+  "thumbnail": "",
+  "slug": "nakanishi-motor-spindle-e4000-deburring-by-fanuc-robot-2",
+  "youtubeThumbnail": "https://img.youtube.com/vi/s30pSbXpeFI/maxresdefault.jpg",
+  "updatedBy": "NSK Admin",
+  "provider": "youtube",
+  "videoEmbedId": "https://www.youtube.com/embed/s30pSbXpeFI"
+},{
+  "_id": {
+    "$oid": "618b6224ced82fc239a26c67"
+  },
+  "title": "NAKANISHI Motor Spindle E4000 Deburring by Yaskawa Robot",
+  "description": "",
+  "youtubeThumbnail": "https://img.youtube.com/vi/xOCCVDeNUUU/maxresdefault.jpg",
+  "updatedAt": "11/10/2021, 2:09:42 PM",
+  "createdBy": "NSK Admin",
+  "createdAt": "11/10/2021, 2:09:30 PM",
+  "tags": [
+    {
+      "$oid": "60f0c41e776c747ae8fbfa77"
+    }
+  ],
+  "provider": "youtube",
+  "slug": "nakanishi-motor-spindle-e4000-deburring-by-yaskawa-robot",
+  "updatedBy": "NSK Admin",
+  "videoEmbedId": "https://www.youtube.com/embed/xOCCVDeNUUU",
+  "thumbnail": ""
+},{
+  "_id": {
+    "$oid": "618b62378b6a062f8b5a8351"
+  },
+  "title": "NAKANISHI Motor Spindle iSpeed3 by FANUC Robot",
+  "createdBy": "NSK Admin",
+  "createdAt": "11/10/2021, 2:09:49 PM",
+  "tags": [
+    {
+      "$oid": "60f0c41e776c747ae8fbfa77"
+    }
+  ],
+  "updatedBy": "NSK Admin",
+  "videoEmbedId": "https://www.youtube.com/embed/olqDfFgVGcU",
+  "description": "",
+  "slug": "nakanishi-motor-spindle-ispeed3-by-fanuc-robot",
+  "thumbnail": "",
+  "provider": "youtube",
+  "youtubeThumbnail": "https://img.youtube.com/vi/olqDfFgVGcU/maxresdefault.jpg",
+  "updatedAt": "11/10/2021, 2:10:01 PM"
+},{
+  "_id": {
+    "$oid": "618b62562151e9f89ea21beb"
+  },
+  "title": "NAKANISHI Air Turbine Spindle PLANET600 Internal Grinding (HRc52)",
+  "description": "",
+  "slug": "nakanishi-air-turbine-spindle-planet600-internal-grinding-hrc52",
+  "tags": [
+    {
+      "$oid": "60f0c41e776c747ae8fbfa78"
+    }
+  ],
+  "createdBy": "NSK Admin",
+  "createdAt": "11/10/2021, 2:10:07 PM",
+  "updatedBy": "NSK Admin",
+  "videoEmbedId": "https://www.youtube.com/embed/T8mKWNdFSms",
+  "youtubeThumbnail": "https://img.youtube.com/vi/T8mKWNdFSms/maxresdefault.jpg",
+  "updatedAt": "11/10/2021, 2:10:32 PM",
+  "thumbnail": "",
+  "provider": "youtube"
+},{
+  "_id": {
+    "$oid": "6195f977931cd17f4faf7aff"
+  },
+  "youtubeThumbnail": "https://img.youtube.com/vi/Lbv2LXwi6T0/maxresdefault.jpg",
+  "updatedBy": "NSK Admin",
+  "tags": [],
+  "videoEmbedId": "https://www.youtube.com/embed/Lbv2LXwi6T0",
+  "createdAt": "11/18/2021, 2:57:28 PM",
+  "description": "",
+  "createdBy": "NSK Admin",
+  "title": "NSK Sheenus ZERO Ultrasonic Polisher",
+  "provider": "youtube",
+  "slug": "nsk-sheenus-zero-ultrasonic-polisher",
+  "updatedAt": "11/18/2021, 2:59:06 PM",
+  "thumbnail": ""
+},{
+  "_id": {
+    "$oid": "6195f998d5afec3fbfc18e72"
+  },
+  "description": "",
+  "updatedAt": "11/18/2021, 2:59:13 PM",
+  "videoEmbedId": "https://www.youtube.com/embed/AM20txE0V8o",
+  "createdAt": "11/18/2021, 2:58:10 PM",
+  "provider": "youtube",
+  "thumbnail": "",
+  "youtubeThumbnail": "https://img.youtube.com/vi/AM20txE0V8o/maxresdefault.jpg",
+  "createdBy": "NSK Admin",
+  "title": "NSK iSpeed5 Electric Spindles",
+  "slug": "nsk-ispeed5-electric-spindles",
+  "updatedBy": "NSK Admin",
+  "tags": []
+},{
+  "_id": {
+    "$oid": "6195f9d5c638ba2ed588125e"
+  },
+  "videoEmbedId": "https://www.youtube.com/embed/VhAlkFl--wA",
+  "createdAt": "11/18/2021, 2:59:22 PM",
+  "youtubeThumbnail": "https://img.youtube.com/vi/VhAlkFl--wA/maxresdefault.jpg",
+  "updatedBy": "NSK Admin",
+  "updatedAt": "11/18/2021, 2:59:32 PM",
+  "thumbnail": "",
+  "tags": [],
+  "createdBy": "NSK Admin",
+  "provider": "youtube",
+  "description": "",
+  "title": "It's Here! The iSpeed5 Fully Automatic Tool Changeable High Speed Spindle",
+  "slug": "its-here-the-ispeed5-fully-automatic-tool-changeable-high-speed-spindle"
+},{
+  "_id": {
+    "$oid": "6195f9ed8285e37dfbe92abb"
+  },
+  "thumbnail": "",
+  "createdBy": "NSK Admin",
+  "videoEmbedId": "https://www.youtube.com/embed/C5E9p_m50e0",
+  "description": "",
+  "title": "NSK America Who We Are 2020 09 23",
+  "createdAt": "11/18/2021, 2:59:37 PM",
+  "slug": "nsk-america-who-we-are-2020-09-23",
+  "provider": "youtube",
+  "tags": [],
+  "youtubeThumbnail": "https://img.youtube.com/vi/C5E9p_m50e0/maxresdefault.jpg",
+  "updatedAt": "11/18/2021, 2:59:55 PM",
+  "updatedBy": "NSK Admin"
+},{
+  "_id": {
+    "$oid": "619600d52f40a67ef73ff1a7"
+  },
+  "updatedBy": "NSK Admin",
+  "youtubeThumbnail": "https://img.youtube.com/vi/Zl2-ApqDNLE/maxresdefault.jpg",
+  "createdAt": "11/18/2021, 3:29:02 PM",
+  "description": "",
+  "title": "iSpeed5 Electric Spindles Coming Soon",
+  "tags": [],
+  "updatedAt": "11/18/2021, 3:29:24 PM",
+  "slug": "ispeed5-electric-spindles-coming-soon",
+  "createdBy": "NSK Admin",
+  "thumbnail": "",
+  "provider": "youtube",
+  "videoEmbedId": "https://www.youtube.com/embed/Zl2-ApqDNLE"
+},{
+  "_id": {
+    "$oid": "619600e89814e8f0f56120f5"
+  },
+  "title": "NSK America Automotive 2020 08 06",
+  "createdBy": "NSK Admin",
+  "updatedBy": "NSK Admin",
+  "videoEmbedId": "https://www.youtube.com/embed/Yn9vX78JGM8",
+  "thumbnail": "",
+  "createdAt": "11/18/2021, 3:29:33 PM",
+  "youtubeThumbnail": "https://img.youtube.com/vi/Yn9vX78JGM8/maxresdefault.jpg",
+  "slug": "nsk-america-automotive-2020-08-06",
+  "updatedAt": "11/18/2021, 3:29:43 PM",
+  "tags": [],
+  "description": "",
+  "provider": "youtube"
+},{
+  "_id": {
+    "$oid": "619600fa8285e37dfbeb8efb"
+  },
+  "updatedBy": "NSK Admin",
+  "videoEmbedId": "https://www.youtube.com/embed/XP2NoJRhCGg",
+  "tags": [],
+  "slug": "nsk-america-aerospace-2020-08-06",
+  "provider": "youtube",
+  "youtubeThumbnail": "https://img.youtube.com/vi/XP2NoJRhCGg/maxresdefault.jpg",
+  "description": "",
+  "title": "NSK America Aerospace 2020 08 06",
+  "createdAt": "11/18/2021, 3:29:52 PM",
+  "thumbnail": "",
+  "createdBy": "NSK Admin",
+  "updatedAt": "11/18/2021, 3:30:01 PM"
+},{
+  "_id": {
+    "$oid": "619601159814e8f0f5612dcf"
+  },
+  "thumbnail": "",
+  "updatedAt": "11/18/2021, 3:30:28 PM",
+  "youtubeThumbnail": "https://img.youtube.com/vi/VZQN1F0rJG8/maxresdefault.jpg",
+  "createdAt": "11/18/2021, 3:30:09 PM",
+  "createdBy": "NSK Admin",
+  "provider": "youtube",
+  "updatedBy": "NSK Admin",
+  "videoEmbedId": "https://www.youtube.com/embed/VZQN1F0rJG8",
+  "title": "NSK Small Parts 2020 08 07",
+  "slug": "nsk-small-parts-2020-08-07",
+  "tags": [],
+  "description": ""
+},{
+  "_id": {
+    "$oid": "6196012be402b32e234a9baa"
+  },
+  "description": "",
+  "updatedAt": "11/18/2021, 3:31:41 PM",
+  "youtubeThumbnail": "https://img.youtube.com/vi/zBowNCfsnno/maxresdefault.jpg",
+  "tags": [],
+  "updatedBy": "NSK Admin",
+  "slug": "ispeed3-high-speed-spindle-with-tsugami-machine",
+  "thumbnail": "",
+  "createdAt": "11/18/2021, 3:30:37 PM",
+  "videoEmbedId": "https://www.youtube.com/embed/zBowNCfsnno",
+  "title": "iSpeed3 High Speed Spindle with Tsugami Machine",
+  "createdBy": "NSK Admin",
+  "provider": "youtube"
+},{
+  "_id": {
+    "$oid": "619601422f40a67ef740126d"
+  },
+  "thumbnail": "",
+  "provider": "youtube",
+  "updatedAt": "11/18/2021, 3:31:59 PM",
+  "updatedBy": "NSK Admin",
+  "createdBy": "NSK Admin",
+  "createdAt": "11/18/2021, 3:30:59 PM",
+  "tags": [],
+  "title": "iSpeed3 High Speed Spindle with Star Machine",
+  "youtubeThumbnail": "https://img.youtube.com/vi/-STJZ-UsiBY/maxresdefault.jpg",
+  "slug": "ispeed3-high-speed-spindle-with-star-machine",
+  "description": "",
+  "videoEmbedId": "https://www.youtube.com/embed/-STJZ-UsiBY"
+},{
+  "_id": {
+    "$oid": "619601e6686eea3d6f304156"
+  },
+  "youtubeThumbnail": "https://img.youtube.com/vi/QqPedpwOJyw/maxresdefault.jpg",
+  "thumbnail": "",
+  "slug": "e4000-with-fanuc-robot",
+  "createdAt": "11/18/2021, 3:33:39 PM",
+  "updatedBy": "NSK Admin",
+  "description": "",
+  "title": "E4000 with Fanuc Robot",
+  "tags": [],
+  "provider": "youtube",
+  "updatedAt": "11/18/2021, 3:33:58 PM",
+  "videoEmbedId": "https://www.youtube.com/embed/QqPedpwOJyw",
+  "createdBy": "NSK Admin"
+},{
+  "_id": {
+    "$oid": "619601fc8285e37dfbebdd79"
+  },
+  "provider": "youtube",
+  "thumbnail": "",
+  "tags": [],
+  "youtubeThumbnail": "https://img.youtube.com/vi/sO6sbmZ8TC4/maxresdefault.jpg",
+  "videoEmbedId": "https://www.youtube.com/embed/sO6sbmZ8TC4",
+  "description": "",
+  "title": "E3000 with Fanuc Robot",
+  "createdAt": "11/18/2021, 3:34:09 PM",
+  "slug": "e3000-with-fanuc-robot",
+  "createdBy": "NSK Admin",
+  "updatedAt": "11/18/2021, 3:34:20 PM",
+  "updatedBy": "NSK Admin"
+},{
+  "_id": {
+    "$oid": "61960215e402b32e234ae120"
+  },
+  "title": "NSK iSpeed 860x480",
+  "updatedBy": "NSK Admin",
+  "thumbnail": "",
+  "tags": [],
+  "createdAt": "11/18/2021, 3:34:28 PM",
+  "videoEmbedId": "https://www.youtube.com/embed/vZ99cjTkcvY",
+  "createdBy": "NSK Admin",
+  "slug": "nsk-ispeed-860x480",
+  "provider": "youtube",
+  "description": "",
+  "updatedAt": "11/18/2021, 3:34:45 PM",
+  "youtubeThumbnail": "https://img.youtube.com/vi/vZ99cjTkcvY/maxresdefault.jpg"
+},{
+  "_id": {
+    "$oid": "61960230686eea3d6f3058c7"
+  },
+  "videoEmbedId": "https://www.youtube.com/embed/vw_Te2C6HEw",
+  "createdBy": "NSK Admin",
+  "title": "Nakanishi High Speed Spindles - Roughing, Semi Finishing and Finishing",
+  "slug": "nakanishi-high-speed-spindles---roughing-semi-finishing-and-finishing",
+  "createdAt": "11/18/2021, 3:34:54 PM",
+  "youtubeThumbnail": "https://img.youtube.com/vi/vw_Te2C6HEw/maxresdefault.jpg",
+  "updatedAt": "11/18/2021, 3:35:11 PM",
+  "updatedBy": "NSK Admin",
+  "description": "",
+  "provider": "youtube",
+  "tags": [],
+  "thumbnail": ""
+},{
+  "_id": {
+    "$oid": "61960241e402b32e234aed2e"
+  },
+  "createdBy": "NSK Admin",
+  "slug": "nakanishi-hps-500-spindle-semi-finishing",
+  "provider": "youtube",
+  "description": "",
+  "tags": [],
+  "videoEmbedId": "https://www.youtube.com/embed/vvkkaMj7xZU",
+  "updatedBy": "NSK Admin",
+  "title": "Nakanishi HPS-500 Spindle Semi Finishing",
+  "thumbnail": "",
+  "updatedAt": "11/18/2021, 3:35:29 PM",
+  "createdAt": "11/18/2021, 3:35:19 PM",
+  "youtubeThumbnail": "https://img.youtube.com/vi/vvkkaMj7xZU/maxresdefault.jpg"
+},{
+  "_id": {
+    "$oid": "61960265e402b32e234af6e7"
+  },
+  "provider": "youtube",
+  "youtubeThumbnail": "https://img.youtube.com/vi/tgiB3KqZvZk/maxresdefault.jpg",
+  "videoEmbedId": "https://www.youtube.com/embed/tgiB3KqZvZk",
+  "updatedBy": "NSK Admin",
+  "title": "Nakanishi HPS-250 Engraving Application",
+  "createdBy": "NSK Admin",
+  "updatedAt": "11/18/2021, 3:36:04 PM",
+  "thumbnail": "",
+  "slug": "nakanishi-hps-250-engraving-application",
+  "description": "",
+  "createdAt": "11/18/2021, 3:35:53 PM",
+  "tags": []
+},{
+  "_id": {
+    "$oid": "61960276e402b32e234afd37"
+  },
+  "updatedAt": "11/18/2021, 3:36:20 PM",
+  "thumbnail": "",
+  "slug": "nakanishi-high-speed-spindles-with-futureswiss-rotary-coupling",
+  "updatedBy": "NSK Admin",
+  "title": "Nakanishi High Speed Spindles with FutureSwiss Rotary Coupling",
+  "youtubeThumbnail": "https://img.youtube.com/vi/KGmIZFm-BAo/maxresdefault.jpg",
+  "tags": [],
+  "createdAt": "11/18/2021, 3:36:12 PM",
+  "videoEmbedId": "https://www.youtube.com/embed/KGmIZFm-BAo",
+  "createdBy": "NSK Admin",
+  "description": "",
+  "provider": "youtube"
+},{
+  "_id": {
+    "$oid": "61960289931cd17f4fb27c84"
+  },
+  "updatedAt": "11/18/2021, 3:36:40 PM",
+  "updatedBy": "NSK Admin",
+  "videoEmbedId": "https://www.youtube.com/embed/fPGs15yXP8A",
+  "createdAt": "11/18/2021, 3:36:29 PM",
+  "description": "",
+  "youtubeThumbnail": "https://img.youtube.com/vi/fPGs15yXP8A/maxresdefault.jpg",
+  "title": "Nakanishi iSpeed3 High Speed Spindle",
+  "provider": "youtube",
+  "tags": [],
+  "createdBy": "NSK Admin",
+  "slug": "nakanishi-ispeed3-high-speed-spindle",
+  "thumbnail": ""
+},{
+  "_id": {
+    "$oid": "6196029d686eea3d6f307d14"
+  },
+  "youtubeThumbnail": "https://img.youtube.com/vi/tm_VzEKYMow/maxresdefault.jpg",
+  "videoEmbedId": "https://www.youtube.com/embed/tm_VzEKYMow",
+  "updatedBy": "NSK Admin",
+  "slug": "nakanishi-hts1501s-spindle-deep-milling",
+  "tags": [],
+  "createdAt": "11/18/2021, 3:36:43 PM",
+  "provider": "youtube",
+  "thumbnail": "",
+  "updatedAt": "11/18/2021, 3:37:00 PM",
+  "createdBy": "NSK Admin",
+  "description": "",
+  "title": "Nakanishi HTS1501S Spindle Deep Milling"
+},{
+  "_id": {
+    "$oid": "619602b0e402b32e234b0e6d"
+  },
+  "title": "Nakanishi Emax Evolution Hand Grinder with BMH300",
+  "description": "",
+  "updatedAt": "11/18/2021, 3:37:19 PM",
+  "youtubeThumbnail": "https://img.youtube.com/vi/XtpgGGnuRyQ/maxresdefault.jpg",
+  "createdAt": "11/18/2021, 3:37:09 PM",
+  "videoEmbedId": "https://www.youtube.com/embed/XtpgGGnuRyQ",
+  "createdBy": "NSK Admin",
+  "slug": "nakanishi-emax-evolution-hand-grinder-with-bmh300",
+  "updatedBy": "NSK Admin",
+  "thumbnail": "",
+  "provider": "youtube",
+  "tags": []
+},{
+  "_id": {
+    "$oid": "619602d38d2aff23f167b02d"
+  },
+  "tags": [],
+  "createdBy": "NSK Admin",
+  "videoEmbedId": "https://www.youtube.com/embed/gw0mTWA1ZsY",
+  "youtubeThumbnail": "https://img.youtube.com/vi/gw0mTWA1ZsY/maxresdefault.jpg",
+  "slug": "nakanishi-sheenus-neo-ultrasonic-polisher",
+  "provider": "youtube",
+  "updatedBy": "NSK Admin",
+  "description": "",
+  "title": "Nakanishi Sheenus Neo Ultrasonic Polisher",
+  "createdAt": "11/18/2021, 3:37:45 PM",
+  "updatedAt": "11/18/2021, 3:37:55 PM",
+  "thumbnail": ""
+},{
+  "_id": {
+    "$oid": "619602e4298dd9e359563c63"
+  },
+  "description": "",
+  "slug": "nakanishi-hes510-milling-finishing",
+  "createdAt": "11/18/2021, 3:38:03 PM",
+  "updatedBy": "NSK Admin",
+  "createdBy": "NSK Admin",
+  "youtubeThumbnail": "https://img.youtube.com/vi/G16uQc5Tnj4/maxresdefault.jpg",
+  "title": "Nakanishi HES510 Milling, Finishing",
+  "provider": "youtube",
+  "videoEmbedId": "https://www.youtube.com/embed/G16uQc5Tnj4",
+  "tags": [],
+  "thumbnail": "",
+  "updatedAt": "11/18/2021, 3:38:12 PM"
+},{
+  "_id": {
+    "$oid": "619602f8686eea3d6f309a22"
+  },
+  "createdBy": "NSK Admin",
+  "title": "Nakanishi Emax Evolution IH-300",
+  "description": "",
+  "createdAt": "11/18/2021, 3:38:15 PM",
+  "updatedAt": "11/18/2021, 3:38:31 PM",
+  "updatedBy": "NSK Admin",
+  "thumbnail": "",
+  "slug": "nakanishi-emax-evolution-ih-300",
+  "tags": [],
+  "provider": "youtube",
+  "youtubeThumbnail": "https://img.youtube.com/vi/yrTBXxwOLUo/maxresdefault.jpg",
+  "videoEmbedId": "https://www.youtube.com/embed/yrTBXxwOLUo"
+},{
+  "_id": {
+    "$oid": "6196030b686eea3d6f30a290"
+  },
+  "createdBy": "NSK Admin",
+  "updatedBy": "NSK Admin",
+  "description": "",
+  "slug": "nakanishi-impulse-air-grinder-nsp-601",
+  "provider": "youtube",
+  "youtubeThumbnail": "https://img.youtube.com/vi/nJnn4lI8gn8/maxresdefault.jpg",
+  "updatedAt": "11/18/2021, 3:38:50 PM",
+  "videoEmbedId": "https://www.youtube.com/embed/nJnn4lI8gn8",
+  "thumbnail": "",
+  "title": "Nakanishi Impulse Air Grinder NSP 601",
+  "createdAt": "11/18/2021, 3:38:40 PM",
+  "tags": []
+},{
+  "_id": {
+    "$oid": "6196031d686eea3d6f30a86a"
+  },
+  "createdBy": "NSK Admin",
+  "provider": "youtube",
+  "tags": [],
+  "updatedAt": "11/18/2021, 3:39:08 PM",
+  "createdAt": "11/18/2021, 3:38:53 PM",
+  "youtubeThumbnail": "https://img.youtube.com/vi/Pk3inzBjDVw/maxresdefault.jpg",
+  "videoEmbedId": "https://www.youtube.com/embed/Pk3inzBjDVw",
+  "thumbnail": "",
+  "updatedBy": "NSK Admin",
+  "description": "",
+  "title": "Nakanishi E3000 High Speed Spindle Rough Milling",
+  "slug": "nakanishi-e3000-high-speed-spindle-rough-milling"
+},{
+  "_id": {
+    "$oid": "6196032ee402b32e234b3869"
+  },
+  "tags": [],
+  "createdBy": "NSK Admin",
+  "provider": "youtube",
+  "updatedBy": "NSK Admin",
+  "description": "",
+  "updatedAt": "11/18/2021, 3:39:26 PM",
+  "thumbnail": "",
+  "youtubeThumbnail": "https://img.youtube.com/vi/8If9iMBabVY/maxresdefault.jpg",
+  "createdAt": "11/18/2021, 3:39:16 PM",
+  "title": "Nakanishi Emax Evolution with Luster NLS-110 Profiler",
+  "slug": "nakanishi-emax-evolution-with-luster-nls-110-profiler",
+  "videoEmbedId": "https://www.youtube.com/embed/8If9iMBabVY"
+},{
+  "_id": {
+    "$oid": "619603409814e8f0f561e19c"
+  },
+  "updatedAt": "11/18/2021, 3:39:44 PM",
+  "youtubeThumbnail": "https://img.youtube.com/vi/K3xLBVPF8qE/maxresdefault.jpg",
+  "provider": "youtube",
+  "videoEmbedId": "https://www.youtube.com/embed/K3xLBVPF8qE",
+  "updatedBy": "NSK Admin",
+  "thumbnail": "",
+  "title": "Nakanishi Impulse Air Grinder NA90-230",
+  "slug": "nakanishi-impulse-air-grinder-na90-230",
+  "tags": [],
+  "createdAt": "11/18/2021, 3:39:35 PM",
+  "description": "",
+  "createdBy": "NSK Admin"
+},{
+  "_id": {
+    "$oid": "61a7a6e2a81bb0ac8cac4ef3"
+  },
+  "youtubeThumbnail": "https://img.youtube.com/vi/sWwNi5y0qks/0.jpg",
+  "updatedBy": "NSK Admin",
+  "videoEmbedId": "https://www.youtube.com/embed/sWwNi5y0qks",
+  "createdBy": "NSK Admin",
+  "title": "Test for thumbnail",
+  "tags": [],
+  "createdAt": "12/2/2021, 12:46:00 AM",
+  "updatedAt": "12/2/2021, 12:46:24 AM",
+  "provider": "youtube",
+  "thumbnail": "",
+  "slug": "test-for-thumbnail",
+  "description": ""
+}]
